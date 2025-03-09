@@ -1,0 +1,30 @@
+{
+  "WT": {
+    "name": "Wilms' Tumor",
+    "sample_count": 789,
+    "recommendations": {
+      "Mutation-Based": [
+        "WT1",
+        "WTX",
+        "CTNNB1",
+        "TP53",
+        "DROSHA",
+        "DGCR8",
+        "SIX1",
+        "SIX2",
+        "MYCN"
+      ],
+      "Expression-Based": [
+        "WT1",
+        "WNT4",
+        "NCAM",
+        "NEFH"
+      ],
+      "Pathways": [
+        "Wnt/\u03b2-catenin signaling pathway",
+        "miRNA processing pathway",
+        "TP53 pathway"
+      ]
+    }
+  }
+}

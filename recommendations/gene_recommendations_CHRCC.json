@@ -1,0 +1,22 @@
+{
+  "CHRCC": {
+    "name": "Chromophobe Renal Cell Carcinoma",
+    "sample_count": 310,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "BAP1"
+      ],
+      "Expression-Based": [
+        "KRT7",
+        "KRT19",
+        "CD82"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

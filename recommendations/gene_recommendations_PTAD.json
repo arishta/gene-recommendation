@@ -1,0 +1,31 @@
+{
+  "PTAD": {
+    "name": "Pituitary Adenoma",
+    "sample_count": 104,
+    "recommendations": {
+      "Mutation-Based": [
+        "USP8",
+        "GNAS",
+        "TP53",
+        "MEN1",
+        "PRKAR1A",
+        "AIP",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "POMC",
+        "GH",
+        "PRL",
+        "ACTH",
+        "TSH",
+        "FSH",
+        "LH"
+      ],
+      "Pathways": [
+        "cAMP signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

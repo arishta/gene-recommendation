@@ -1,0 +1,29 @@
+{
+  "STOMACH": {
+    "name": "Esophagus/Stomach",
+    "sample_count": 1389,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDH1",
+        "KRAS",
+        "PIK3CA",
+        "SMAD4",
+        "ARID1A",
+        "ERBB2"
+      ],
+      "Expression-Based": [
+        "HER2",
+        "PD-L1",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "Cell cycle",
+        "PI3K-Akt signaling pathway",
+        "ERBB signaling pathway",
+        "VEGF signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

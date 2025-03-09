@@ -1,0 +1,26 @@
+{
+  "MNG": {
+    "name": "Meningioma",
+    "sample_count": 121,
+    "recommendations": {
+      "Mutation-Based": [
+        "NF2",
+        "TRAF7",
+        "KLF4",
+        "AKT1",
+        "SMARCB1",
+        "SMARCE1"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "PDGFRA",
+        "EGFR"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT pathway",
+        "Hippo pathway"
+      ]
+    }
+  }
+}

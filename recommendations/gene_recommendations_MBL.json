@@ -1,0 +1,26 @@
+{
+  "MBL": {
+    "name": "Medulloblastoma",
+    "sample_count": 791,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTCH1",
+        "SMO",
+        "CTNNB1",
+        "MYC",
+        "MYCN"
+      ],
+      "Expression-Based": [
+        "WNT",
+        "SHH",
+        "Group 3",
+        "Group 4"
+      ],
+      "Pathways": [
+        "Sonic Hedgehog pathway",
+        "WNT pathway"
+      ]
+    }
+  }
+}

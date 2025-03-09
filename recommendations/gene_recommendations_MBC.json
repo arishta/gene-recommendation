@@ -1,0 +1,22 @@
+{
+  "MBC": {
+    "name": "Metaplastic Breast Cancer",
+    "sample_count": 19,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "NHL": {
+    "name": "Non-Hodgkin Lymphoma",
+    "sample_count": 110,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCL2",
+        "BCL6",
+        "MYC",
+        "TP53",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "CD20",
+        "CD5",
+        "CD10",
+        "CD23",
+        "BCL6"
+      ],
+      "Pathways": [
+        "B-cell receptor signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "JAK-STAT signaling pathway"
+      ]
+    }
+  }
+}

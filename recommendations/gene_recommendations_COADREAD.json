@@ -1,0 +1,31 @@
+{
+  "COADREAD": {
+    "name": "Colorectal Adenocarcinoma",
+    "sample_count": 4625,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "TP53",
+        "KRAS",
+        "PIK3CA",
+        "BRAF",
+        "SMAD4",
+        "FBXW7"
+      ],
+      "Expression-Based": [
+        "MSH2",
+        "MLH1",
+        "MSH6",
+        "PMS2",
+        "EPCAM"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K/Akt signaling pathway",
+        "MAPK signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "OS": {
+    "name": "Osteosarcoma",
+    "sample_count": 159,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "RB1",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ALK",
+        "MET",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "Cell cycle",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  }
+}

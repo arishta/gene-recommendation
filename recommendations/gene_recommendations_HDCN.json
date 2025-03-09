@@ -1,0 +1,25 @@
+{
+  "HDCN": {
+    "name": "Histiocytic and Dendritic Cell Neoplasms",
+    "sample_count": 52,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "MAP2K1",
+        "NRAS",
+        "KRAS",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "CD1a",
+        "CD21",
+        "CD23",
+        "S100"
+      ],
+      "Pathways": [
+        "RAS-RAF-MEK-ERK pathway",
+        "PI3K-AKT pathway"
+      ]
+    }
+  }
+}

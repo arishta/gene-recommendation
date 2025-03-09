@@ -1,0 +1,27 @@
+{
+  "ACC": {
+    "name": "Adrenocortical Carcinoma",
+    "sample_count": 276,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CTNNB1",
+        "ZFHX3",
+        "CDKN2A",
+        "RB1"
+      ],
+      "Expression-Based": [
+        "IGF2",
+        "SF1",
+        "DLK1",
+        "CYP11B1",
+        "CYP11B2"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

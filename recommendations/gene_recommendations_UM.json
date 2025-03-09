@@ -1,0 +1,22 @@
+{
+  "UM": {
+    "name": "Uveal Melanoma",
+    "sample_count": 268,
+    "recommendations": {
+      "Mutation-Based": [
+        "GNAQ",
+        "GNA11",
+        "BAP1",
+        "SF3B1",
+        "EIF1AX"
+      ],
+      "Expression-Based": [
+        "PRAME"
+      ],
+      "Pathways": [
+        "MAPK pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  }
+}

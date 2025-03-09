@@ -1,0 +1,32 @@
+{
+  "EGC": {
+    "name": "Esophagogastric Adenocarcinoma",
+    "sample_count": 1347,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDH1",
+        "KRAS",
+        "PIK3CA",
+        "ERBB2",
+        "SMAD4",
+        "ARID1A"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "VEGFA",
+        "EGFR",
+        "MET",
+        "FGFR2"
+      ],
+      "Pathways": [
+        "RTK-RAS",
+        "PI3K-AKT",
+        "TP53",
+        "Cell Cycle",
+        "WNT",
+        "TGF-beta signaling"
+      ]
+    }
+  }
+}

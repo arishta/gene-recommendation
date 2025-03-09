@@ -1,0 +1,12 @@
+{
+  "STMYEC": {
+    "name": "Soft Tissue Myoepithelial Carcinoma",
+    "sample_count": 12,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Soft Tissue Myoepithelial Carcinoma (STMYEC) is a rare type of cancer, and as such, there is limited data on the specific genes and pathways involved. However, based on the available literature, the following genes and pathways have been implicated:\n\n{\n    \"mutation_based\": [\"EWSR1\", \"PLAG1\", \"TP53\"],\n    \"expression_based\": [],\n    \"pathways\": [\"p53 signaling pathway\"]\n}\n\nExplanation:\n\n1. EWSR1: EWSR1 gene rearrangements are commonly found in soft tissue myoepithelial carcinomas. The EWSR1-PLAG1 fusion is the most common.\n\n2. PLAG1: PLAG1 gene is often involved in the EWSR1-PLAG1 fusion in myoepithelial carcinomas.\n\n3. TP53: TP53 mutations are common in many types of cancer, including soft tissue myoepithelial carcinomas.\n\n4. p53 signaling pathway: The p53 signaling pathway is often disrupted in cancers with TP53 mutations, including soft tissue myoepithelial carcinomas.\n\nPlease note that due to the rarity of this cancer type, more research is needed to fully understand the genetic landscape and molecular subtypes of soft tissue myoepithelial carcinoma.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

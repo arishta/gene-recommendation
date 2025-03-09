@@ -1,0 +1,24 @@
+{
+  "BCC": {
+    "name": "Basal Cell Carcinoma",
+    "sample_count": 293,
+    "recommendations": {
+      "Mutation-Based": [
+        "PTCH1",
+        "TP53",
+        "SMO",
+        "SUFU",
+        "MYCN"
+      ],
+      "Expression-Based": [
+        "GLI1",
+        "HHIP",
+        "PTCH2"
+      ],
+      "Pathways": [
+        "Hedgehog signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

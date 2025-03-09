@@ -1,0 +1,26 @@
+{
+  "LGSOC": {
+    "name": "Low-Grade Serous Ovarian Cancer",
+    "sample_count": 119,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "BRAF",
+        "ERBB2",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "FOXM1",
+        "E2F1",
+        "CCNE1"
+      ],
+      "Pathways": [
+        "RAS-MAPK pathway",
+        "PI3K-AKT pathway",
+        "ERBB signalling pathway"
+      ]
+    }
+  }
+}

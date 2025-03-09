@@ -1,0 +1,27 @@
+{
+  "PRCC": {
+    "name": "Papillary Renal Cell Carcinoma",
+    "sample_count": 868,
+    "recommendations": {
+      "Mutation-Based": [
+        "MET",
+        "FH",
+        "NF2",
+        "SETD2",
+        "KDM6A",
+        "SMARCB1"
+      ],
+      "Expression-Based": [
+        "CCND1",
+        "CDKN2A",
+        "EGFR",
+        "ERBB2"
+      ],
+      "Pathways": [
+        "mTOR signaling pathway",
+        "Hippo signaling pathway",
+        "Ras signaling pathway"
+      ]
+    }
+  }
+}

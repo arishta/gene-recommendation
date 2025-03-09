@@ -1,0 +1,29 @@
+{
+  "LUSC": {
+    "name": "Lung Squamous Cell Carcinoma",
+    "sample_count": 1849,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PTEN",
+        "PIK3CA",
+        "KEAP1",
+        "NFE2L2",
+        "NOTCH1"
+      ],
+      "Expression-Based": [
+        "SOX2",
+        "TP63",
+        "KRT5",
+        "CCND1",
+        "FGFR1"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "KEAP1/NRF2 pathway",
+        "Notch signaling pathway"
+      ]
+    }
+  }
+}

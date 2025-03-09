@@ -1,0 +1,26 @@
+{
+  "SCLC": {
+    "name": "Small Cell Lung Cancer",
+    "sample_count": 249,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "RB1",
+        "MYC",
+        "SLIT2",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ASCL1",
+        "NEUROD1",
+        "POU2F3",
+        "YAP1"
+      ],
+      "Pathways": [
+        "Notch signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "THYROID": {
+    "name": "Thyroid",
+    "sample_count": 307,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "RAS",
+        "RET",
+        "PTC",
+        "PPAR\u03b3",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "TERT",
+        "NIS",
+        "TPO",
+        "TG",
+        "TSHR"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "RET signaling pathway"
+      ]
+    }
+  }
+}

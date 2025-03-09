@@ -1,0 +1,25 @@
+{
+  "NST": {
+    "name": "Nerve Sheath Tumor",
+    "sample_count": 134,
+    "recommendations": {
+      "Mutation-Based": [
+        "NF1",
+        "TP53",
+        "CDKN2A",
+        "BRAF",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "S100",
+        "SOX10",
+        "GFAP"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

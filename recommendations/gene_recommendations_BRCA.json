@@ -1,0 +1,32 @@
+{
+  "BRCA": {
+    "name": "Invasive Breast Carcinoma",
+    "sample_count": 13420,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "BRCA1",
+        "BRCA2",
+        "PTEN",
+        "AKT1",
+        "CDH1",
+        "GATA3"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "ESR1",
+        "PGR",
+        "MKI67",
+        "FOXA1",
+        "BCL2"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "ERBB signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

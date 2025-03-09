@@ -1,0 +1,28 @@
+{
+  "GBM": {
+    "name": "Glioblastoma Multiforme",
+    "sample_count": 2851,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "EGFR",
+        "PTEN",
+        "NF1",
+        "IDH1",
+        "RB1"
+      ],
+      "Expression-Based": [
+        "MGMT",
+        "GFAP",
+        "OLIG2",
+        "SOX2",
+        "Nestin"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 pathway",
+        "RB pathway"
+      ]
+    }
+  }
+}

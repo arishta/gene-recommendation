@@ -1,0 +1,12 @@
+{
+  "ACYC": {
+    "name": "Adenoid Cystic Carcinoma",
+    "sample_count": 1298,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Adenoid Cystic Carcinoma (ACC) is a rare form of cancer that primarily affects the salivary glands. The most commonly mutated gene in ACC is MYB, which is involved in cell cycle regulation and differentiation. The MYB-NFIB fusion gene, resulting from a t(6;9)(q22-23;p23-24) translocation, is also frequently observed in ACC. Other genes that are less commonly mutated but still relevant include NOTCH1, BRAF, and TP53.\n\nIn terms of molecular subtyping, MYB and MYBL1 are the most commonly used markers. MYB expression is associated with the classic and cribriform subtypes of ACC, while MYBL1 expression is associated with the tubular subtype.\n\nFor prognosis, the presence of the MYB-NFIB fusion gene is associated with a worse prognosis. High expression of MYB or MYBL1 is also associated with a worse prognosis.\n\nIn terms of treatment decisions, there are currently no targeted therapies for ACC. However, clinical trials are investigating the use of drugs targeting the MYB pathway, such as BET inhibitors.\n\nHere is the requested JSON object:\n\n{\n    \"mutation_based\": [\"MYB\", \"MYBL1\", \"NOTCH1\", \"BRAF\", \"TP53\"],\n    \"expression_based\": [\"MYB\", \"MYBL1\"],\n    \"pathways\": [\"MYB pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "READ": {
+    "name": "Rectal Adenocarcinoma",
+    "sample_count": 219,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "TP53",
+        "KRAS",
+        "PIK3CA",
+        "BRAF",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDH1",
+        "MUC2"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "EGFR signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  }
+}

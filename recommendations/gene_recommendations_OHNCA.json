@@ -1,0 +1,29 @@
+{
+  "OHNCA": {
+    "name": "Head and Neck Carcinoma, Other",
+    "sample_count": 150,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "NOTCH1",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "EGFR",
+        "VIM",
+        "CD44",
+        "MET",
+        "ALDH1"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Notch signaling pathway",
+        "EGFR tyrosine kinase inhibitor resistance",
+        "Epithelial-mesenchymal transition"
+      ]
+    }
+  }
+}

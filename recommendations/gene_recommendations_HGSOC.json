@@ -1,0 +1,25 @@
+{
+  "HGSOC": {
+    "name": "High-Grade Serous Ovarian Cancer",
+    "sample_count": 2338,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "BRCA1",
+        "BRCA2",
+        "NF1",
+        "CDK12"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "FOXM1",
+        "CCNE1"
+      ],
+      "Pathways": [
+        "Homologous recombination",
+        "Cell cycle",
+        "PI3K/AKT/mTOR signaling"
+      ]
+    }
+  }
+}

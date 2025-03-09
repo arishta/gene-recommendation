@@ -1,0 +1,20 @@
+{
+  "RBL": {
+    "name": "Retinoblastoma",
+    "sample_count": 97,
+    "recommendations": {
+      "Mutation-Based": [
+        "RB1"
+      ],
+      "Expression-Based": [
+        "MYCN",
+        "MDM2",
+        "MDM4",
+        "E2F3"
+      ],
+      "Pathways": [
+        "RB/E2F pathway"
+      ]
+    }
+  }
+}

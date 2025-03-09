@@ -1,0 +1,32 @@
+{
+  "HCCIHCH": {
+    "name": "Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma",
+    "sample_count": 173,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CTNNB1",
+        "AXIN1",
+        "ARID1A",
+        "ARID2",
+        "PIK3CA",
+        "KRAS",
+        "BRAF",
+        "IDH1",
+        "IDH2"
+      ],
+      "Expression-Based": [
+        "AFP",
+        "GPC3",
+        "HSP70",
+        "GLUT1"
+      ],
+      "Pathways": [
+        "Wnt/\u03b2-catenin signaling pathway",
+        "PI3K/Akt/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "p53 pathway"
+      ]
+    }
+  }
+}

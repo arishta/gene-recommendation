@@ -1,0 +1,19 @@
+{
+  "ACBC": {
+    "name": "Adenoid Cystic Breast Cancer",
+    "sample_count": 12,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYB-NFIB fusion",
+        "NOTCH1"
+      ],
+      "Expression-Based": [
+        "MYB",
+        "NFIB"
+      ],
+      "Pathways": [
+        "MYB pathway"
+      ]
+    }
+  }
+}

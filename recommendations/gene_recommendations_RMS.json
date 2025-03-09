@@ -1,0 +1,28 @@
+{
+  "RMS": {
+    "name": "Rhabdomyosarcoma",
+    "sample_count": 109,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "RAS",
+        "FGFR4",
+        "PIK3CA",
+        "PTEN",
+        "BCOR",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "PAX3",
+        "PAX7",
+        "FOXO1",
+        "MYOD1"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT/mTOR pathway",
+        "p53 pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "CERVIX": {
+    "name": "Cervix",
+    "sample_count": 177,
+    "recommendations": {
+      "Mutation-Based": [
+        "PIK3CA",
+        "KRAS",
+        "PTEN",
+        "TP53",
+        "STK11"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDKN2A",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "Ras signaling pathway",
+        "Cell cycle",
+        "VEGF signaling pathway"
+      ]
+    }
+  }
+}

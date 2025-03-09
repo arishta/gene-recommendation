@@ -1,0 +1,25 @@
+{
+  "GBC": {
+    "name": "Gallbladder Cancer",
+    "sample_count": 379,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "ERBB2",
+        "PIK3CA",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "HER2",
+        "EGFR",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "Ras signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "NBL": {
+    "name": "Neuroblastoma",
+    "sample_count": 2001,
+    "recommendations": {
+      "Mutation-Based": [
+        "ALK",
+        "MYCN",
+        "PHOX2B",
+        "ATRX",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "NTRK1",
+        "BDNF",
+        "PHOX2B",
+        "TH",
+        "DBH",
+        "DCX",
+        "DACH1",
+        "FYN",
+        "GABRB3",
+        "ISL1",
+        "KIF1A",
+        "PHOX2A",
+        "PTPN6",
+        "TFAP2B",
+        "TLX3"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

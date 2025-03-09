@@ -1,0 +1,29 @@
+{
+  "PRAD": {
+    "name": "Prostate Adenocarcinoma",
+    "sample_count": 10876,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "BRCA2",
+        "BRCA1",
+        "ATM",
+        "SPOP",
+        "FOXA1"
+      ],
+      "Expression-Based": [
+        "ERG",
+        "ETV1",
+        "ETV4",
+        "ETV5",
+        "SPINK1"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "Androgen Receptor signaling pathway",
+        "DNA Damage Response pathway"
+      ]
+    }
+  }
+}

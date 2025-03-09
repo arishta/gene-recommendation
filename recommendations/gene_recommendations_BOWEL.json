@@ -1,0 +1,30 @@
+{
+  "BOWEL": {
+    "name": "Bowel",
+    "sample_count": 2557,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "TP53",
+        "KRAS",
+        "BRAF",
+        "PIK3CA",
+        "SMAD4",
+        "FBXW7"
+      ],
+      "Expression-Based": [
+        "MSH2",
+        "MLH1",
+        "MSH6",
+        "PMS2",
+        "EPCAM"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  }
+}

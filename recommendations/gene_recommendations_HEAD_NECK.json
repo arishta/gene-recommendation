@@ -1,0 +1,32 @@
+{
+  "HEAD_NECK": {
+    "name": "Head and Neck",
+    "sample_count": 151,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "NOTCH1",
+        "EGFR",
+        "HRAS",
+        "KRAS",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "HPV E6/E7",
+        "EGFR",
+        "HER2",
+        "MET",
+        "VEGF"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Ras signaling pathway",
+        "Notch signaling pathway",
+        "EGFR tyrosine kinase inhibitor resistance"
+      ]
+    }
+  }
+}

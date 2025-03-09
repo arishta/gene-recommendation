@@ -1,0 +1,34 @@
+{
+  "BRAIN": {
+    "name": "CNS/Brain",
+    "sample_count": 292,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "TP53",
+        "EGFR",
+        "PTEN",
+        "BRAF",
+        "NF1",
+        "CDKN2A",
+        "ATRX",
+        "H3F3A",
+        "PIK3CA",
+        "TERT"
+      ],
+      "Expression-Based": [
+        "MGMT",
+        "1p/19q",
+        "EGFR",
+        "PDGFRA",
+        "NF1"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 pathway",
+        "RB pathway"
+      ]
+    }
+  }
+}

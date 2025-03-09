@@ -1,0 +1,27 @@
+{
+  "NCCRCC": {
+    "name": "Renal Non-Clear Cell Carcinoma",
+    "sample_count": 146,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "MET",
+        "FH",
+        "FLCN",
+        "TP53",
+        "TSC1",
+        "TSC2"
+      ],
+      "Expression-Based": [
+        "CA9",
+        "CD70",
+        "KRT7"
+      ],
+      "Pathways": [
+        "HIF-1 signaling pathway",
+        "mTOR signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "LYMPH": {
+    "name": "Lymphoid",
+    "sample_count": 34,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCL2",
+        "BCL6",
+        "MYC",
+        "TP53",
+        "NOTCH1",
+        "IGH",
+        "TET2",
+        "IDH2",
+        "DNMT3A",
+        "JAK2",
+        "CALR",
+        "MPL"
+      ],
+      "Expression-Based": [
+        "CD20",
+        "CD3",
+        "CD5",
+        "CD10",
+        "CD23",
+        "CD30",
+        "CD45",
+        "BCL2",
+        "Ki-67"
+      ],
+      "Pathways": [
+        "BCR signaling pathway",
+        "JAK-STAT signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "NF-kappa B signaling pathway",
+        "Notch signaling pathway"
+      ]
+    }
+  }
+}

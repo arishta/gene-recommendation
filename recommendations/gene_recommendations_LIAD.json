@@ -1,0 +1,26 @@
+{
+  "LIAD": {
+    "name": "Hepatocellular Adenoma",
+    "sample_count": 46,
+    "recommendations": {
+      "Mutation-Based": [
+        "HNF1A",
+        "CTNNB1",
+        "IL6ST",
+        "GPC3",
+        "GLUL",
+        "ARG1"
+      ],
+      "Expression-Based": [
+        "L-FABP",
+        "GS",
+        "GLUL",
+        "ARG1"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "JAK/STAT signaling pathway"
+      ]
+    }
+  }
+}

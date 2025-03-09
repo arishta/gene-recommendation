@@ -1,0 +1,35 @@
+{
+  "MDS": {
+    "name": "Myelodysplastic Syndromes",
+    "sample_count": 7583,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "TET2",
+        "ASXL1",
+        "RUNX1",
+        "SF3B1",
+        "SRSF2",
+        "U2AF1",
+        "ZRSR2",
+        "DNMT3A",
+        "NPM1",
+        "FLT3",
+        "CBL",
+        "NRAS",
+        "KRAS",
+        "IDH1",
+        "IDH2",
+        "EZH2"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "RNA splicing",
+        "DNA methylation",
+        "Histone modification",
+        "Signal transduction",
+        "Transcriptional regulation"
+      ]
+    }
+  }
+}

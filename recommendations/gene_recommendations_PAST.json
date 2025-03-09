@@ -1,0 +1,17 @@
+{
+  "PAST": {
+    "name": "Pilocytic Astrocytoma",
+    "sample_count": 96,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NF1",
+        "FGFR1"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "MAPK signaling pathway"
+      ]
+    }
+  }
+}

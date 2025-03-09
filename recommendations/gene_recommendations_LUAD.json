@@ -1,0 +1,32 @@
+{
+  "LUAD": {
+    "name": "Lung Adenocarcinoma",
+    "sample_count": 7945,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "EGFR",
+        "ALK",
+        "BRAF",
+        "ROS1",
+        "MET",
+        "TP53",
+        "STK11",
+        "KEAP1"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "RET",
+        "NTRK1",
+        "NTRK2",
+        "NTRK3"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT pathway",
+        "JAK/STAT pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  }
+}

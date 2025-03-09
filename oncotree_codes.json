@@ -1,0 +1,3472 @@
+{
+    "oncotree_entries": [
+        {
+            "code": "AA",
+            "name": "Aggressive Angiomyxoma"
+        },
+        {
+            "code": "AASTR",
+            "name": "Anaplastic Astrocytoma"
+        },
+        {
+            "code": "ABC",
+            "name": "Activated B-cell Type"
+        },
+        {
+            "code": "ABL",
+            "name": "Acute Basophilic Leukemia"
+        },
+        {
+            "code": "ACA",
+            "name": "Adrenocortical Adenoma"
+        },
+        {
+            "code": "ACBC",
+            "name": "Adenoid Cystic Breast Cancer"
+        },
+        {
+            "code": "ACC",
+            "name": "Adrenocortical Carcinoma"
+        },
+        {
+            "code": "ACCC",
+            "name": "Acinic Cell Carcinoma"
+        },
+        {
+            "code": "ACLG",
+            "name": "Adenoid Cystic Carcinoma of the Lacrimal Gland"
+        },
+        {
+            "code": "ACML",
+            "name": "Atypical Chronic Myeloid Leukemia, BCR-ABL1-"
+        },
+        {
+            "code": "ACN",
+            "name": "Acinar Cell Carcinoma, NOS"
+        },
+        {
+            "code": "ACPG",
+            "name": "Craniopharyngioma, Adamantinomatous Type"
+        },
+        {
+            "code": "ACPP",
+            "name": "Atypical Choroid Plexus Papilloma"
+        },
+        {
+            "code": "ACRM",
+            "name": "Acral Melanoma"
+        },
+        {
+            "code": "ACYC",
+            "name": "Adenoid Cystic Carcinoma"
+        },
+        {
+            "code": "ADMA",
+            "name": "Adamantinoma"
+        },
+        {
+            "code": "ADNOS",
+            "name": "Adenocarcinoma, NOS"
+        },
+        {
+            "code": "ADPA",
+            "name": "Aggressive Digital Papillary Adenocarcinoma"
+        },
+        {
+            "code": "ADRENAL_GLAND",
+            "name": "Adrenal Gland"
+        },
+        {
+            "code": "AECA",
+            "name": "Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma"
+        },
+        {
+            "code": "AFH",
+            "name": "Angiomatoid Fibrous Histiocytoma"
+        },
+        {
+            "code": "AFX",
+            "name": "Atypical Fibroxanthoma"
+        },
+        {
+            "code": "AGA",
+            "name": "Anal Gland Adenocarcinoma"
+        },
+        {
+            "code": "AGNG",
+            "name": "Anaplastic Ganglioglioma"
+        },
+        {
+            "code": "AHCD",
+            "name": "Alpha Heavy-Chain Disease"
+        },
+        {
+            "code": "AIS",
+            "name": "Adenocarcinoma In Situ"
+        },
+        {
+            "code": "AITL",
+            "name": "Angioimmunoblastic T-Cell Lymphoma"
+        },
+        {
+            "code": "ALAL",
+            "name": "Acute Leukemias of Ambiguous Lineage"
+        },
+        {
+            "code": "ALCL",
+            "name": "Anaplastic Large Cell Lymphoma"
+        },
+        {
+            "code": "ALCLALKN",
+            "name": "Anaplastic Large-Cell Lymphoma ALK Negative"
+        },
+        {
+            "code": "ALCLALKP",
+            "name": "Anaplastic Large-Cell Lymphoma ALK Positive"
+        },
+        {
+            "code": "ALKLBCL",
+            "name": "ALK Positive Large B-Cell Lymphoma"
+        },
+        {
+            "code": "ALT",
+            "name": "Atypical Lipomatous Tumor"
+        },
+        {
+            "code": "ALUCA",
+            "name": "Atypical Lung Carcinoid"
+        },
+        {
+            "code": "AM",
+            "name": "AML with Maturation"
+        },
+        {
+            "code": "AMBL",
+            "name": "Large Cell/Anaplastic Medulloblastoma"
+        },
+        {
+            "code": "AMBLNOS",
+            "name": "Anaplastic Medulloblastoma, NOS"
+        },
+        {
+            "code": "AMBLNWS",
+            "name": "Anaplastic Medulloblastoma, Non-WNT, Non-SHH"
+        },
+        {
+            "code": "AMBLNWSG3",
+            "name": "Anaplastic Medulloblastoma, Group 3"
+        },
+        {
+            "code": "AMBLNWSG4",
+            "name": "Anaplastic Medulloblastoma, Group 4"
+        },
+        {
+            "code": "AMBLSHH",
+            "name": "Anaplastic Medulloblastoma, SHH Subtype"
+        },
+        {
+            "code": "AMKL",
+            "name": "Acute Megakaryoblastic Leukemia"
+        },
+        {
+            "code": "AML",
+            "name": "Acute Myeloid Leukemia"
+        },
+        {
+            "code": "AMLBCRABL1",
+            "name": "AML with BCR-ABL1"
+        },
+        {
+            "code": "AMLCEBPA",
+            "name": "AML with Biallelic Mutations of CEBPA"
+        },
+        {
+            "code": "AMLMD",
+            "name": "AML with Minimal Differentiation"
+        },
+        {
+            "code": "AMLMRC",
+            "name": "AML with Myelodysplasia-Related Changes"
+        },
+        {
+            "code": "AMLNOS",
+            "name": "AML, NOS"
+        },
+        {
+            "code": "AMLNPM1",
+            "name": "AML with Mutated NPM1"
+        },
+        {
+            "code": "AMLRARA",
+            "name": "AML with Variant RARA translocation"
+        },
+        {
+            "code": "AMLRGA",
+            "name": "AML with Recurrent Genetic Abnormalities"
+        },
+        {
+            "code": "AMLRUNX1",
+            "name": "AML with Mutated RUNX1"
+        },
+        {
+            "code": "AMML",
+            "name": "Acute Myelomonocytic Leukemia"
+        },
+        {
+            "code": "AMOL",
+            "name": "Acute Monoblastic/Monocytic Leukemia"
+        },
+        {
+            "code": "AMPCA",
+            "name": "Ampullary Carcinoma"
+        },
+        {
+            "code": "AMPULLA_OF_VATER",
+            "name": "Ampulla of Vater"
+        },
+        {
+            "code": "AN",
+            "name": "Atypical Nevus"
+        },
+        {
+            "code": "ANGL",
+            "name": "Angiocentric Glioma"
+        },
+        {
+            "code": "ANGS",
+            "name": "Angiosarcoma"
+        },
+        {
+            "code": "ANKL",
+            "name": "Aggressive NK-Cell Leukemia"
+        },
+        {
+            "code": "ANM",
+            "name": "Anaplastic Meningioma"
+        },
+        {
+            "code": "ANSC",
+            "name": "Anal Squamous Cell Carcinoma"
+        },
+        {
+            "code": "AOAST",
+            "name": "Anaplastic Oligoastrocytoma"
+        },
+        {
+            "code": "AODG",
+            "name": "Anaplastic Oligodendroglioma"
+        },
+        {
+            "code": "APAD",
+            "name": "Appendiceal Adenocarcinoma"
+        },
+        {
+            "code": "APE",
+            "name": "Anaplastic Ependymoma"
+        },
+        {
+            "code": "APLPMLRARA",
+            "name": "APL with PML-RARA"
+        },
+        {
+            "code": "APMF",
+            "name": "Acute Panmyelosis with Myelofibrosis"
+        },
+        {
+            "code": "APTAD",
+            "name": "Atypical Pituitary Adenoma"
+        },
+        {
+            "code": "APXA",
+            "name": "Anaplastic Pleomorphic Xanthoastrocytoma"
+        },
+        {
+            "code": "ARMM",
+            "name": "Anorectal Mucosal Melanoma"
+        },
+        {
+            "code": "ARMS",
+            "name": "Alveolar Rhabdomyosarcoma"
+        },
+        {
+            "code": "ASCT",
+            "name": "Adenosquamous Carcinoma of the Tongue"
+        },
+        {
+            "code": "ASM",
+            "name": "Aggressive Systemic Mastocytosis"
+        },
+        {
+            "code": "ASPS",
+            "name": "Alveolar Soft Part Sarcoma"
+        },
+        {
+            "code": "ASTB",
+            "name": "Astroblastoma"
+        },
+        {
+            "code": "ASTR",
+            "name": "Astrocytoma"
+        },
+        {
+            "code": "ATLL",
+            "name": "Adult T-Cell Leukemia/Lymphoma"
+        },
+        {
+            "code": "ATM",
+            "name": "Atypical Meningioma"
+        },
+        {
+            "code": "ATRT",
+            "name": "Atypical Teratoid/Rhabdoid Tumor"
+        },
+        {
+            "code": "AUL",
+            "name": "Acute Undifferentiated Leukemia"
+        },
+        {
+            "code": "AWDNET",
+            "name": "Well-Differentiated Neuroendocrine Tumor of the Appendix"
+        },
+        {
+            "code": "AWM",
+            "name": "AML without Maturation"
+        },
+        {
+            "code": "BA",
+            "name": "Breast Angiosarcoma"
+        },
+        {
+            "code": "BCAC",
+            "name": "Basal Cell Adenocarcinoma"
+        },
+        {
+            "code": "BCC",
+            "name": "Basal Cell Carcinoma"
+        },
+        {
+            "code": "BCCA",
+            "name": "Choriocarcinoma"
+        },
+        {
+            "code": "BCCP",
+            "name": "Basal Cell Carcinoma of Prostate"
+        },
+        {
+            "code": "BCLU",
+            "name": "B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma"
+        },
+        {
+            "code": "BEC",
+            "name": "Embryonal Carcinoma"
+        },
+        {
+            "code": "BFN",
+            "name": "Breast Fibroepithelial Neoplasms"
+        },
+        {
+            "code": "BGCT",
+            "name": "Germ Cell Tumor, Brain"
+        },
+        {
+            "code": "BIALCL",
+            "name": "Breast Implant-Associated Anaplastic Large-Cell Lymphoma"
+        },
+        {
+            "code": "BILIARY_TRACT",
+            "name": "Biliary Tract"
+        },
+        {
+            "code": "BIMT",
+            "name": "Immature Teratoma"
+        },
+        {
+            "code": "BL",
+            "name": "Burkitt Lymphoma"
+        },
+        {
+            "code": "BLAD",
+            "name": "Bladder Adenocarcinoma"
+        },
+        {
+            "code": "BLADDER",
+            "name": "Bladder/Urinary Tract"
+        },
+        {
+            "code": "BLCA",
+            "name": "Bladder Urothelial Carcinoma"
+        },
+        {
+            "code": "BLCLC",
+            "name": "Basaloid Large Cell Carcinoma of the Lung"
+        },
+        {
+            "code": "BLL",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma"
+        },
+        {
+            "code": "BLL11Q",
+            "name": "Burkitt-Like Lymphoma with 11q Aberration"
+        },
+        {
+            "code": "BLLBCRABL1L",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like"
+        },
+        {
+            "code": "BLLHYPER",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy"
+        },
+        {
+            "code": "BLLHYPO",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy"
+        },
+        {
+            "code": "BLLIAMP21",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma with iAMP21"
+        },
+        {
+            "code": "BLLNOS",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma, NOS"
+        },
+        {
+            "code": "BLLRGA",
+            "name": "B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities"
+        },
+        {
+            "code": "BLPT",
+            "name": "Borderline Phyllodes Tumor of the Breast"
+        },
+        {
+            "code": "BLSC",
+            "name": "Bladder Squamous Cell Carcinoma"
+        },
+        {
+            "code": "BMGCT",
+            "name": "Mixed Germ Cell Tumor"
+        },
+        {
+            "code": "BMGT",
+            "name": "Malignant Teratoma"
+        },
+        {
+            "code": "BMT",
+            "name": "Mature Teratoma"
+        },
+        {
+            "code": "BNNOS",
+            "name": "Breast Neoplasm, NOS"
+        },
+        {
+            "code": "BONE",
+            "name": "Bone"
+        },
+        {
+            "code": "BOWEL",
+            "name": "Bowel"
+        },
+        {
+            "code": "BPDCN",
+            "name": "Blastic Plasmacytoid Dendritic Cell Neoplasm"
+        },
+        {
+            "code": "BPLL",
+            "name": "B-Cell Prolymphocytic Leukemia"
+        },
+        {
+            "code": "BPSCC",
+            "name": "Basaloid Penile Squamous Cell Carcinoma"
+        },
+        {
+            "code": "BPT",
+            "name": "Benign Phyllodes Tumor of the Breast"
+        },
+        {
+            "code": "BRAIN",
+            "name": "CNS/Brain"
+        },
+        {
+            "code": "BRAME",
+            "name": "Adenomyoepithelioma of the Breast"
+        },
+        {
+            "code": "BRCA",
+            "name": "Invasive Breast Carcinoma"
+        },
+        {
+            "code": "BRCANOS",
+            "name": "Breast Invasive Cancer, NOS"
+        },
+        {
+            "code": "BRCNOS",
+            "name": "Breast Invasive Carcinoma, NOS"
+        },
+        {
+            "code": "BREAST",
+            "name": "Breast"
+        },
+        {
+            "code": "BRSRCC",
+            "name": "Breast Carcinoma with Signet Ring"
+        },
+        {
+            "code": "BTBEOV",
+            "name": "Brenner Tumor, Benign"
+        },
+        {
+            "code": "BTBOV",
+            "name": "Brenner Tumor, Borderline"
+        },
+        {
+            "code": "BTMOV",
+            "name": "Brenner Tumor, Malignant"
+        },
+        {
+            "code": "BTOV",
+            "name": "Brenner Tumor"
+        },
+        {
+            "code": "BYST",
+            "name": "Yolk Sac Tumor"
+        },
+        {
+            "code": "CABC",
+            "name": "Cervical Adenoid Basal Carcinoma"
+        },
+        {
+            "code": "CACC",
+            "name": "Cervical Adenoid Cystic Carcinoma"
+        },
+        {
+            "code": "CAEXPA",
+            "name": "Carcinoma ex Pleomorphic Adenoma"
+        },
+        {
+            "code": "CAIS",
+            "name": "Colon Adenocarcinoma In Situ"
+        },
+        {
+            "code": "CCBOV",
+            "name": "Clear Cell Borderline Ovarian Tumor"
+        },
+        {
+            "code": "CCE",
+            "name": "Clear Cell Ependymoma"
+        },
+        {
+            "code": "CCHDM",
+            "name": "Conventional Type Chordoma"
+        },
+        {
+            "code": "CCHM",
+            "name": "Carcinoma with Chondroid Metaplasia"
+        },
+        {
+            "code": "CCLC",
+            "name": "Clear Cell Carcinoma of the Lung"
+        },
+        {
+            "code": "CCM",
+            "name": "Clear cell Meningioma"
+        },
+        {
+            "code": "CCOC",
+            "name": "Clear Cell Odontogenic Carcinoma"
+        },
+        {
+            "code": "CCOV",
+            "name": "Clear Cell Ovarian Cancer"
+        },
+        {
+            "code": "CCPRC",
+            "name": "Clear Cell Papillary Renal Cell Carcinoma"
+        },
+        {
+            "code": "CCRCC",
+            "name": "Renal Clear Cell Carcinoma"
+        },
+        {
+            "code": "CCS",
+            "name": "Clear Cell Sarcoma"
+        },
+        {
+            "code": "CCSK",
+            "name": "Clear Cell Sarcoma of Kidney"
+        },
+        {
+            "code": "CDRCC",
+            "name": "Collecting Duct Renal Cell Carcinoma"
+        },
+        {
+            "code": "CEAD",
+            "name": "Cervical Adenocarcinoma"
+        },
+        {
+            "code": "CEAIS",
+            "name": "Cervical Adenocarcinoma In Situ"
+        },
+        {
+            "code": "CEAS",
+            "name": "Cervical Adenosquamous Carcinoma"
+        },
+        {
+            "code": "CECC",
+            "name": "Cervical Clear Cell Carcinoma"
+        },
+        {
+            "code": "CEEN",
+            "name": "Cervical Endometrioid Carcinoma"
+        },
+        {
+            "code": "CEGCC",
+            "name": "Glassy Cell Carcinoma of the Cervix"
+        },
+        {
+            "code": "CELI",
+            "name": "Cervical Leiomyosarcoma"
+        },
+        {
+            "code": "CELNOS",
+            "name": "Chronic Eosinophilic Leukemia, NOS"
+        },
+        {
+            "code": "CEMN",
+            "name": "Mesonephric Carcinoma"
+        },
+        {
+            "code": "CEMU",
+            "name": "Mucinous Carcinoma"
+        },
+        {
+            "code": "CENE",
+            "name": "Cervical Neuroendocrine Tumor"
+        },
+        {
+            "code": "CERMS",
+            "name": "Cervical Rhabdomyosarcoma"
+        },
+        {
+            "code": "CERVIX",
+            "name": "Cervix"
+        },
+        {
+            "code": "CESC",
+            "name": "Cervical Squamous Cell Carcinoma"
+        },
+        {
+            "code": "CESE",
+            "name": "Cervical Serous Carcinoma"
+        },
+        {
+            "code": "CEVG",
+            "name": "Villoglandular Carcinoma"
+        },
+        {
+            "code": "CHBL",
+            "name": "Chondroblastoma"
+        },
+        {
+            "code": "CHDM",
+            "name": "Chordoma"
+        },
+        {
+            "code": "CHGL",
+            "name": "Chordoid Glioma of the Third Ventricle"
+        },
+        {
+            "code": "CHL",
+            "name": "Classical Hodgkin Lymphoma"
+        },
+        {
+            "code": "CHLPTLD",
+            "name": "Classical Hodgkin Lymphoma PTLD"
+        },
+        {
+            "code": "CHM",
+            "name": "Complete Hydatidiform Mole"
+        },
+        {
+            "code": "CHOL",
+            "name": "Cholangiocarcinoma"
+        },
+        {
+            "code": "CHOM",
+            "name": "Chordoid Meningioma"
+        },
+        {
+            "code": "CHOS",
+            "name": "Chondroblastic Osteosarcoma"
+        },
+        {
+            "code": "CHRCC",
+            "name": "Chromophobe Renal Cell Carcinoma"
+        },
+        {
+            "code": "CHS",
+            "name": "Chondrosarcoma"
+        },
+        {
+            "code": "CLLSLL",
+            "name": "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma"
+        },
+        {
+            "code": "CLNC",
+            "name": "Cerebellar Liponeurocytoma"
+        },
+        {
+            "code": "CLPDNK",
+            "name": "Chronic Lymphoproliferative Disorder of NK Cells"
+        },
+        {
+            "code": "CM",
+            "name": "Conjunctival Melanoma"
+        },
+        {
+            "code": "CMC",
+            "name": "Medullary Carcinoma of the Colon"
+        },
+        {
+            "code": "CMCD",
+            "name": "Cutaneous Mastocytosis"
+        },
+        {
+            "code": "CML",
+            "name": "Chronic Myelogenous Leukemia"
+        },
+        {
+            "code": "CMLBCRABL1",
+            "name": "Chronic Myeloid Leukemia, BCR-ABL1+"
+        },
+        {
+            "code": "CMML",
+            "name": "Chronic Myelomonocytic Leukemia"
+        },
+        {
+            "code": "CMML0",
+            "name": "Chronic Myelomonocytic Leukemia-0"
+        },
+        {
+            "code": "CMML1",
+            "name": "Chronic Myelomonocytic Leukemia-1"
+        },
+        {
+            "code": "CMML2",
+            "name": "Chronic Myelomonocytic Leukemia-2"
+        },
+        {
+            "code": "CMPT",
+            "name": "Ciliated Muconodular Papillary Tumor of the Lung"
+        },
+        {
+            "code": "CNC",
+            "name": "Central Neurocytoma"
+        },
+        {
+            "code": "CNL",
+            "name": "Chronic Neutrophilic Leukemia"
+        },
+        {
+            "code": "COAD",
+            "name": "Colon Adenocarcinoma"
+        },
+        {
+            "code": "COADREAD",
+            "name": "Colorectal Adenocarcinoma"
+        },
+        {
+            "code": "COM",
+            "name": "Carcinoma with Osseous Metaplasia"
+        },
+        {
+            "code": "CPC",
+            "name": "Choroid Plexus Carcinoma"
+        },
+        {
+            "code": "CPP",
+            "name": "Choroid Plexus Papilloma"
+        },
+        {
+            "code": "CPT",
+            "name": "Choroid Plexus Tumor"
+        },
+        {
+            "code": "CSCC",
+            "name": "Cutaneous Squamous Cell Carcinoma"
+        },
+        {
+            "code": "CSCHW",
+            "name": "Cellular Schwannoma"
+        },
+        {
+            "code": "CSCLC",
+            "name": "Combined Small Cell Lung Carcinoma"
+        },
+        {
+            "code": "CSNOS",
+            "name": "Breast Invasive Carcinosarcoma, NOS"
+        },
+        {
+            "code": "CTAAP",
+            "name": "Colonic Type Adenocarcinoma of the Appendix"
+        },
+        {
+            "code": "CUP",
+            "name": "Cancer of Unknown Primary"
+        },
+        {
+            "code": "CUPNOS",
+            "name": "Cancer of Unknown Primary, NOS"
+        },
+        {
+            "code": "DA",
+            "name": "Duodenal Adenocarcinoma"
+        },
+        {
+            "code": "DASTR",
+            "name": "Diffuse Astrocytoma"
+        },
+        {
+            "code": "DCIS",
+            "name": "Breast Ductal Carcinoma In Situ"
+        },
+        {
+            "code": "DCS",
+            "name": "Dendritic Cell Sarcoma"
+        },
+        {
+            "code": "DDCHDM",
+            "name": "Dedifferentiated Chordoma"
+        },
+        {
+            "code": "DDCHS",
+            "name": "Dedifferentiated Chondrosarcoma"
+        },
+        {
+            "code": "DDLS",
+            "name": "Dedifferentiated Liposarcoma"
+        },
+        {
+            "code": "DES",
+            "name": "Desmoid/Aggressive Fibromatosis"
+        },
+        {
+            "code": "DESM",
+            "name": "Desmoplastic Melanoma"
+        },
+        {
+            "code": "DF",
+            "name": "Dermatofibroma"
+        },
+        {
+            "code": "DFL",
+            "name": "Duodenal-Type Follicular Lymphoma"
+        },
+        {
+            "code": "DFSP",
+            "name": "Dermatofibrosarcoma Protuberans"
+        },
+        {
+            "code": "DIA",
+            "name": "Desmoplastic Infantile Astrocytoma"
+        },
+        {
+            "code": "DIFG",
+            "name": "Diffuse Glioma"
+        },
+        {
+            "code": "DIG",
+            "name": "Desmoplastic Infantile Ganglioglioma"
+        },
+        {
+            "code": "DIPG",
+            "name": "Diffuse Intrinsic Pontine Glioma"
+        },
+        {
+            "code": "DLBCLCI",
+            "name": "DLBCL Associated with Chronic Inflammation"
+        },
+        {
+            "code": "DLBCLNOS",
+            "name": "Diffuse Large B-Cell Lymphoma, NOS"
+        },
+        {
+            "code": "DMBL",
+            "name": "Desmoplastic/Nodular Medulloblastoma"
+        },
+        {
+            "code": "DMBLNOS",
+            "name": "Desmoplastic/Nodular Medulloblastoma, NOS"
+        },
+        {
+            "code": "DMBLSHH",
+            "name": "Desmoplastic/Nodular Medulloblastoma, SHH Subtype"
+        },
+        {
+            "code": "DNT",
+            "name": "Dysembryoplastic Neuroepithelial Tumor"
+        },
+        {
+            "code": "DSRCT",
+            "name": "Desmoplastic Small-Round-Cell Tumor"
+        },
+        {
+            "code": "DSTAD",
+            "name": "Diffuse Type Stomach Adenocarcinoma"
+        },
+        {
+            "code": "DTE",
+            "name": "Desmoplastic Trichoepithelioma"
+        },
+        {
+            "code": "EATL",
+            "name": "Enteropathy-Associated T-Cell Lymphoma"
+        },
+        {
+            "code": "EBOV",
+            "name": "Endometrioid Borderlin Ovarian Tumor"
+        },
+        {
+            "code": "EBVDLBCLNOS",
+            "name": "EBV Positive DLBCL, NOS"
+        },
+        {
+            "code": "EBVMCU",
+            "name": "EBV Positive Mucocutaneous Ulcer"
+        },
+        {
+            "code": "ECAD",
+            "name": "Endocervical Adenocarcinoma"
+        },
+        {
+            "code": "ECD",
+            "name": "Erdheim-Chester Disease"
+        },
+        {
+            "code": "EGC",
+            "name": "Esophagogastric Adenocarcinoma"
+        },
+        {
+            "code": "EGCT",
+            "name": "Extra Gonadal Germ Cell Tumor"
+        },
+        {
+            "code": "EHAE",
+            "name": "Epithelioid Hemangioendothelioma"
+        },
+        {
+            "code": "EHCH",
+            "name": "Extrahepatic Cholangiocarcinoma"
+        },
+        {
+            "code": "EMBC",
+            "name": "Epithelial Type Metaplastic Breast Cancer"
+        },
+        {
+            "code": "EMBCA",
+            "name": "Embryonal Carcinoma"
+        },
+        {
+            "code": "EMBT",
+            "name": "Embryonal Tumor"
+        },
+        {
+            "code": "EMCHS",
+            "name": "Extraskeletal Myxoid Chondrosarcoma"
+        },
+        {
+            "code": "EMPD",
+            "name": "Extramammary Paget Disease"
+        },
+        {
+            "code": "EMPSGC",
+            "name": "Endocrine Mucin Producing Sweat Gland Carcinoma"
+        },
+        {
+            "code": "EMYOCA",
+            "name": "Epithelial-Myoepithelial Carcinoma"
+        },
+        {
+            "code": "ENCG",
+            "name": "Encapsulated Glioma"
+        },
+        {
+            "code": "ENKL",
+            "name": "Extranodal NK-/T-Cell Lymphoma, Nasal Type"
+        },
+        {
+            "code": "EOV",
+            "name": "Endometrioid Ovarian Cancer"
+        },
+        {
+            "code": "EP",
+            "name": "Extraosseous Plasmacytoma"
+        },
+        {
+            "code": "EPDCA",
+            "name": "Esophageal Poorly Differentiated Carcinoma"
+        },
+        {
+            "code": "EPIS",
+            "name": "Epithelioid Sarcoma"
+        },
+        {
+            "code": "EPM",
+            "name": "Ependymoma"
+        },
+        {
+            "code": "EPMT",
+            "name": "Ependymomal Tumor"
+        },
+        {
+            "code": "ERMS",
+            "name": "Embryonal Rhabdomyosarcoma"
+        },
+        {
+            "code": "ES",
+            "name": "Ewing Sarcoma"
+        },
+        {
+            "code": "ESCA",
+            "name": "Esophageal Adenocarcinoma"
+        },
+        {
+            "code": "ESCC",
+            "name": "Esophageal Squamous Cell Carcinoma"
+        },
+        {
+            "code": "ESMM",
+            "name": "Mucosal Melanoma of the Esophagus"
+        },
+        {
+            "code": "ESS",
+            "name": "Endometrial Stromal Sarcoma"
+        },
+        {
+            "code": "ESST",
+            "name": "Ewing Sarcoma of Soft Tissue"
+        },
+        {
+            "code": "ET",
+            "name": "Essential Thrombocythemia"
+        },
+        {
+            "code": "ETANTR",
+            "name": "Embryonal Tumor with Abundant Neuropil and True Rosettes"
+        },
+        {
+            "code": "ETMF",
+            "name": "Essential Thrombocythemia Myelofibrosis"
+        },
+        {
+            "code": "ETPLL",
+            "name": "Early T-Cell Precursor Lymphoblastic Leukemia"
+        },
+        {
+            "code": "ETT",
+            "name": "Epithelioid Trophoblastic Tumor"
+        },
+        {
+            "code": "EVN",
+            "name": "Extraventricular Neurocytoma"
+        },
+        {
+            "code": "EYE",
+            "name": "Eye"
+        },
+        {
+            "code": "FA",
+            "name": "Fibroadenoma"
+        },
+        {
+            "code": "FDCS",
+            "name": "Follicular Dendritic Cell Sarcoma"
+        },
+        {
+            "code": "FHPTLD",
+            "name": "Florid Follicular Hyperplasia PTLD"
+        },
+        {
+            "code": "FHRCC",
+            "name": "FH-Deficient Renal Cell Carcinoma"
+        },
+        {
+            "code": "FIBS",
+            "name": "Fibrosarcoma"
+        },
+        {
+            "code": "FIOS",
+            "name": "Fibroblastic Osteosarcoma"
+        },
+        {
+            "code": "FL",
+            "name": "Follicular Lymphoma"
+        },
+        {
+            "code": "FLC",
+            "name": "Fibrolamellar Carcinoma"
+        },
+        {
+            "code": "FRCT",
+            "name": "Fibroblastic Reticular Cell Tumor"
+        },
+        {
+            "code": "FT",
+            "name": "Fibrothecoma"
+        },
+        {
+            "code": "FTCL",
+            "name": "Follicular T-Cell Lymphoma"
+        },
+        {
+            "code": "GB",
+            "name": "Glioblastoma"
+        },
+        {
+            "code": "GBAD",
+            "name": "Gallbladder Adenocarcinoma, NOS"
+        },
+        {
+            "code": "GBASC",
+            "name": "Adenosquamous Carcinoma of the Gallbladder"
+        },
+        {
+            "code": "GBC",
+            "name": "Gallbladder Cancer"
+        },
+        {
+            "code": "GBM",
+            "name": "Glioblastoma Multiforme"
+        },
+        {
+            "code": "GCB",
+            "name": "Germinal Center B-Cell Type"
+        },
+        {
+            "code": "GCCAP",
+            "name": "Goblet Cell Adenocarcinoma of the Appendix"
+        },
+        {
+            "code": "GCEMU",
+            "name": "Gastric Type Mucinous Carcinoma"
+        },
+        {
+            "code": "GCLC",
+            "name": "Giant Cell Carcinoma of the Lung"
+        },
+        {
+            "code": "GCT",
+            "name": "Granular Cell Tumor"
+        },
+        {
+            "code": "GCTB",
+            "name": "Giant Cell Tumor of Bone"
+        },
+        {
+            "code": "GCTSTM",
+            "name": "Germ Cell Tumor with Somatic-Type Malignancy"
+        },
+        {
+            "code": "GEJ",
+            "name": "Adenocarcinoma of the Gastroesophageal Junction"
+        },
+        {
+            "code": "GHCD",
+            "name": "Gamma Heavy-Chain Disease"
+        },
+        {
+            "code": "GINET",
+            "name": "Gastrointestinal Neuroendocrine Tumors"
+        },
+        {
+            "code": "GINETES",
+            "name": "Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach"
+        },
+        {
+            "code": "GIST",
+            "name": "Gastrointestinal Stromal Tumor"
+        },
+        {
+            "code": "GMN",
+            "name": "Germinoma"
+        },
+        {
+            "code": "GN",
+            "name": "Ganglioneuroma"
+        },
+        {
+            "code": "GNBL",
+            "name": "Ganglioneuroblastoma"
+        },
+        {
+            "code": "GNC",
+            "name": "Gangliocytoma"
+        },
+        {
+            "code": "GNG",
+            "name": "Ganglioglioma"
+        },
+        {
+            "code": "GNOS",
+            "name": "Glioma, NOS"
+        },
+        {
+            "code": "GRC",
+            "name": "Gastric Remnant Adenocarcinoma"
+        },
+        {
+            "code": "GRCT",
+            "name": "Granulosa Cell Tumor"
+        },
+        {
+            "code": "GS",
+            "name": "Glomangiosarcoma"
+        },
+        {
+            "code": "GSARC",
+            "name": "Gliosarcoma"
+        },
+        {
+            "code": "GTD",
+            "name": "Gestational Trophoblastic Disease"
+        },
+        {
+            "code": "HCC",
+            "name": "Hepatocellular Carcinoma"
+        },
+        {
+            "code": "HCCIHCH",
+            "name": "Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma"
+        },
+        {
+            "code": "HCL",
+            "name": "Hairy Cell Leukemia"
+        },
+        {
+            "code": "HDCN",
+            "name": "Histiocytic and Dendritic Cell Neoplasms"
+        },
+        {
+            "code": "HDCS",
+            "name": "Histiocytic Dendritic Cell Sarcoma"
+        },
+        {
+            "code": "HEAD_NECK",
+            "name": "Head and Neck"
+        },
+        {
+            "code": "HEMA",
+            "name": "Hemangioma"
+        },
+        {
+            "code": "HGBCL",
+            "name": "High-Grade B-Cell Lymphoma, NOS"
+        },
+        {
+            "code": "HGBCLMYCBCL2",
+            "name": "High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements"
+        },
+        {
+            "code": "HGESS",
+            "name": "High-Grade Endometrial Stromal Sarcoma"
+        },
+        {
+            "code": "HGGNOS",
+            "name": "High-Grade Glioma, NOS"
+        },
+        {
+            "code": "HGNEC",
+            "name": "High-Grade Neuroendocrine Carcinoma of the Colon and Rectum"
+        },
+        {
+            "code": "HGNEE",
+            "name": "High-Grade Neuroendocrine Carcinoma of the Esophagus"
+        },
+        {
+            "code": "HGNES",
+            "name": "High-Grade Neuroendocrine Carcinoma of the Stomach"
+        },
+        {
+            "code": "HGNET",
+            "name": "High-Grade Neuroepithelial Tumor"
+        },
+        {
+            "code": "HGONEC",
+            "name": "High-Grade Neuroendocrine Carcinoma of the Ovary"
+        },
+        {
+            "code": "HGSFT",
+            "name": "High-Grade Serous Fallopian Tube Cancer"
+        },
+        {
+            "code": "HGSOC",
+            "name": "High-Grade Serous Ovarian Cancer"
+        },
+        {
+            "code": "HGSOS",
+            "name": "High-Grade Surface Osteosarcoma"
+        },
+        {
+            "code": "HHV8DLBCL",
+            "name": "HHV8 Positive DLBCL, NOS"
+        },
+        {
+            "code": "HL",
+            "name": "Hodgkin Lymphoma"
+        },
+        {
+            "code": "HMBL",
+            "name": "Hemangioblastoma"
+        },
+        {
+            "code": "HNMASC",
+            "name": "Mammary Analogue Secretory Carcinoma of Salivary Gland Origin"
+        },
+        {
+            "code": "HNMUCM",
+            "name": "Head and Neck Mucosal Melanoma"
+        },
+        {
+            "code": "HNNE",
+            "name": "Head and Neck Neuroendocrine Carcinoma"
+        },
+        {
+            "code": "HNSC",
+            "name": "Head and Neck Squamous Cell Carcinoma"
+        },
+        {
+            "code": "HNSCUP",
+            "name": "Head and Neck Squamous Cell Carcinoma of Unknown Primary"
+        },
+        {
+            "code": "HPCCNS",
+            "name": "Hemangiopericytoma of the Central Nervous System"
+        },
+        {
+            "code": "HPHSC",
+            "name": "Hypopharynx Squamous Cell Carcinoma"
+        },
+        {
+            "code": "HS",
+            "name": "Histiocytic Sarcoma"
+        },
+        {
+            "code": "HSTCL",
+            "name": "Hepatosplenic T-cell Lymphoma"
+        },
+        {
+            "code": "HTAT",
+            "name": "Hyalinizing Trabecular Adenoma of the Thyroid"
+        },
+        {
+            "code": "HVLL",
+            "name": "Hydroa Vacciniforme Like Lymphoproliferative Disorder"
+        },
+        {
+            "code": "IAMPCA",
+            "name": "Intestinal Ampullary Carcinoma"
+        },
+        {
+            "code": "IBC",
+            "name": "Inflammatory Breast Cancer"
+        },
+        {
+            "code": "ICEMU",
+            "name": "Intestinal Type Mucinous Carcinoma"
+        },
+        {
+            "code": "ICPN",
+            "name": "Intracholecystic Papillary Neoplasm"
+        },
+        {
+            "code": "IDC",
+            "name": "Breast Invasive Ductal Carcinoma"
+        },
+        {
+            "code": "IDCS",
+            "name": "Interdigitating Dendritic Cell Sarcoma"
+        },
+        {
+            "code": "IDCT",
+            "name": "Indeterminate Dendritic Cell Tumor"
+        },
+        {
+            "code": "IFS",
+            "name": "Infantile Fibrosarcoma"
+        },
+        {
+            "code": "IHCH",
+            "name": "Intrahepatic Cholangiocarcinoma"
+        },
+        {
+            "code": "IHM",
+            "name": "Invasive Hydatidiform Mole"
+        },
+        {
+            "code": "ILC",
+            "name": "Breast Invasive Lobular Carcinoma"
+        },
+        {
+            "code": "IMMC",
+            "name": "Breast Invasive Mixed Mucinous Carcinoma"
+        },
+        {
+            "code": "IMPTLD",
+            "name": "Infectious Mononucleosis PTLD"
+        },
+        {
+            "code": "IMS",
+            "name": "Myofibromatosis"
+        },
+        {
+            "code": "IMT",
+            "name": "Inflammatory Myofibroblastic Tumor"
+        },
+        {
+            "code": "IMTB",
+            "name": "Inflammatory Myofibroblastic Bladder Tumor"
+        },
+        {
+            "code": "IMTL",
+            "name": "Inflammatory Myofibroblastic Lung Tumor"
+        },
+        {
+            "code": "INTS",
+            "name": "Intimal Sarcoma"
+        },
+        {
+            "code": "IOPN",
+            "name": "Intraductal Oncocytic Papillary Neoplasm"
+        },
+        {
+            "code": "IPMN",
+            "name": "Intraductal Papillary Mucinous Neoplasm"
+        },
+        {
+            "code": "IPN",
+            "name": "Intraductal Papillary Neoplasm of the Bile Duct"
+        },
+        {
+            "code": "ISFN",
+            "name": "In Situ Follicular Neoplasia"
+        },
+        {
+            "code": "ISM",
+            "name": "Indolent Systemic Mastocytosis"
+        },
+        {
+            "code": "ISMCL",
+            "name": "In Situ Mantle Cell Neoplasia"
+        },
+        {
+            "code": "ISTAD",
+            "name": "Intestinal Type Stomach Adenocarcinoma"
+        },
+        {
+            "code": "ITLPDGI",
+            "name": "Indolent T-Cell Lymphoproliferative Disorder of the GI Tract"
+        },
+        {
+            "code": "ITPN",
+            "name": "Intraductal Tubulopapillary Neoplasm"
+        },
+        {
+            "code": "IUP",
+            "name": "Inverted Urothelial Papilloma"
+        },
+        {
+            "code": "IVBCL",
+            "name": "Intravascular Large B-Cell Lymphoma"
+        },
+        {
+            "code": "JMML",
+            "name": "Juvenile Myelomonocytic Leukemia"
+        },
+        {
+            "code": "JSCB",
+            "name": "Juvenile Secretory Carcinoma of the Breast"
+        },
+        {
+            "code": "JXG",
+            "name": "Disseminated Juvenile Xanthogranuloma"
+        },
+        {
+            "code": "KIDNEY",
+            "name": "Kidney"
+        },
+        {
+            "code": "LAIS",
+            "name": "Lung Adenocarcinoma In Situ"
+        },
+        {
+            "code": "LAM",
+            "name": "Pulmonary Lymphangiomyomatosis"
+        },
+        {
+            "code": "LAMN",
+            "name": "Low-grade Appendiceal Mucinous Neoplasm"
+        },
+        {
+            "code": "LATL",
+            "name": "Lymphoid Atypical"
+        },
+        {
+            "code": "LBGN",
+            "name": "Lymphoid Benign"
+        },
+        {
+            "code": "LBLIRF4",
+            "name": "Large B-Cell Lymphoma with IRF4 Rearrangement"
+        },
+        {
+            "code": "LCH",
+            "name": "Langerhans Cell Histiocytosis"
+        },
+        {
+            "code": "LCIS",
+            "name": "Breast Lobular Carcinoma In Situ"
+        },
+        {
+            "code": "LCLC",
+            "name": "Large Cell Lung Carcinoma"
+        },
+        {
+            "code": "LCS",
+            "name": "Langerhans Cell Sarcoma"
+        },
+        {
+            "code": "LDCHL",
+            "name": "Lymphocyte-Depleted Classical Hodgkin Lymphoma"
+        },
+        {
+            "code": "LDD",
+            "name": "Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease"
+        },
+        {
+            "code": "LECLC",
+            "name": "Lymphoepithelioma-like Carcinoma of the Lung"
+        },
+        {
+            "code": "LGCOS",
+            "name": "Low-Grade Central Osteosarcoma"
+        },
+        {
+            "code": "LGESS",
+            "name": "Low-Grade Endometrial Stromal Sarcoma"
+        },
+        {
+            "code": "LGFMS",
+            "name": "Low-Grade Fibromyxoid Sarcoma"
+        },
+        {
+            "code": "LGGNOS",
+            "name": "Low-Grade Glioma, NOS"
+        },
+        {
+            "code": "LGNET",
+            "name": "Low-Grade Neuroepithelial Tumor"
+        },
+        {
+            "code": "LGSOC",
+            "name": "Low-Grade Serous Ovarian Cancer"
+        },
+        {
+            "code": "LGT",
+            "name": "Lacrimal Gland Tumor"
+        },
+        {
+            "code": "LIAD",
+            "name": "Hepatocellular Adenoma"
+        },
+        {
+            "code": "LIAS",
+            "name": "Liver Angiosarcoma"
+        },
+        {
+            "code": "LIHB",
+            "name": "Hepatoblastoma"
+        },
+        {
+            "code": "LIMNET",
+            "name": "Malignant Nonepithelial Tumor of the Liver"
+        },
+        {
+            "code": "LIPO",
+            "name": "Liposarcoma"
+        },
+        {
+            "code": "LIVER",
+            "name": "Liver"
+        },
+        {
+            "code": "LM",
+            "name": "Leiomyoma"
+        },
+        {
+            "code": "LMS",
+            "name": "Leiomyosarcoma"
+        },
+        {
+            "code": "LNET",
+            "name": "Lung Neuroendocrine Tumor"
+        },
+        {
+            "code": "LNM",
+            "name": "Lymphoid Neoplasm"
+        },
+        {
+            "code": "LPL",
+            "name": "Lymphoplasmacytic Lymphoma"
+        },
+        {
+            "code": "LRCHL",
+            "name": "Lymphocyte-Rich Classical Hodgkin Lymphoma"
+        },
+        {
+            "code": "LUACC",
+            "name": "Adenoid Cystic Carcinoma of the Lung"
+        },
+        {
+            "code": "LUAD",
+            "name": "Lung Adenocarcinoma"
+        },
+        {
+            "code": "LUAS",
+            "name": "Lung Adenosquamous Carcinoma"
+        },
+        {
+            "code": "LUCA",
+            "name": "Lung Carcinoid"
+        },
+        {
+            "code": "LUMEC",
+            "name": "Mucoepidermoid Carcinoma of the Lung"
+        },
+        {
+            "code": "LUNE",
+            "name": "Large Cell Neuroendocrine Carcinoma"
+        },
+        {
+            "code": "LUNG",
+            "name": "Lung"
+        },
+        {
+            "code": "LUPC",
+            "name": "Pleomorphic Carcinoma of the Lung"
+        },
+        {
+            "code": "LUSC",
+            "name": "Lung Squamous Cell Carcinoma"
+        },
+        {
+            "code": "LXSC",
+            "name": "Larynx Squamous Cell Carcinoma"
+        },
+        {
+            "code": "LYG",
+            "name": "Lymphomatoid Granulomatosis"
+        },
+        {
+            "code": "LYMPH",
+            "name": "Lymphoid"
+        },
+        {
+            "code": "LYP",
+            "name": "Lymphomatoid Papulosis"
+        },
+        {
+            "code": "MAAP",
+            "name": "Mucinous Adenocarcinoma of the Appendix"
+        },
+        {
+            "code": "MAC",
+            "name": "Microcystic Adnexal Carcinoma"
+        },
+        {
+            "code": "MACR",
+            "name": "Mucinous Adenocarcinoma of the Colon and Rectum"
+        },
+        {
+            "code": "MAMPCA",
+            "name": "Mixed Ampullary Carcinoma"
+        },
+        {
+            "code": "MASC",
+            "name": "Metaplastic Adenosquamous Carcinoma"
+        },
+        {
+            "code": "MASCC",
+            "name": "Metaplastic Adenocarcinoma with Spindle Cell Differentiation"
+        },
+        {
+            "code": "MATPL",
+            "name": "Myeloid Atypical"
+        },
+        {
+            "code": "MBC",
+            "name": "Metaplastic Breast Cancer"
+        },
+        {
+            "code": "MBEN",
+            "name": "Medulloblastoma with Extensive Nodularity"
+        },
+        {
+            "code": "MBENNOS",
+            "name": "Medulloblastoma with Extensive Nodularity, NOS"
+        },
+        {
+            "code": "MBENSHH",
+            "name": "Medulloblastoma with Extensive Nodularity, SHH Subtype"
+        },
+        {
+            "code": "MBGN",
+            "name": "Myeloid Benign"
+        },
+        {
+            "code": "MBL",
+            "name": "Medulloblastoma"
+        },
+        {
+            "code": "MBLG3",
+            "name": "Medulloblastoma, Group 3"
+        },
+        {
+            "code": "MBLG4",
+            "name": "Medulloblastoma, Group 4"
+        },
+        {
+            "code": "MBLNOS",
+            "name": "Medulloblastoma, NOS"
+        },
+        {
+            "code": "MBLNWS",
+            "name": "Medulloblastoma, Non-WNT, Non-SHH"
+        },
+        {
+            "code": "MBLSHH",
+            "name": "Medulloblastoma, SHH Subtype"
+        },
+        {
+            "code": "MBLWNT",
+            "name": "Medulloblastoma, WNT Subtype"
+        },
+        {
+            "code": "MBN",
+            "name": "Mature B-Cell Neoplasms"
+        },
+        {
+            "code": "MBOV",
+            "name": "Mucinous Borderline Ovarian Tumor"
+        },
+        {
+            "code": "MBT",
+            "name": "Miscellaneous Brain Tumor"
+        },
+        {
+            "code": "MCBCL",
+            "name": "Monoclonal B-Cell Lymphocytosis"
+        },
+        {
+            "code": "MCC",
+            "name": "Merkel Cell Carcinoma"
+        },
+        {
+            "code": "MCCE",
+            "name": "Mixed Cervical Carcinoma"
+        },
+        {
+            "code": "MCCHL",
+            "name": "Mixed Cellularity Classical Hodgkin Lymphoma"
+        },
+        {
+            "code": "MCD",
+            "name": "Mastocytosis"
+        },
+        {
+            "code": "MCHS",
+            "name": "Mesenchymal Chondrosarcoma"
+        },
+        {
+            "code": "MCHSCNS",
+            "name": "Mesenchymal Chondrosarcoma of the CNS"
+        },
+        {
+            "code": "MCL",
+            "name": "Mantle Cell Lymphoma"
+        },
+        {
+            "code": "MCN",
+            "name": "Mucinous Cystic Neoplasm"
+        },
+        {
+            "code": "MCS",
+            "name": "Metaplastic Carcinosarcoma"
+        },
+        {
+            "code": "MCSL",
+            "name": "Mast Cell Sarcoma"
+        },
+        {
+            "code": "MDEP",
+            "name": "Medulloepithelioma"
+        },
+        {
+            "code": "MDLC",
+            "name": "Breast Mixed Ductal and Lobular Carcinoma"
+        },
+        {
+            "code": "MDS",
+            "name": "Myelodysplastic Syndromes"
+        },
+        {
+            "code": "MDSEB",
+            "name": "MDS with Excess Blasts"
+        },
+        {
+            "code": "MDSEB1",
+            "name": "MDS with excess blasts-1"
+        },
+        {
+            "code": "MDSEB2",
+            "name": "MDS with excess blasts-2"
+        },
+        {
+            "code": "MDSMD",
+            "name": "MDS with Multilineage Dysplasia"
+        },
+        {
+            "code": "MDSMPNRST",
+            "name": "MDS/MPN with Ring Sideroblasts and Thrombocytosis"
+        },
+        {
+            "code": "MDSMPNU",
+            "name": "MDS/MPN, Unclassifiable"
+        },
+        {
+            "code": "MDSRS",
+            "name": "MDS with Ring Sideroblasts"
+        },
+        {
+            "code": "MDSRSMD",
+            "name": "MDS with Ring Sideroblasts and Multilineage Dysplasia"
+        },
+        {
+            "code": "MDSRSSLD",
+            "name": "MDS with Ring Sideroblasts and Single Lineage Dysplasia"
+        },
+        {
+            "code": "MDSSLD",
+            "name": "MDS with Single Lineage Dysplasia"
+        },
+        {
+            "code": "MDSU",
+            "name": "MDS, Unclassifiable"
+        },
+        {
+            "code": "MEITL",
+            "name": "Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma"
+        },
+        {
+            "code": "MEL",
+            "name": "Melanoma"
+        },
+        {
+            "code": "MELC",
+            "name": "Melanocytoma"
+        },
+        {
+            "code": "MF",
+            "name": "Myofibroma"
+        },
+        {
+            "code": "MFH",
+            "name": "Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma"
+        },
+        {
+            "code": "MFS",
+            "name": "Myxofibrosarcoma"
+        },
+        {
+            "code": "MGCT",
+            "name": "Mixed Germ Cell Tumor"
+        },
+        {
+            "code": "MGST",
+            "name": "Malignant Glomus Tumor"
+        },
+        {
+            "code": "MGUS",
+            "name": "Monoclonal Gammopathy of Undetermined Significance"
+        },
+        {
+            "code": "MGUSIGA",
+            "name": "IgA"
+        },
+        {
+            "code": "MGUSIGG",
+            "name": "IgG"
+        },
+        {
+            "code": "MGUSIGM",
+            "name": "IgM"
+        },
+        {
+            "code": "MHCD",
+            "name": "Mu Heavy-Chain Disease"
+        },
+        {
+            "code": "MIDD",
+            "name": "Monoclonal Immunoglobulin Deposition Diseases"
+        },
+        {
+            "code": "MIDDA",
+            "name": "Amyloidosis"
+        },
+        {
+            "code": "MIDDO",
+            "name": "Monoclonal Immunoglobulin Deposition Diseases, Other"
+        },
+        {
+            "code": "MIXED",
+            "name": "Mixed Cancer Types"
+        },
+        {
+            "code": "MLADS",
+            "name": "Myeloid Leukemia Associated with Down Syndrome"
+        },
+        {
+            "code": "MLNER",
+            "name": "Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2"
+        },
+        {
+            "code": "MLNFGFR1",
+            "name": "Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement"
+        },
+        {
+            "code": "MLNPCM1JAK2",
+            "name": "Myeloid/Lymphoid Neoplasms with PCM1-JAK2"
+        },
+        {
+            "code": "MLNPDGFRA",
+            "name": "Myeloid/Lymphoid Neoplasms with PDGFRA Rearrangement"
+        },
+        {
+            "code": "MLNPDGFRB",
+            "name": "Myeloid/Lymphoid Neoplasms with PDGFRB Rearrangement"
+        },
+        {
+            "code": "MLYM",
+            "name": "Malignant Lymphoma"
+        },
+        {
+            "code": "MMB",
+            "name": "Medullomyoblastoma"
+        },
+        {
+            "code": "MMBC",
+            "name": "Mixed Type Metaplastic Breast Cancer"
+        },
+        {
+            "code": "MMBL",
+            "name": "Melanotic Medulloblastoma"
+        },
+        {
+            "code": "MNET",
+            "name": "Miscellaneous Neuroepithelial Tumor"
+        },
+        {
+            "code": "MNG",
+            "name": "Meningioma"
+        },
+        {
+            "code": "MNGLP",
+            "name": "Myeloid Neoplasms with Germ Line Predisposition"
+        },
+        {
+            "code": "MNGT",
+            "name": "Meningothelial Tumor"
+        },
+        {
+            "code": "MNM",
+            "name": "Myeloid Neoplasm"
+        },
+        {
+            "code": "MOV",
+            "name": "Mucinous Ovarian Cancer"
+        },
+        {
+            "code": "MP",
+            "name": "Molar Pregnancy"
+        },
+        {
+            "code": "MPALBNOS",
+            "name": "Mixed Phenotype Acute Leukemia, B/Myeloid, NOS"
+        },
+        {
+            "code": "MPALTNOS",
+            "name": "Mixed Phenotype Acute Leukemia, T/Myeloid, NOS"
+        },
+        {
+            "code": "MPC",
+            "name": "Myopericytoma"
+        },
+        {
+            "code": "MPE",
+            "name": "Myxopapillary Ependymoma"
+        },
+        {
+            "code": "MPN",
+            "name": "Myeloproliferative Neoplasms"
+        },
+        {
+            "code": "MPNST",
+            "name": "Malignant Peripheral Nerve Sheath Tumor"
+        },
+        {
+            "code": "MPNU",
+            "name": "Myeloproliferative Neoplasms, Unclassifiable"
+        },
+        {
+            "code": "MPRDS",
+            "name": "Myeloid Proliferations Related to Down Syndrome"
+        },
+        {
+            "code": "MPT",
+            "name": "Malignant Phyllodes Tumor of the Breast"
+        },
+        {
+            "code": "MRC",
+            "name": "Renal Medullary Carcinoma"
+        },
+        {
+            "code": "MRLS",
+            "name": "Myxoid/Round-Cell Liposarcoma"
+        },
+        {
+            "code": "MRT",
+            "name": "Rhabdoid Cancer"
+        },
+        {
+            "code": "MRTL",
+            "name": "Malignant Rhabdoid Tumor of the Liver"
+        },
+        {
+            "code": "MS",
+            "name": "Myeloid Sarcoma"
+        },
+        {
+            "code": "MSCC",
+            "name": "Metaplastic Squamous Cell Carcinoma"
+        },
+        {
+            "code": "MSCHW",
+            "name": "Melanotic Schwannoma"
+        },
+        {
+            "code": "MSTAD",
+            "name": "Mucinous Stomach Adenocarcinoma"
+        },
+        {
+            "code": "MT",
+            "name": "Malignant Tumor"
+        },
+        {
+            "code": "MTNN",
+            "name": "Mature T and NK Neoplasms"
+        },
+        {
+            "code": "MTSCC",
+            "name": "Renal Mucinous Tubular Spindle Cell Carcinoma"
+        },
+        {
+            "code": "MUCC",
+            "name": "Mucoepidermoid Carcinoma"
+        },
+        {
+            "code": "MUP",
+            "name": "Melanoma of Unknown Primary"
+        },
+        {
+            "code": "MXOV",
+            "name": "Mixed Ovarian Carcinoma"
+        },
+        {
+            "code": "MYCF",
+            "name": "Mycosis Fungoides"
+        },
+        {
+            "code": "MYCHS",
+            "name": "Myxoid Chondrosarcoma"
+        },
+        {
+            "code": "MYEC",
+            "name": "Myoepithelial Carcinoma"
+        },
+        {
+            "code": "MYELOID",
+            "name": "Myeloid"
+        },
+        {
+            "code": "MYXO",
+            "name": "Myxoma"
+        },
+        {
+            "code": "MZL",
+            "name": "Marginal Zone Lymphoma"
+        },
+        {
+            "code": "NBL",
+            "name": "Neuroblastoma"
+        },
+        {
+            "code": "NCCRCC",
+            "name": "Renal Non-Clear Cell Carcinoma"
+        },
+        {
+            "code": "NECNOS",
+            "name": "Neuroendocrine Carcinoma, NOS"
+        },
+        {
+            "code": "NETNOS",
+            "name": "Neuroendocrine Tumor, NOS"
+        },
+        {
+            "code": "NFIB",
+            "name": "Neurofibroma"
+        },
+        {
+            "code": "NHL",
+            "name": "Non-Hodgkin Lymphoma"
+        },
+        {
+            "code": "NK",
+            "name": "Natural Killer"
+        },
+        {
+            "code": "NLPHL",
+            "name": "Nodular Lymphocyte-Predominant Hodgkin Lymphoma"
+        },
+        {
+            "code": "NMCHN",
+            "name": "NUT Midline Carcinoma of the Head and Neck"
+        },
+        {
+            "code": "NMZL",
+            "name": "Nodal Marginal Zone Lymphoma"
+        },
+        {
+            "code": "NPC",
+            "name": "Nasopharyngeal Carcinoma"
+        },
+        {
+            "code": "NPTLTFH",
+            "name": "Nodal Peripheral T-Cell Lymphoma with TFH Phenotype"
+        },
+        {
+            "code": "NSCHL",
+            "name": "Nodular Sclerosis Classical Hodgkin Lymphoma"
+        },
+        {
+            "code": "NSCLC",
+            "name": "Non-Small Cell Lung Cancer"
+        },
+        {
+            "code": "NSCLCPD",
+            "name": "Poorly Differentiated Non-Small Cell Lung Cancer"
+        },
+        {
+            "code": "NSGCT",
+            "name": "Non-Seminomatous Germ Cell Tumor"
+        },
+        {
+            "code": "NST",
+            "name": "Nerve Sheath Tumor"
+        },
+        {
+            "code": "NUTCL",
+            "name": "NUT Carcinoma of the Lung"
+        },
+        {
+            "code": "OAST",
+            "name": "Oligoastrocytoma"
+        },
+        {
+            "code": "OAT",
+            "name": "Oncocytic Adenoma of the Thyroid"
+        },
+        {
+            "code": "OCNOS",
+            "name": "Ovarian Choriocarcinoma, NOS"
+        },
+        {
+            "code": "OCS",
+            "name": "Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor"
+        },
+        {
+            "code": "OCSC",
+            "name": "Oral Cavity Squamous Cell Carcinoma"
+        },
+        {
+            "code": "ODG",
+            "name": "Oligodendroglioma"
+        },
+        {
+            "code": "ODGC",
+            "name": "Odontogenic Carcinoma"
+        },
+        {
+            "code": "ODYS",
+            "name": "Dysgerminoma"
+        },
+        {
+            "code": "OEC",
+            "name": "Embryonal Carcinoma"
+        },
+        {
+            "code": "OFMT",
+            "name": "Ossifying Fibromyxoid Tumor"
+        },
+        {
+            "code": "OGBL",
+            "name": "Gonadoblastoma"
+        },
+        {
+            "code": "OGCT",
+            "name": "Ovarian Germ Cell Tumor"
+        },
+        {
+            "code": "OHNCA",
+            "name": "Head and Neck Carcinoma, Other"
+        },
+        {
+            "code": "OIMT",
+            "name": "Immature Teratoma"
+        },
+        {
+            "code": "OM",
+            "name": "Ocular Melanoma"
+        },
+        {
+            "code": "OMGCT",
+            "name": "Mixed Germ Cell Tumor"
+        },
+        {
+            "code": "OMT",
+            "name": "Mature Teratoma"
+        },
+        {
+            "code": "ONBL",
+            "name": "Olfactory Neuroblastoma"
+        },
+        {
+            "code": "OOVC",
+            "name": "Ovarian Cancer, Other"
+        },
+        {
+            "code": "OPE",
+            "name": "Polyembryoma"
+        },
+        {
+            "code": "OPHSC",
+            "name": "Oropharynx Squamous Cell Carcinoma"
+        },
+        {
+            "code": "OS",
+            "name": "Osteosarcoma"
+        },
+        {
+            "code": "OSACA",
+            "name": "Salivary Carcinoma, Other"
+        },
+        {
+            "code": "OSGCT",
+            "name": "Osteoclastic Giant Cell Tumor"
+        },
+        {
+            "code": "OSMAD",
+            "name": "Ovarian Seromucinous Adenoma"
+        },
+        {
+            "code": "OSMBT",
+            "name": "Ovarian Seromucinous Borderline Tumor"
+        },
+        {
+            "code": "OSMCA",
+            "name": "Ovarian Seromucinous Carcinoma"
+        },
+        {
+            "code": "OSOS",
+            "name": "Osteoblastic Osteosarcoma"
+        },
+        {
+            "code": "OTHER",
+            "name": "Other"
+        },
+        {
+            "code": "OUSARC",
+            "name": "Uterine Sarcoma, Other"
+        },
+        {
+            "code": "OUTT",
+            "name": "Other Uterine Tumor"
+        },
+        {
+            "code": "OVARY",
+            "name": "Ovary/Fallopian Tube"
+        },
+        {
+            "code": "OVT",
+            "name": "Ovarian Epithelial Tumor"
+        },
+        {
+            "code": "OYST",
+            "name": "Yolk Sac Tumor"
+        },
+        {
+            "code": "PAAC",
+            "name": "Acinar Cell Carcinoma of the Pancreas"
+        },
+        {
+            "code": "PAAD",
+            "name": "Pancreatic Adenocarcinoma"
+        },
+        {
+            "code": "PAASC",
+            "name": "Adenosquamous Carcinoma of the Pancreas"
+        },
+        {
+            "code": "PAC",
+            "name": "Polymorphous Adenocarcinoma"
+        },
+        {
+            "code": "PACT",
+            "name": "Cystic Tumor of the Pancreas"
+        },
+        {
+            "code": "PADA",
+            "name": "Pleomorphic Adenoma"
+        },
+        {
+            "code": "PAMPCA",
+            "name": "Pancreatobiliary Ampullary Carcinoma"
+        },
+        {
+            "code": "PANCREAS",
+            "name": "Pancreas"
+        },
+        {
+            "code": "PANEC",
+            "name": "Pancreatic Neuroendocrine Carcinoma"
+        },
+        {
+            "code": "PANET",
+            "name": "Pancreatic Neuroendocrine Tumor"
+        },
+        {
+            "code": "PAOS",
+            "name": "Parosteal Osteosarcoma"
+        },
+        {
+            "code": "PAST",
+            "name": "Pilocytic Astrocytoma"
+        },
+        {
+            "code": "PB",
+            "name": "Pancreatoblastoma"
+        },
+        {
+            "code": "PBL",
+            "name": "Pineoblastoma"
+        },
+        {
+            "code": "PBS",
+            "name": "Breast Sarcoma"
+        },
+        {
+            "code": "PBT",
+            "name": "Primary Brain Tumor"
+        },
+        {
+            "code": "PCAECTCL",
+            "name": "Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma"
+        },
+        {
+            "code": "PCALCL",
+            "name": "Primary Cutaneous Anaplastic Large Cell Lymphoma"
+        },
+        {
+            "code": "PCATCL",
+            "name": "Primary Cutaneous Acral CD8 Positive T-Cell Lymphoma"
+        },
+        {
+            "code": "PCFCL",
+            "name": "Primary Cutaneous Follicle Center Lymphoma"
+        },
+        {
+            "code": "PCGDTCL",
+            "name": "Primary Cutaneous Gamma Delta T-Cell Lymphoma"
+        },
+        {
+            "code": "PCGP",
+            "name": "Craniopharyngioma, Papillary Type"
+        },
+        {
+            "code": "PCLBCLLT",
+            "name": "Primary Cutaneous DLBCL, Leg Type"
+        },
+        {
+            "code": "PCLPD",
+            "name": "Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders"
+        },
+        {
+            "code": "PCM",
+            "name": "Plasma Cell Myeloma"
+        },
+        {
+            "code": "PCNSL",
+            "name": "Primary DLBCL of the central nervous system"
+        },
+        {
+            "code": "PCNSM",
+            "name": "Primary CNS Melanoma"
+        },
+        {
+            "code": "PCNSMT",
+            "name": "Primary CNS Melanocytic Tumors"
+        },
+        {
+            "code": "PCSMTPLD",
+            "name": "Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder"
+        },
+        {
+            "code": "PD",
+            "name": "Paget Disease of the Nipple"
+        },
+        {
+            "code": "PDC",
+            "name": "Poorly Differentiated Carcinoma, NOS"
+        },
+        {
+            "code": "PECOMA",
+            "name": "Perivascular Epithelioid Cell Tumor"
+        },
+        {
+            "code": "PEL",
+            "name": "Primary Effusion Lymphoma"
+        },
+        {
+            "code": "PEMESO",
+            "name": "Peritoneal Mesothelioma"
+        },
+        {
+            "code": "PENIS",
+            "name": "Penis"
+        },
+        {
+            "code": "PEOS",
+            "name": "Periosteal Osteosarcoma"
+        },
+        {
+            "code": "PERITONEUM",
+            "name": "Peritoneum"
+        },
+        {
+            "code": "PERL",
+            "name": "Pure Erythroid Leukemia"
+        },
+        {
+            "code": "PGNG",
+            "name": "Paraganglioma"
+        },
+        {
+            "code": "PGNT",
+            "name": "Papillary Glioneuronal Tumor"
+        },
+        {
+            "code": "PHC",
+            "name": "Pheochromocytoma"
+        },
+        {
+            "code": "PHCH",
+            "name": "Perihilar Cholangiocarcinoma"
+        },
+        {
+            "code": "PHM",
+            "name": "Partial Hydatidiform Mole"
+        },
+        {
+            "code": "PHPTLD",
+            "name": "Plasmacytic Hyperplasia PTLD"
+        },
+        {
+            "code": "PINC",
+            "name": "Pineocytoma"
+        },
+        {
+            "code": "PINT",
+            "name": "Pineal Tumor"
+        },
+        {
+            "code": "PLBL",
+            "name": "Plasmablastic Lymphoma"
+        },
+        {
+            "code": "PLBMESO",
+            "name": "Pleural Mesothelioma, Biphasic Type"
+        },
+        {
+            "code": "PLEMESO",
+            "name": "Pleural Mesothelioma, Epithelioid Type"
+        },
+        {
+            "code": "PLEURA",
+            "name": "Pleura"
+        },
+        {
+            "code": "PLLS",
+            "name": "Pleomorphic Liposarcoma"
+        },
+        {
+            "code": "PLMESO",
+            "name": "Pleural Mesothelioma"
+        },
+        {
+            "code": "PLRMS",
+            "name": "Pleomorphic Rhabdomyosarcoma"
+        },
+        {
+            "code": "PLSMESO",
+            "name": "Pleural Mesothelioma, Sarcomatoid Type"
+        },
+        {
+            "code": "PMA",
+            "name": "Pilomyxoid Astrocytoma"
+        },
+        {
+            "code": "PMF",
+            "name": "Primary Myelofibrosis"
+        },
+        {
+            "code": "PMFOFS",
+            "name": "Primary Myelofibrosis,Overt Fibrotic Stage"
+        },
+        {
+            "code": "PMFPES",
+            "name": "Primary Myelofibrosis, Prefibrotic/Early Stage"
+        },
+        {
+            "code": "PMHE",
+            "name": "Pseudomyogenic Hemangioendothelioma"
+        },
+        {
+            "code": "PNET",
+            "name": "Primitive Neuroectodermal Tumor"
+        },
+        {
+            "code": "PNS",
+            "name": "Peripheral Nervous System"
+        },
+        {
+            "code": "POCA",
+            "name": "Porocarcinoma/Spiroadenocarcinoma"
+        },
+        {
+            "code": "PORO",
+            "name": "Poroma/Acrospiroma"
+        },
+        {
+            "code": "PPB",
+            "name": "Pleuropulmonary Blastoma"
+        },
+        {
+            "code": "PPCT",
+            "name": "Proliferating Pilar Cystic Tumor"
+        },
+        {
+            "code": "PPM",
+            "name": "Papillary Meningioma"
+        },
+        {
+            "code": "PPTID",
+            "name": "Pineal Parenchymal Tumor of Intermediate Differentiation"
+        },
+        {
+            "code": "PPTLD",
+            "name": "Polymorphic PTLD"
+        },
+        {
+            "code": "PRAD",
+            "name": "Prostate Adenocarcinoma"
+        },
+        {
+            "code": "PRCC",
+            "name": "Papillary Renal Cell Carcinoma"
+        },
+        {
+            "code": "PRNE",
+            "name": "Prostate Neuroendocrine Carcinoma"
+        },
+        {
+            "code": "PRNET",
+            "name": "Primary Neuroepithelial Tumor"
+        },
+        {
+            "code": "PROSTATE",
+            "name": "Prostate"
+        },
+        {
+            "code": "PRSC",
+            "name": "Prostate Squamous Cell Carcinoma"
+        },
+        {
+            "code": "PRSCC",
+            "name": "Prostate Small Cell Carcinoma"
+        },
+        {
+            "code": "PSC",
+            "name": "Serous Cystadenoma of the Pancreas"
+        },
+        {
+            "code": "PSCC",
+            "name": "Penile Squamous Cell Carcinoma"
+        },
+        {
+            "code": "PSEC",
+            "name": "Peritoneal Serous Carcinoma"
+        },
+        {
+            "code": "PSTAD",
+            "name": "Papillary Stomach Adenocarcinoma"
+        },
+        {
+            "code": "PSTT",
+            "name": "Placental Site Trophoblastic Tumor"
+        },
+        {
+            "code": "PT",
+            "name": "Phyllodes Tumor of the Breast"
+        },
+        {
+            "code": "PTAD",
+            "name": "Pituitary Adenoma"
+        },
+        {
+            "code": "PTCA",
+            "name": "Pituitary Carcinoma"
+        },
+        {
+            "code": "PTCL",
+            "name": "Peripheral T-Cell lymphoma, NOS"
+        },
+        {
+            "code": "PTCY",
+            "name": "Pituicytoma"
+        },
+        {
+            "code": "PTES",
+            "name": "Proximal-Type Epithelioid Sarcoma"
+        },
+        {
+            "code": "PTFL",
+            "name": "Pediatric-Type Follicular Lymphoma"
+        },
+        {
+            "code": "PTH",
+            "name": "Parathyroid Cancer"
+        },
+        {
+            "code": "PTHC",
+            "name": "Parathyroid Carcinoma"
+        },
+        {
+            "code": "PTLD",
+            "name": "Posttransplant Lymphoproliferative Disorders"
+        },
+        {
+            "code": "PTPR",
+            "name": "Papillary Tumor of the Pineal Region"
+        },
+        {
+            "code": "PV",
+            "name": "Polycythemia Vera"
+        },
+        {
+            "code": "PVMF",
+            "name": "Polycythaemia Vera Myelofibrosis"
+        },
+        {
+            "code": "PXA",
+            "name": "Pleomorphic Xanthoastrocytoma"
+        },
+        {
+            "code": "RAML",
+            "name": "Renal Angiomyolipoma"
+        },
+        {
+            "code": "RAS",
+            "name": "Radiation-Associated Sarcoma"
+        },
+        {
+            "code": "RBL",
+            "name": "Retinoblastoma"
+        },
+        {
+            "code": "RCC",
+            "name": "Renal Cell Carcinoma"
+        },
+        {
+            "code": "RCSNOS",
+            "name": "Round Cell Sarcoma, NOS"
+        },
+        {
+            "code": "RCYC",
+            "name": "Refractory Cytopenia of Childhood"
+        },
+        {
+            "code": "RDD",
+            "name": "Rosai-Dorfman Disease"
+        },
+        {
+            "code": "READ",
+            "name": "Rectal Adenocarcinoma"
+        },
+        {
+            "code": "RGNT",
+            "name": "Rosette-forming Glioneuronal Tumor of the Fourth Ventricle"
+        },
+        {
+            "code": "RHM",
+            "name": "Rhabdoid Meningioma"
+        },
+        {
+            "code": "RLCLC",
+            "name": "Large Cell Lung Carcinoma With Rhabdoid Phenotype"
+        },
+        {
+            "code": "RMS",
+            "name": "Rhabdomyosarcoma"
+        },
+        {
+            "code": "RNET",
+            "name": "Renal Neuroendocrine Tumor"
+        },
+        {
+            "code": "ROCY",
+            "name": "Renal Oncocytoma"
+        },
+        {
+            "code": "RSCC",
+            "name": "Renal Small Cell Carcinoma"
+        },
+        {
+            "code": "RWDNET",
+            "name": "Well-Differentiated Neuroendocrine Tumor of the Rectum"
+        },
+        {
+            "code": "SAAD",
+            "name": "Salivary Adenocarcinoma"
+        },
+        {
+            "code": "SACA",
+            "name": "Salivary Carcinoma"
+        },
+        {
+            "code": "SARCL",
+            "name": "Sarcomatoid Carcinoma of the Lung"
+        },
+        {
+            "code": "SARCNOS",
+            "name": "Sarcoma, NOS"
+        },
+        {
+            "code": "SBC",
+            "name": "Small Bowel Cancer"
+        },
+        {
+            "code": "SBL",
+            "name": "Sialoblastoma"
+        },
+        {
+            "code": "SBLU",
+            "name": "Splenic B-Cell Lymphoma/Leukemia, Unclassifiable"
+        },
+        {
+            "code": "SBMOV",
+            "name": "Serous Borderline Ovarian Tumor, Micropapillary"
+        },
+        {
+            "code": "SBOV",
+            "name": "Serous Borderline Ovarian Tumor"
+        },
+        {
+            "code": "SBWDNET",
+            "name": "Small Bowel Well-Differentiated Neuroendocrine Tumor"
+        },
+        {
+            "code": "SCB",
+            "name": "Sarcomatoid Carcinoma of the Urinary Bladder"
+        },
+        {
+            "code": "SCBC",
+            "name": "Small Cell Bladder Cancer"
+        },
+        {
+            "code": "SCCE",
+            "name": "Small Cell Carcinoma of the Cervix"
+        },
+        {
+            "code": "SCCNOS",
+            "name": "Squamous Cell Carcinoma, NOS"
+        },
+        {
+            "code": "SCCO",
+            "name": "Small Cell Carcinoma of the Ovary"
+        },
+        {
+            "code": "SCCRCC",
+            "name": "Renal Clear Cell Carcinoma with Sarcomatoid Features"
+        },
+        {
+            "code": "SCEMU",
+            "name": "Signet Ring Mucinous Carcinoma"
+        },
+        {
+            "code": "SCGBC",
+            "name": "Small Cell Gallbladder Carcinoma"
+        },
+        {
+            "code": "SCGBM",
+            "name": "Small Cell Glioblastoma"
+        },
+        {
+            "code": "SCHW",
+            "name": "Schwannoma"
+        },
+        {
+            "code": "SCLC",
+            "name": "Small Cell Lung Cancer"
+        },
+        {
+            "code": "SCLG",
+            "name": "Squamous Cell Carcinoma of the Lacrimal Gland"
+        },
+        {
+            "code": "SCOAH",
+            "name": "Spindle Cell Oncocytoma of the Adenohypophysis"
+        },
+        {
+            "code": "SCOS",
+            "name": "Small Cell Osteosarcoma"
+        },
+        {
+            "code": "SCRMS",
+            "name": "Spindle Cell Rhabdomyosarcoma"
+        },
+        {
+            "code": "SCSRMS",
+            "name": "Spindle Cell/Sclerosing Rhabdomyosarcoma"
+        },
+        {
+            "code": "SCST",
+            "name": "Sex Cord Stromal Tumor"
+        },
+        {
+            "code": "SCT",
+            "name": "Steroid Cell Tumor, NOS"
+        },
+        {
+            "code": "SCUP",
+            "name": "Small Cell Carcinoma of Unknown Primary"
+        },
+        {
+            "code": "SDCA",
+            "name": "Salivary Duct Carcinoma"
+        },
+        {
+            "code": "SDRPL",
+            "name": "Splenic Diffuse Red Pulp Small B-Cell Lymphoma"
+        },
+        {
+            "code": "SEBA",
+            "name": "Sebaceous Carcinoma"
+        },
+        {
+            "code": "SEBVTLC",
+            "name": "Systemic EBV Positive T-Cell Lymphoma of Childhood"
+        },
+        {
+            "code": "SECOS",
+            "name": "Secondary Osteosarcoma"
+        },
+        {
+            "code": "SEF",
+            "name": "Sclerosing Epithelioid Fibrosarcoma"
+        },
+        {
+            "code": "SELT",
+            "name": "Sellar Tumor"
+        },
+        {
+            "code": "SEM",
+            "name": "Seminoma"
+        },
+        {
+            "code": "SFT",
+            "name": "Solitary Fibrous Tumor/Hemangiopericytoma"
+        },
+        {
+            "code": "SFTCNS",
+            "name": "Solitary Fibrous Tumor of the Central Nervous System"
+        },
+        {
+            "code": "SGAD",
+            "name": "Sweat Gland Adenocarcinoma"
+        },
+        {
+            "code": "SGO",
+            "name": "Salivary Gland Oncocytoma"
+        },
+        {
+            "code": "SGTTL",
+            "name": "Salivary Gland-Type Tumor of the Lung"
+        },
+        {
+            "code": "SIC",
+            "name": "Small Intestinal Carcinoma"
+        },
+        {
+            "code": "SKAC",
+            "name": "Skin Adnexal Carcinoma"
+        },
+        {
+            "code": "SKCM",
+            "name": "Cutaneous Melanoma"
+        },
+        {
+            "code": "SKCN",
+            "name": "Congenital Nevus"
+        },
+        {
+            "code": "SKIN",
+            "name": "Skin"
+        },
+        {
+            "code": "SKLMM",
+            "name": "Lentigo Maligna Melanoma"
+        },
+        {
+            "code": "SLCT",
+            "name": "Sertoli-Leydig Cell Tumor"
+        },
+        {
+            "code": "SM",
+            "name": "Systemic Mastocytosis"
+        },
+        {
+            "code": "SMAHN",
+            "name": "Systemic Mastocytosis with an Associated Hematological Neoplasm"
+        },
+        {
+            "code": "SMMCL",
+            "name": "Mast Cell Leukemia"
+        },
+        {
+            "code": "SMN",
+            "name": "Smooth Muscle Neoplasm, NOS"
+        },
+        {
+            "code": "SMZL",
+            "name": "Splenic Marginal Zone Lymphoma"
+        },
+        {
+            "code": "SNA",
+            "name": "Sinonasal Adenocarcinoma"
+        },
+        {
+            "code": "SNSC",
+            "name": "Sinonasal Squamous Cell Carcinoma"
+        },
+        {
+            "code": "SNUC",
+            "name": "Sinonasal Undifferentiated Carcinoma"
+        },
+        {
+            "code": "SOC",
+            "name": "Serous Ovarian Cancer"
+        },
+        {
+            "code": "SOFT_TISSUE",
+            "name": "Soft Tissue"
+        },
+        {
+            "code": "SPB",
+            "name": "Solitary Plasmacytoma of Bone"
+        },
+        {
+            "code": "SPC",
+            "name": "Solid Papillary Carcinoma of the Breast"
+        },
+        {
+            "code": "SPCC",
+            "name": "Spindle Cell Carcinoma of the Lung"
+        },
+        {
+            "code": "SPDAC",
+            "name": "Poorly Differentiated Carcinoma of the Stomach"
+        },
+        {
+            "code": "SPIR",
+            "name": "Spiroma/Spiradenoma"
+        },
+        {
+            "code": "SPN",
+            "name": "Solid Pseudopapillary Neoplasm of the Pancreas"
+        },
+        {
+            "code": "SPTCL",
+            "name": "Subcutaneous Panniculitis-Like T-Cell Lymphoma"
+        },
+        {
+            "code": "SPZM",
+            "name": "Spitzoid Melanoma"
+        },
+        {
+            "code": "SRAP",
+            "name": "Signet Ring Cell Type of the Appendix"
+        },
+        {
+            "code": "SRCBC",
+            "name": "Plasmacytoid/Signet Ring Cell Bladder Carcinoma"
+        },
+        {
+            "code": "SRCC",
+            "name": "Sarcomatoid Renal Cell Carcinoma"
+        },
+        {
+            "code": "SRCCR",
+            "name": "Signet Ring Cell Adenocarcinoma of the Colon and Rectum"
+        },
+        {
+            "code": "SS",
+            "name": "Sezary Syndrome"
+        },
+        {
+            "code": "SSM",
+            "name": "Smoldering Systemic Mastocytosis"
+        },
+        {
+            "code": "SSRCC",
+            "name": "Signet Ring Cell Carcinoma of the Stomach"
+        },
+        {
+            "code": "STAD",
+            "name": "Stomach Adenocarcinoma"
+        },
+        {
+            "code": "STAS",
+            "name": "Adenosquamous Carcinoma of the Stomach"
+        },
+        {
+            "code": "STMYEC",
+            "name": "Soft Tissue Myoepithelial Carcinoma"
+        },
+        {
+            "code": "STOMACH",
+            "name": "Esophagus/Stomach"
+        },
+        {
+            "code": "STSC",
+            "name": "Small Cell Carcinoma of the Stomach"
+        },
+        {
+            "code": "SUBE",
+            "name": "Subependymoma"
+        },
+        {
+            "code": "SWDNET",
+            "name": "Well-Differentiated Neuroendocrine Tumors of the Stomach"
+        },
+        {
+            "code": "SYNS",
+            "name": "Synovial Sarcoma"
+        },
+        {
+            "code": "TAC",
+            "name": "Tubular Adenoma of the Colon"
+        },
+        {
+            "code": "TAM",
+            "name": "Transient Abnormal Myelopoiesis"
+        },
+        {
+            "code": "TAML",
+            "name": "Therapy-Related Acute Myeloid Leukemia"
+        },
+        {
+            "code": "TCCA",
+            "name": "Choriocarcinoma"
+        },
+        {
+            "code": "TEOS",
+            "name": "Telangiectatic Osteosarcoma"
+        },
+        {
+            "code": "TESTIS",
+            "name": "Testis"
+        },
+        {
+            "code": "TET",
+            "name": "Thymic Epithelial Tumor"
+        },
+        {
+            "code": "TGCT",
+            "name": "Tenosynovial Giant Cell Tumor Diffuse Type"
+        },
+        {
+            "code": "THAP",
+            "name": "Anaplastic Thyroid Cancer"
+        },
+        {
+            "code": "THFO",
+            "name": "Follicular Thyroid Cancer"
+        },
+        {
+            "code": "THHC",
+            "name": "Hurthle Cell Thyroid Cancer"
+        },
+        {
+            "code": "THME",
+            "name": "Medullary Thyroid Cancer"
+        },
+        {
+            "code": "THPA",
+            "name": "Papillary Thyroid Cancer"
+        },
+        {
+            "code": "THPD",
+            "name": "Poorly Differentiated Thyroid Cancer"
+        },
+        {
+            "code": "THRLBCL",
+            "name": "T-Cell/Histiocyte-Rich Large B-Cell Lymphoma"
+        },
+        {
+            "code": "THYC",
+            "name": "Thymic Carcinoma"
+        },
+        {
+            "code": "THYM",
+            "name": "Thymoma"
+        },
+        {
+            "code": "THYMUS",
+            "name": "Thymus"
+        },
+        {
+            "code": "THYROID",
+            "name": "Thyroid"
+        },
+        {
+            "code": "TLGL",
+            "name": "T-Cell Large Granular Lymphocytic Leukemia"
+        },
+        {
+            "code": "TLL",
+            "name": "T-Lymphoblastic Leukemia/Lymphoma"
+        },
+        {
+            "code": "TLYM",
+            "name": "Testicular Lymphoma"
+        },
+        {
+            "code": "TMDS",
+            "name": "Therapy-Related Myelodysplastic Syndrome"
+        },
+        {
+            "code": "TMESO",
+            "name": "Testicular Mesothelioma"
+        },
+        {
+            "code": "TMN",
+            "name": "Therapy-Related Myeloid Neoplasms"
+        },
+        {
+            "code": "TNET",
+            "name": "Thymic Neuroendocrine Tumor"
+        },
+        {
+            "code": "TPLL",
+            "name": "T-Cell Prolymphocytic Leukemia"
+        },
+        {
+            "code": "TRCC",
+            "name": "Translocation-Associated Renal Cell Carcinoma"
+        },
+        {
+            "code": "TSCST",
+            "name": "Sex Cord Stromal Tumor"
+        },
+        {
+            "code": "TSTAD",
+            "name": "Tubular Stomach Adenocarcinoma"
+        },
+        {
+            "code": "TT",
+            "name": "Teratoma"
+        },
+        {
+            "code": "TYST",
+            "name": "Yolk Sac Tumor"
+        },
+        {
+            "code": "Thymic",
+            "name": "Primary Mediastinal"
+        },
+        {
+            "code": "UA",
+            "name": "Urachal Adenocarcinoma"
+        },
+        {
+            "code": "UAD",
+            "name": "Urethral Adenocarcinoma"
+        },
+        {
+            "code": "UAS",
+            "name": "Uterine Adenosarcoma"
+        },
+        {
+            "code": "UASC",
+            "name": "Uterine Adenosquamous Carcinoma"
+        },
+        {
+            "code": "UCA",
+            "name": "Urethral Cancer"
+        },
+        {
+            "code": "UCCA",
+            "name": "Choriocarcinoma"
+        },
+        {
+            "code": "UCCC",
+            "name": "Uterine Clear Cell Carcinoma"
+        },
+        {
+            "code": "UCEC",
+            "name": "Endometrial Carcinoma"
+        },
+        {
+            "code": "UCP",
+            "name": "Undifferentiated Carcinoma of the Pancreas"
+        },
+        {
+            "code": "UCS",
+            "name": "Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor"
+        },
+        {
+            "code": "UCU",
+            "name": "Urethral Urothelial Carcinoma"
+        },
+        {
+            "code": "UDDC",
+            "name": "Uterine Dedifferentiated Carcinoma"
+        },
+        {
+            "code": "UDMN",
+            "name": "Undifferentiated Malignant Neoplasm"
+        },
+        {
+            "code": "UEC",
+            "name": "Uterine Endometrioid Carcinoma"
+        },
+        {
+            "code": "UELMS",
+            "name": "Uterine Epithelioid Leiomyosarcoma"
+        },
+        {
+            "code": "UESL",
+            "name": "Undifferentiated Embryonal Sarcoma of the Liver"
+        },
+        {
+            "code": "ULM",
+            "name": "Uterine Leiomyoma"
+        },
+        {
+            "code": "ULMS",
+            "name": "Uterine Leiomyosarcoma"
+        },
+        {
+            "code": "UM",
+            "name": "Uveal Melanoma"
+        },
+        {
+            "code": "UMC",
+            "name": "Uterine Mucinous Carcinoma"
+        },
+        {
+            "code": "UMEC",
+            "name": "Uterine Mixed Endometrial Carcinoma"
+        },
+        {
+            "code": "UMLMS",
+            "name": "Uterine Myxoid Leiomyosarcoma"
+        },
+        {
+            "code": "UMNC",
+            "name": "Uterine Mesonephric Carcinoma"
+        },
+        {
+            "code": "UNEC",
+            "name": "Uterine Neuroendocrine Carcinoma"
+        },
+        {
+            "code": "UPA",
+            "name": "Urothelial Papilloma"
+        },
+        {
+            "code": "UPDC",
+            "name": "Poorly Differentiated Carcinoma of the Uterus"
+        },
+        {
+            "code": "UPECOMA",
+            "name": "Uterine Perivascular Epithelioid Cell Tumor"
+        },
+        {
+            "code": "URCA",
+            "name": "Urachal Carcinoma"
+        },
+        {
+            "code": "URCC",
+            "name": "Unclassified Renal Cell Carcinoma"
+        },
+        {
+            "code": "URMM",
+            "name": "Mucosal Melanoma of the Urethra"
+        },
+        {
+            "code": "USARC",
+            "name": "Uterine Sarcoma/Mesenchymal"
+        },
+        {
+            "code": "USC",
+            "name": "Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma"
+        },
+        {
+            "code": "USCC",
+            "name": "Urethral Squamous Cell Carcinoma"
+        },
+        {
+            "code": "USMT",
+            "name": "Uterine Smooth Muscle Tumor"
+        },
+        {
+            "code": "USTAD",
+            "name": "Undifferentiated Stomach Adenocarcinoma"
+        },
+        {
+            "code": "USTUMP",
+            "name": "Uterine Smooth Muscle Tumor of Uncertain Malignant Potential"
+        },
+        {
+            "code": "UTERUS",
+            "name": "Uterus"
+        },
+        {
+            "code": "UTUC",
+            "name": "Upper Tract Urothelial Carcinoma"
+        },
+        {
+            "code": "UUC",
+            "name": "Uterine Undifferentiated Carcinoma"
+        },
+        {
+            "code": "UUS",
+            "name": "Undifferentiated Uterine Sarcoma"
+        },
+        {
+            "code": "VA",
+            "name": "Vaginal Adenocarcinoma"
+        },
+        {
+            "code": "VDYS",
+            "name": "Dysgerminoma"
+        },
+        {
+            "code": "VGCE",
+            "name": "Villoglandular Adenocarcinoma of the Cervix"
+        },
+        {
+            "code": "VGCT",
+            "name": "Germ Cell Tumor of the Vulva"
+        },
+        {
+            "code": "VIMT",
+            "name": "Immature Teratoma"
+        },
+        {
+            "code": "VMA",
+            "name": "Mucinous Adenocarcinoma of the Vulva/Vagina"
+        },
+        {
+            "code": "VMGCT",
+            "name": "Mixed Germ Cell Tumor"
+        },
+        {
+            "code": "VMM",
+            "name": "Mucosal Melanoma of the Vulva/Vagina"
+        },
+        {
+            "code": "VMT",
+            "name": "Mature Teratoma"
+        },
+        {
+            "code": "VOEC",
+            "name": "Embryonal Carcinoma"
+        },
+        {
+            "code": "VPDC",
+            "name": "Poorly Differentiated Vaginal Carcinoma"
+        },
+        {
+            "code": "VPE",
+            "name": "Polyembryoma"
+        },
+        {
+            "code": "VPSCC",
+            "name": "Verrucous Penile Squamous Cell Carcinoma"
+        },
+        {
+            "code": "VSC",
+            "name": "Squamous Cell Carcinoma of the Vulva/Vagina"
+        },
+        {
+            "code": "VULVA",
+            "name": "Vulva/Vagina"
+        },
+        {
+            "code": "VYST",
+            "name": "Yolk Sac Tumor"
+        },
+        {
+            "code": "WDLS",
+            "name": "Well-Differentiated Liposarcoma"
+        },
+        {
+            "code": "WDTC",
+            "name": "Well-Differentiated Thyroid Cancer"
+        },
+        {
+            "code": "WM",
+            "name": "Waldenstrom Macroglobulinemia"
+        },
+        {
+            "code": "WPSCC",
+            "name": "Warty Penile Squamous Cell Carcinoma"
+        },
+        {
+            "code": "WT",
+            "name": "Wilms' Tumor"
+        },
+        {
+            "code": "megakaryoblastic",
+            "name": "AML"
+        }
+    ]
+}

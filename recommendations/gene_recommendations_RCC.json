@@ -1,0 +1,31 @@
+{
+  "RCC": {
+    "name": "Renal Cell Carcinoma",
+    "sample_count": 288,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "PBRM1",
+        "SETD2",
+        "BAP1",
+        "KDM5C",
+        "TP53",
+        "MTOR",
+        "TSC1",
+        "TSC2"
+      ],
+      "Expression-Based": [
+        "CA9",
+        "KRT7",
+        "CD70",
+        "CD10",
+        "AMACR"
+      ],
+      "Pathways": [
+        "Hypoxia-inducible factor (HIF) pathway",
+        "PI3K/AKT/mTOR pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "THYM": {
+    "name": "Thymoma",
+    "sample_count": 371,
+    "recommendations": {
+      "Mutation-Based": [
+        "GTF2I",
+        "HRAS",
+        "NRAS",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "FOXP3",
+        "CD4",
+        "CD8",
+        "CD5",
+        "TdT"
+      ],
+      "Pathways": [
+        "RAS signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

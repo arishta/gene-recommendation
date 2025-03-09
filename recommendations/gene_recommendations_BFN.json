@@ -1,0 +1,12 @@
+{
+  "BFN": {
+    "name": "Breast Fibroepithelial Neoplasms",
+    "sample_count": 22,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Breast Fibroepithelial Neoplasms (BFN) include benign fibroadenomas and phyllodes tumors. The most commonly mutated genes in these tumors are MED12, RARA, FLNA, SETD2, and RB1. MED12 mutations are particularly common in fibroadenomas, while TP53 mutations are more common in malignant phyllodes tumors. \n\nIn terms of molecular subtyping, MED12 and RARA are often used. MED12 mutations can help differentiate between fibroadenomas and phyllodes tumors, while RARA mutations are associated with a specific subtype of fibroadenomas.\n\nFor prognosis or treatment decisions, TP53 and RB1 are important. TP53 mutations are associated with a worse prognosis in phyllodes tumors, while RB1 mutations can be used to predict response to CDK4/6 inhibitors.\n\nThe Wnt signaling pathway is also relevant in these tumors, as it is often dysregulated in fibroadenomas and phyllodes tumors.\n\nHere is the requested JSON object:\n\n{\n    \"mutation_based\": [\"MED12\", \"RARA\", \"FLNA\", \"SETD2\", \"RB1\", \"TP53\"],\n    \"expression_based\": [\"MED12\", \"RARA\"],\n    \"pathways\": [\"Wnt signaling pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

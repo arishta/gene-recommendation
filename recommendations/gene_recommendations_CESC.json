@@ -1,0 +1,29 @@
+{
+  "CESC": {
+    "name": "Cervical Squamous Cell Carcinoma",
+    "sample_count": 916,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "KRAS",
+        "PTEN",
+        "STK11"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDKN2A",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  }
+}

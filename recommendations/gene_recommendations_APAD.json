@@ -1,0 +1,12 @@
+{
+  "APAD": {
+    "name": "Appendiceal Adenocarcinoma",
+    "sample_count": 273,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: The information about the specific genes and pathways relevant for classifying Appendiceal Adenocarcinoma (APAD) is not readily available. However, based on the general knowledge of cancer genomics, the following genes and pathways might be relevant:\n\n{\n    \"mutation_based\": [\"KRAS\", \"TP53\", \"GNAS\", \"SMAD4\", \"PIK3CA\"],\n    \"expression_based\": [\"CEA\", \"CA19-9\", \"CA-125\"],\n    \"pathways\": [\"RAS signaling pathway\", \"p53 signaling pathway\", \"PI3K-Akt signaling pathway\"]\n}\n\nPlease note that this is a hypothetical answer and the actual genes and pathways may vary. It is recommended to consult the latest research literature or genomic databases for the most accurate and up-to-date information.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

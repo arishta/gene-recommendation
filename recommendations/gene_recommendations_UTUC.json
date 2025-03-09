@@ -1,0 +1,25 @@
+{
+  "UTUC": {
+    "name": "Upper Tract Urothelial Carcinoma",
+    "sample_count": 359,
+    "recommendations": {
+      "Mutation-Based": [
+        "FGFR3",
+        "TP53",
+        "KMT2D",
+        "PIK3CA",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "ERCC2",
+        "MDM2",
+        "CDKN1A"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  }
+}

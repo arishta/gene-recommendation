@@ -1,0 +1,29 @@
+{
+  "ALAL": {
+    "name": "Acute Leukemias of Ambiguous Lineage",
+    "sample_count": 233,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCR-ABL1",
+        "ETV6-RUNX1",
+        "MLL",
+        "TAL1",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CD19",
+        "CD22",
+        "CD79a",
+        "CD3",
+        "CD7"
+      ],
+      "Pathways": [
+        "BCR-ABL signaling",
+        "ETV6-RUNX1 signaling",
+        "MLL rearrangement",
+        "TAL1 complex",
+        "TP53 pathway"
+      ]
+    }
+  }
+}

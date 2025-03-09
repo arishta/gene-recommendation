@@ -1,0 +1,31 @@
+{
+  "IHCH": {
+    "name": "Intrahepatic Cholangiocarcinoma",
+    "sample_count": 742,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "KRAS",
+        "BAP1",
+        "TP53",
+        "FGFR2",
+        "ARID1A",
+        "PIK3CA",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MET",
+        "VEGFA",
+        "PDGFRA"
+      ],
+      "Pathways": [
+        "PI3K/AKT/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "FGFR signaling pathway",
+        "TGF-beta signaling pathway"
+      ]
+    }
+  }
+}

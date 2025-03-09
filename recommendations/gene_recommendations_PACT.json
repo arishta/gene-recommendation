@@ -1,0 +1,31 @@
+{
+  "PACT": {
+    "name": "Cystic Tumor of the Pancreas",
+    "sample_count": 32,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "GNAS",
+        "RNF43",
+        "TP53",
+        "SMAD4",
+        "PIK3CA",
+        "PTEN",
+        "BRAF",
+        "CTNNB1"
+      ],
+      "Expression-Based": [
+        "MUC1",
+        "MUC2",
+        "MUC5AC",
+        "MUC6"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway"
+      ]
+    }
+  }
+}

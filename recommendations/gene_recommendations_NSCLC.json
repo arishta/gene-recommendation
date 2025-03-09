@@ -1,0 +1,33 @@
+{
+  "NSCLC": {
+    "name": "Non-Small Cell Lung Cancer",
+    "sample_count": 4906,
+    "recommendations": {
+      "Mutation-Based": [
+        "EGFR",
+        "KRAS",
+        "ALK",
+        "ROS1",
+        "BRAF",
+        "MET",
+        "RET",
+        "TP53",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "TTF1",
+        "Napsin A",
+        "P63",
+        "CK5/6"
+      ],
+      "Pathways": [
+        "EGFR signaling pathway",
+        "KRAS signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  }
+}

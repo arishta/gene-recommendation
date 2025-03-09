@@ -1,0 +1,12 @@
+{
+  "SCCO": {
+    "name": "Small Cell Carcinoma of the Ovary",
+    "sample_count": 12,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Small Cell Carcinoma of the Ovary, Hypercalcemic Type (SCCOHT) is a rare, aggressive ovarian cancer that primarily affects young women. The most commonly mutated gene in SCCOHT is SMARCA4, a member of the SWI/SNF chromatin-remodeling complex. Mutations in this gene are found in over 90% of cases and are considered a hallmark of this disease. \n\nThere are no well-established expression-based markers for SCCOHT, as this disease is primarily defined by its genetic alterations rather than its gene expression profile. \n\nThe SWI/SNF chromatin-remodeling pathway, which includes SMARCA4, is the most relevant pathway for SCCOHT. This pathway is involved in DNA repair, gene expression, and cell cycle control, and its disruption can lead to uncontrolled cell growth and cancer.\n\nHere is the requested JSON object:\n\n{\n    \"mutation_based\": [\"SMARCA4\"],\n    \"expression_based\": [],\n    \"pathways\": [\"SWI/SNF chromatin-remodeling pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

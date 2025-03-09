@@ -1,0 +1,25 @@
+{
+  "DESM": {
+    "name": "Desmoplastic Melanoma",
+    "sample_count": 20,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "TP53",
+        "CDKN2A",
+        "TERT"
+      ],
+      "Expression-Based": [
+        "MLANA",
+        "PMEL",
+        "TYR",
+        "MITF"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

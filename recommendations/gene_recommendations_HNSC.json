@@ -1,0 +1,27 @@
+{
+  "HNSC": {
+    "name": "Head and Neck Squamous Cell Carcinoma",
+    "sample_count": 2008,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "NOTCH1",
+        "HRAS"
+      ],
+      "Expression-Based": [
+        "EGFR",
+        "CCND1",
+        "VIM",
+        "CD44"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Notch signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "SOFT_TISSUE": {
+    "name": "Soft Tissue",
+    "sample_count": 11185,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "RB1",
+        "KIT",
+        "PDGFRA",
+        "NF1"
+      ],
+      "Expression-Based": [
+        "MYOD1",
+        "MYF5",
+        "MYOG",
+        "MYCN",
+        "PAX3",
+        "PAX7"
+      ],
+      "Pathways": [
+        "RAS-MAPK pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway",
+        "RTK-RAS pathway"
+      ]
+    }
+  }
+}

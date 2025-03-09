@@ -1,0 +1,2823 @@
+{
+  "BRCA": {
+    "name": "Invasive Breast Carcinoma",
+    "sample_count": 13420,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "BRCA1",
+        "BRCA2",
+        "PTEN",
+        "AKT1",
+        "CDH1",
+        "GATA3"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "ESR1",
+        "PGR",
+        "MKI67",
+        "FOXA1",
+        "BCL2"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "ERBB signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "SOFT_TISSUE": {
+    "name": "Soft Tissue",
+    "sample_count": 11185,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "RB1",
+        "KIT",
+        "PDGFRA",
+        "NF1"
+      ],
+      "Expression-Based": [
+        "MYOD1",
+        "MYF5",
+        "MYOG",
+        "MYCN",
+        "PAX3",
+        "PAX7"
+      ],
+      "Pathways": [
+        "RAS-MAPK pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway",
+        "RTK-RAS pathway"
+      ]
+    }
+  },
+  "PRAD": {
+    "name": "Prostate Adenocarcinoma",
+    "sample_count": 10876,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "BRCA2",
+        "BRCA1",
+        "ATM",
+        "SPOP",
+        "FOXA1"
+      ],
+      "Expression-Based": [
+        "ERG",
+        "ETV1",
+        "ETV4",
+        "ETV5",
+        "SPINK1"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "Androgen Receptor signaling pathway",
+        "DNA Damage Response pathway"
+      ]
+    }
+  },
+  "LUAD": {
+    "name": "Lung Adenocarcinoma",
+    "sample_count": 7945,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "EGFR",
+        "ALK",
+        "BRAF",
+        "ROS1",
+        "MET",
+        "TP53",
+        "STK11",
+        "KEAP1"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "RET",
+        "NTRK1",
+        "NTRK2",
+        "NTRK3"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT pathway",
+        "JAK/STAT pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  },
+  "MDS": {
+    "name": "Myelodysplastic Syndromes",
+    "sample_count": 7583,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "TET2",
+        "ASXL1",
+        "RUNX1",
+        "SF3B1",
+        "SRSF2",
+        "U2AF1",
+        "ZRSR2",
+        "DNMT3A",
+        "NPM1",
+        "FLT3",
+        "CBL",
+        "NRAS",
+        "KRAS",
+        "IDH1",
+        "IDH2",
+        "EZH2"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "RNA splicing",
+        "DNA methylation",
+        "Histone modification",
+        "Signal transduction",
+        "Transcriptional regulation"
+      ]
+    }
+  },
+  "AML": {
+    "name": "Acute Myeloid Leukemia",
+    "sample_count": 5769,
+    "recommendations": {
+      "Mutation-Based": [
+        "NPM1",
+        "FLT3",
+        "CEBPA",
+        "RUNX1",
+        "TP53",
+        "IDH1",
+        "IDH2",
+        "DNMT3A",
+        "TET2",
+        "ASXL1"
+      ],
+      "Expression-Based": [
+        "BAALC",
+        "ERG",
+        "WT1",
+        "MN1"
+      ],
+      "Pathways": [
+        "FLT3 signaling",
+        "RAS signaling",
+        "JAK-STAT signaling",
+        "p53 pathway"
+      ]
+    }
+  },
+  "DIFG": {
+    "name": "Diffuse Glioma",
+    "sample_count": 5062,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "TP53",
+        "ATRX",
+        "EGFR",
+        "PTEN",
+        "NF1",
+        "PDGFRA",
+        "PIK3CA",
+        "BRAF"
+      ],
+      "Expression-Based": [
+        "GFAP",
+        "OLIG2",
+        "SOX2",
+        "Nestin",
+        "Vimentin"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 pathway",
+        "Glioma CpG island methylator phenotype (G-CIMP)"
+      ]
+    }
+  },
+  "NSCLC": {
+    "name": "Non-Small Cell Lung Cancer",
+    "sample_count": 4906,
+    "recommendations": {
+      "Mutation-Based": [
+        "EGFR",
+        "KRAS",
+        "ALK",
+        "ROS1",
+        "BRAF",
+        "MET",
+        "RET",
+        "TP53",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "TTF1",
+        "Napsin A",
+        "P63",
+        "CK5/6"
+      ],
+      "Pathways": [
+        "EGFR signaling pathway",
+        "KRAS signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  },
+  "COADREAD": {
+    "name": "Colorectal Adenocarcinoma",
+    "sample_count": 4625,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "TP53",
+        "KRAS",
+        "PIK3CA",
+        "BRAF",
+        "SMAD4",
+        "FBXW7"
+      ],
+      "Expression-Based": [
+        "MSH2",
+        "MLH1",
+        "MSH6",
+        "PMS2",
+        "EPCAM"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K/Akt signaling pathway",
+        "MAPK signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  },
+  "UCEC": {
+    "name": "Endometrial Carcinoma",
+    "sample_count": 4453,
+    "recommendations": {
+      "Mutation-Based": [
+        "PTEN",
+        "PIK3CA",
+        "KRAS",
+        "TP53",
+        "CTNNB1",
+        "ARID1A"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "PI3K/AKT pathway",
+        "Wnt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "HCC": {
+    "name": "Hepatocellular Carcinoma",
+    "sample_count": 3853,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CTNNB1",
+        "AXIN1",
+        "TERT",
+        "ARID2",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "AFP",
+        "G6PC",
+        "ALB",
+        "GGT1",
+        "GLUL"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "BREAST": {
+    "name": "Breast",
+    "sample_count": 3603,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRCA1",
+        "BRCA2",
+        "TP53",
+        "PIK3CA",
+        "PTEN",
+        "AKT1",
+        "CDH1",
+        "ERBB2"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2",
+        "Ki-67"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "ER signaling pathway",
+        "HER2 signaling pathway"
+      ]
+    }
+  },
+  "BLCA": {
+    "name": "Bladder Urothelial Carcinoma",
+    "sample_count": 3199,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "FGFR3",
+        "PIK3CA",
+        "RB1",
+        "ERBB2"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "CDKN2A",
+        "MDM2",
+        "CCND1"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  },
+  "SKCM": {
+    "name": "Cutaneous Melanoma",
+    "sample_count": 3068,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "KIT",
+        "TP53",
+        "CDKN2A",
+        "PTEN",
+        "TERT"
+      ],
+      "Expression-Based": [
+        "MITF",
+        "SOX10",
+        "S100",
+        "HMB45"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "BLL": {
+    "name": "B-Lymphoblastic Leukemia/Lymphoma",
+    "sample_count": 3065,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCR-ABL1",
+        "ETV6-RUNX1",
+        "TCF3-PBX1",
+        "MLL",
+        "TAL1",
+        "TP53",
+        "IKZF1",
+        "JAK2",
+        "PAX5",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "BCR-ABL1",
+        "ETV6-RUNX1",
+        "TCF3-PBX1",
+        "MLL",
+        "TAL1"
+      ],
+      "Pathways": [
+        "BCR-ABL1 pathway",
+        "JAK-STAT pathway",
+        "Pre-B Cell Receptor Signaling",
+        "TP53 pathway"
+      ]
+    }
+  },
+  "PROSTATE": {
+    "name": "Prostate",
+    "sample_count": 2981,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "BRCA2",
+        "BRCA1",
+        "ATM",
+        "RB1",
+        "MSH2",
+        "MSH6"
+      ],
+      "Expression-Based": [
+        "ERG",
+        "ETV1",
+        "ETV4",
+        "ETV5",
+        "SPINK1"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "DNA repair pathway",
+        "Androgen receptor signaling pathway"
+      ]
+    }
+  },
+  "PANCREAS": {
+    "name": "Pancreas",
+    "sample_count": 2935,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "TP53",
+        "CDKN2A",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "GATA6",
+        "HNF1A",
+        "KRT81"
+      ],
+      "Pathways": [
+        "Ras signaling pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "GBM": {
+    "name": "Glioblastoma Multiforme",
+    "sample_count": 2851,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "EGFR",
+        "PTEN",
+        "NF1",
+        "IDH1",
+        "RB1"
+      ],
+      "Expression-Based": [
+        "MGMT",
+        "GFAP",
+        "OLIG2",
+        "SOX2",
+        "Nestin"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 pathway",
+        "RB pathway"
+      ]
+    }
+  },
+  "BOWEL": {
+    "name": "Bowel",
+    "sample_count": 2557,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "TP53",
+        "KRAS",
+        "BRAF",
+        "PIK3CA",
+        "SMAD4",
+        "FBXW7"
+      ],
+      "Expression-Based": [
+        "MSH2",
+        "MLH1",
+        "MSH6",
+        "PMS2",
+        "EPCAM"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  },
+  "CLLSLL": {
+    "name": "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
+    "sample_count": 2462,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "NOTCH1",
+        "SF3B1",
+        "BIRC3",
+        "MYD88"
+      ],
+      "Expression-Based": [
+        "ZAP70",
+        "CD38",
+        "IGHV"
+      ],
+      "Pathways": [
+        "NOTCH signaling pathway",
+        "NF-kappa B signaling pathway",
+        "BCR signaling pathway"
+      ]
+    }
+  },
+  "CCRCC": {
+    "name": "Renal Clear Cell Carcinoma",
+    "sample_count": 2351,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "PBRM1",
+        "SETD2",
+        "BAP1",
+        "KDM5C",
+        "MTOR",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CA9",
+        "CD70",
+        "KRT7",
+        "AMACR",
+        "CD10"
+      ],
+      "Pathways": [
+        "Hypoxia-inducible factor (HIF) pathway",
+        "PI3K/AKT/mTOR pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "HGSOC": {
+    "name": "High-Grade Serous Ovarian Cancer",
+    "sample_count": 2338,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "BRCA1",
+        "BRCA2",
+        "NF1",
+        "CDK12"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "FOXM1",
+        "CCNE1"
+      ],
+      "Pathways": [
+        "Homologous recombination",
+        "Cell cycle",
+        "PI3K/AKT/mTOR signaling"
+      ]
+    }
+  },
+  "BLADDER": {
+    "name": "Bladder/Urinary Tract",
+    "sample_count": 2315,
+    "recommendations": {
+      "Mutation-Based": [
+        "FGFR3",
+        "TP53",
+        "RB1",
+        "ERBB2",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDKN2A",
+        "MDM2"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  },
+  "THPA": {
+    "name": "Papillary Thyroid Cancer",
+    "sample_count": 2027,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "RAS",
+        "RET",
+        "PTC",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "TERT",
+        "NTRK1",
+        "MET",
+        "ALK"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  },
+  "HNSC": {
+    "name": "Head and Neck Squamous Cell Carcinoma",
+    "sample_count": 2008,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "NOTCH1",
+        "HRAS"
+      ],
+      "Expression-Based": [
+        "EGFR",
+        "CCND1",
+        "VIM",
+        "CD44"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Notch signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "NBL": {
+    "name": "Neuroblastoma",
+    "sample_count": 2001,
+    "recommendations": {
+      "Mutation-Based": [
+        "ALK",
+        "MYCN",
+        "PHOX2B",
+        "ATRX",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "NTRK1",
+        "BDNF",
+        "PHOX2B",
+        "TH",
+        "DBH",
+        "DCX",
+        "DACH1",
+        "FYN",
+        "GABRB3",
+        "ISL1",
+        "KIF1A",
+        "PHOX2A",
+        "PTPN6",
+        "TFAP2B",
+        "TLX3"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "STAD": {
+    "name": "Stomach Adenocarcinoma",
+    "sample_count": 1955,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "PIK3CA",
+        "ARID1A",
+        "CDH1"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "VEGFA",
+        "EGFR",
+        "MET",
+        "FGFR2"
+      ],
+      "Pathways": [
+        "RTK-RAS",
+        "PI3K",
+        "Cell Cycle",
+        "Wnt",
+        "TGF-beta"
+      ]
+    }
+  },
+  "LUSC": {
+    "name": "Lung Squamous Cell Carcinoma",
+    "sample_count": 1849,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PTEN",
+        "PIK3CA",
+        "KEAP1",
+        "NFE2L2",
+        "NOTCH1"
+      ],
+      "Expression-Based": [
+        "SOX2",
+        "TP63",
+        "KRT5",
+        "CCND1",
+        "FGFR1"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "KEAP1/NRF2 pathway",
+        "Notch signaling pathway"
+      ]
+    }
+  },
+  "MBN": {
+    "name": "Mature B-Cell Neoplasms",
+    "sample_count": 1453,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYD88",
+        "CD79B",
+        "PIM1",
+        "CCND1",
+        "BCL2",
+        "BCL6",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CD20",
+        "CD19",
+        "CD22",
+        "CD79A",
+        "CD79B"
+      ],
+      "Pathways": [
+        "BCR signaling pathway",
+        "NF-kappa B signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  },
+  "STOMACH": {
+    "name": "Esophagus/Stomach",
+    "sample_count": 1389,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDH1",
+        "KRAS",
+        "PIK3CA",
+        "SMAD4",
+        "ARID1A",
+        "ERBB2"
+      ],
+      "Expression-Based": [
+        "HER2",
+        "PD-L1",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "Cell cycle",
+        "PI3K-Akt signaling pathway",
+        "ERBB signaling pathway",
+        "VEGF signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "PAAD": {
+    "name": "Pancreatic Adenocarcinoma",
+    "sample_count": 1360,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "TP53",
+        "CDKN2A",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "GATA6",
+        "HNF1A",
+        "KRT81"
+      ],
+      "Pathways": [
+        "RAS signaling pathway",
+        "p53 signaling pathway",
+        "Pancreatic cancer pathway"
+      ]
+    }
+  },
+  "EGC": {
+    "name": "Esophagogastric Adenocarcinoma",
+    "sample_count": 1347,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDH1",
+        "KRAS",
+        "PIK3CA",
+        "ERBB2",
+        "SMAD4",
+        "ARID1A"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "VEGFA",
+        "EGFR",
+        "MET",
+        "FGFR2"
+      ],
+      "Pathways": [
+        "RTK-RAS",
+        "PI3K-AKT",
+        "TP53",
+        "Cell Cycle",
+        "WNT",
+        "TGF-beta signaling"
+      ]
+    }
+  },
+  "DLBCLNOS": {
+    "name": "Diffuse Large B-Cell Lymphoma, NOS",
+    "sample_count": 1338,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYD88",
+        "CD79B",
+        "EZH2",
+        "BCL2",
+        "BCL6",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CD10",
+        "BCL6",
+        "MUM1"
+      ],
+      "Pathways": [
+        "NF-kB signaling",
+        "PI3K/AKT/mTOR signaling",
+        "JAK-STAT signaling"
+      ]
+    }
+  },
+  "ACYC": {
+    "name": "Adenoid Cystic Carcinoma",
+    "sample_count": 1298,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Adenoid Cystic Carcinoma (ACC) is a rare form of cancer that primarily affects the salivary glands. The most commonly mutated gene in ACC is MYB, which is involved in cell cycle regulation and differentiation. The MYB-NFIB fusion gene, resulting from a t(6;9)(q22-23;p23-24) translocation, is also frequently observed in ACC. Other genes that are less commonly mutated but still relevant include NOTCH1, BRAF, and TP53.\n\nIn terms of molecular subtyping, MYB and MYBL1 are the most commonly used markers. MYB expression is associated with the classic and cribriform subtypes of ACC, while MYBL1 expression is associated with the tubular subtype.\n\nFor prognosis, the presence of the MYB-NFIB fusion gene is associated with a worse prognosis. High expression of MYB or MYBL1 is also associated with a worse prognosis.\n\nIn terms of treatment decisions, there are currently no targeted therapies for ACC. However, clinical trials are investigating the use of drugs targeting the MYB pathway, such as BET inhibitors.\n\nHere is the requested JSON object:\n\n{\n    \"mutation_based\": [\"MYB\", \"MYBL1\", \"NOTCH1\", \"BRAF\", \"TP53\"],\n    \"expression_based\": [\"MYB\", \"MYBL1\"],\n    \"pathways\": [\"MYB pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  },
+  "COAD": {
+    "name": "Colon Adenocarcinoma",
+    "sample_count": 1059,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "KRAS",
+        "TP53",
+        "PIK3CA",
+        "BRAF",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "MSH2",
+        "MSH6",
+        "MLH1",
+        "PMS2",
+        "EPCAM"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  },
+  "GIST": {
+    "name": "Gastrointestinal Stromal Tumor",
+    "sample_count": 968,
+    "recommendations": {
+      "Mutation-Based": [
+        "KIT",
+        "PDGFRA",
+        "SDH",
+        "BRAF",
+        "NF1"
+      ],
+      "Expression-Based": [
+        "DOG1",
+        "CD34",
+        "S100",
+        "Desmin"
+      ],
+      "Pathways": [
+        "RTK/RAS pathway",
+        "SDH complex pathway"
+      ]
+    }
+  },
+  "CESC": {
+    "name": "Cervical Squamous Cell Carcinoma",
+    "sample_count": 916,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "KRAS",
+        "PTEN",
+        "STK11"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDKN2A",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  },
+  "CHOL": {
+    "name": "Cholangiocarcinoma",
+    "sample_count": 885,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "KRAS",
+        "BRAF",
+        "TP53",
+        "SMAD4",
+        "FGFR2"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MET",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "Notch signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway"
+      ]
+    }
+  },
+  "PRCC": {
+    "name": "Papillary Renal Cell Carcinoma",
+    "sample_count": 868,
+    "recommendations": {
+      "Mutation-Based": [
+        "MET",
+        "FH",
+        "NF2",
+        "SETD2",
+        "KDM6A",
+        "SMARCB1"
+      ],
+      "Expression-Based": [
+        "CCND1",
+        "CDKN2A",
+        "EGFR",
+        "ERBB2"
+      ],
+      "Pathways": [
+        "mTOR signaling pathway",
+        "Hippo signaling pathway",
+        "Ras signaling pathway"
+      ]
+    }
+  },
+  "MBL": {
+    "name": "Medulloblastoma",
+    "sample_count": 791,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTCH1",
+        "SMO",
+        "CTNNB1",
+        "MYC",
+        "MYCN"
+      ],
+      "Expression-Based": [
+        "WNT",
+        "SHH",
+        "Group 3",
+        "Group 4"
+      ],
+      "Pathways": [
+        "Sonic Hedgehog pathway",
+        "WNT pathway"
+      ]
+    }
+  },
+  "WT": {
+    "name": "Wilms' Tumor",
+    "sample_count": 789,
+    "recommendations": {
+      "Mutation-Based": [
+        "WT1",
+        "WTX",
+        "CTNNB1",
+        "TP53",
+        "DROSHA",
+        "DGCR8",
+        "SIX1",
+        "SIX2",
+        "MYCN"
+      ],
+      "Expression-Based": [
+        "WT1",
+        "WNT4",
+        "NCAM",
+        "NEFH"
+      ],
+      "Pathways": [
+        "Wnt/\u03b2-catenin signaling pathway",
+        "miRNA processing pathway",
+        "TP53 pathway"
+      ]
+    }
+  },
+  "OVARY": {
+    "name": "Ovary/Fallopian Tube",
+    "sample_count": 762,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRCA1",
+        "BRCA2",
+        "TP53",
+        "KRAS",
+        "PTEN",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "PGR",
+        "ESR1",
+        "FOXL2"
+      ],
+      "Pathways": [
+        "Homologous recombination",
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "IHCH": {
+    "name": "Intrahepatic Cholangiocarcinoma",
+    "sample_count": 742,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "KRAS",
+        "BAP1",
+        "TP53",
+        "FGFR2",
+        "ARID1A",
+        "PIK3CA",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MET",
+        "VEGFA",
+        "PDGFRA"
+      ],
+      "Pathways": [
+        "PI3K/AKT/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "FGFR signaling pathway",
+        "TGF-beta signaling pathway"
+      ]
+    }
+  },
+  "ESCA": {
+    "name": "Esophageal Adenocarcinoma",
+    "sample_count": 705,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "SMAD4",
+        "PIK3CA",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "VEGFA",
+        "EGFR",
+        "MET"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "Cell cycle",
+        "PI3K-Akt signaling pathway",
+        "Ras signaling pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  },
+  "LUNG": {
+    "name": "Lung",
+    "sample_count": 687,
+    "recommendations": {
+      "Mutation-Based": [
+        "EGFR",
+        "KRAS",
+        "ALK",
+        "ROS1",
+        "BRAF",
+        "MET",
+        "RET",
+        "TP53",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "PD-L1",
+        "TTF-1",
+        "Napsin A"
+      ],
+      "Pathways": [
+        "EGFR signaling pathway",
+        "KRAS signaling pathway",
+        "ALK fusion",
+        "ROS1 fusion",
+        "BRAF mutation pathway",
+        "MET exon 14 skipping",
+        "RET rearrangements",
+        "PI3K/AKT/mTOR pathway"
+      ]
+    }
+  },
+  "ES": {
+    "name": "Ewing Sarcoma",
+    "sample_count": 512,
+    "recommendations": {
+      "Mutation-Based": [
+        "EWSR1",
+        "FLI1",
+        "ERG"
+      ],
+      "Expression-Based": [
+        "NKX2-2",
+        "CCNB1",
+        "CD99"
+      ],
+      "Pathways": [
+        "Insulin-like growth factor 1 (IGF-1) pathway",
+        "Wnt signaling pathway"
+      ]
+    }
+  },
+  "GBC": {
+    "name": "Gallbladder Cancer",
+    "sample_count": 379,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "ERBB2",
+        "PIK3CA",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "HER2",
+        "EGFR",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "Ras signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "THYM": {
+    "name": "Thymoma",
+    "sample_count": 371,
+    "recommendations": {
+      "Mutation-Based": [
+        "GTF2I",
+        "HRAS",
+        "NRAS",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "FOXP3",
+        "CD4",
+        "CD8",
+        "CD5",
+        "TdT"
+      ],
+      "Pathways": [
+        "RAS signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "MNET": {
+    "name": "Miscellaneous Neuroepithelial Tumor",
+    "sample_count": 368,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: I'm sorry, but there isn't enough specific information available on the genetic markers and pathways for Miscellaneous Neuroepithelial Tumor (OncoTree code: MNET) to provide a detailed JSON object as requested. This is a rare and diverse group of tumors, and the genetic landscape is not well-defined. \n\nHowever, neuroepithelial tumors in general are often associated with alterations in genes such as TP53, PTEN, EGFR, and IDH1/IDH2, and pathways such as the p53 signaling pathway, PI3K-Akt signaling pathway, and MAPK signaling pathway. \n\nPlease note that this information is general to neuroepithelial tumors and may not apply to all cases of MNET. It's also important to note that the genetic landscape of a tumor can vary greatly between individuals, and genetic testing should be performed to determine the specific alterations present in each case.\n\nHere is a general JSON object based on the information available:\n\n{\n    \"mutation_based\": [\"TP53\", \"PTEN\", \"EGFR\", \"IDH1\", \"IDH2\"],\n    \"expression_based\": [],\n    \"pathways\": [\"p53 signaling pathway\", \"PI3K-Akt signaling pathway\", \"MAPK signaling pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  },
+  "UTUC": {
+    "name": "Upper Tract Urothelial Carcinoma",
+    "sample_count": 359,
+    "recommendations": {
+      "Mutation-Based": [
+        "FGFR3",
+        "TP53",
+        "KMT2D",
+        "PIK3CA",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "ERCC2",
+        "MDM2",
+        "CDKN1A"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  },
+  "TESTIS": {
+    "name": "Testis",
+    "sample_count": 350,
+    "recommendations": {
+      "Mutation-Based": [
+        "KIT",
+        "KRAS",
+        "NRAS",
+        "BRAF",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "AFP",
+        "HCG",
+        "LDH"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "NSGCT": {
+    "name": "Non-Seminomatous Germ Cell Tumor",
+    "sample_count": 312,
+    "recommendations": {
+      "Mutation-Based": [
+        "KIT",
+        "KRAS",
+        "NRAS",
+        "BRAF",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "AFP",
+        "HCG",
+        "LDH"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "CHRCC": {
+    "name": "Chromophobe Renal Cell Carcinoma",
+    "sample_count": 310,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "BAP1"
+      ],
+      "Expression-Based": [
+        "KRT7",
+        "KRT19",
+        "CD82"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "SKIN": {
+    "name": "Skin",
+    "sample_count": 307,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "KIT",
+        "TP53",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "MITF",
+        "SOX10",
+        "S100",
+        "HMB45"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "THYROID": {
+    "name": "Thyroid",
+    "sample_count": 307,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "RAS",
+        "RET",
+        "PTC",
+        "PPAR\u03b3",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "TERT",
+        "NIS",
+        "TPO",
+        "TG",
+        "TSHR"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "RET signaling pathway"
+      ]
+    }
+  },
+  "PLMESO": {
+    "name": "Pleural Mesothelioma",
+    "sample_count": 297,
+    "recommendations": {
+      "Mutation-Based": [
+        "BAP1",
+        "NF2",
+        "CDKN2A",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "WT1",
+        "CALB2",
+        "MSLN",
+        "THBS2",
+        "D2-40"
+      ],
+      "Pathways": [
+        "Hippo signaling pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "BCC": {
+    "name": "Basal Cell Carcinoma",
+    "sample_count": 293,
+    "recommendations": {
+      "Mutation-Based": [
+        "PTCH1",
+        "TP53",
+        "SMO",
+        "SUFU",
+        "MYCN"
+      ],
+      "Expression-Based": [
+        "GLI1",
+        "HHIP",
+        "PTCH2"
+      ],
+      "Pathways": [
+        "Hedgehog signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "BRAIN": {
+    "name": "CNS/Brain",
+    "sample_count": 292,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "TP53",
+        "EGFR",
+        "PTEN",
+        "BRAF",
+        "NF1",
+        "CDKN2A",
+        "ATRX",
+        "H3F3A",
+        "PIK3CA",
+        "TERT"
+      ],
+      "Expression-Based": [
+        "MGMT",
+        "1p/19q",
+        "EGFR",
+        "PDGFRA",
+        "NF1"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 pathway",
+        "RB pathway"
+      ]
+    }
+  },
+  "UEC": {
+    "name": "Uterine Endometrioid Carcinoma",
+    "sample_count": 292,
+    "recommendations": {
+      "Mutation-Based": [
+        "PTEN",
+        "PIK3CA",
+        "KRAS",
+        "ARID1A",
+        "CTNNB1"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "PI3K/AKT pathway",
+        "Wnt signaling pathway"
+      ]
+    }
+  },
+  "RCC": {
+    "name": "Renal Cell Carcinoma",
+    "sample_count": 288,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "PBRM1",
+        "SETD2",
+        "BAP1",
+        "KDM5C",
+        "TP53",
+        "MTOR",
+        "TSC1",
+        "TSC2"
+      ],
+      "Expression-Based": [
+        "CA9",
+        "KRT7",
+        "CD70",
+        "CD10",
+        "AMACR"
+      ],
+      "Pathways": [
+        "Hypoxia-inducible factor (HIF) pathway",
+        "PI3K/AKT/mTOR pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "ACC": {
+    "name": "Adrenocortical Carcinoma",
+    "sample_count": 276,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CTNNB1",
+        "ZFHX3",
+        "CDKN2A",
+        "RB1"
+      ],
+      "Expression-Based": [
+        "IGF2",
+        "SF1",
+        "DLK1",
+        "CYP11B1",
+        "CYP11B2"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "APAD": {
+    "name": "Appendiceal Adenocarcinoma",
+    "sample_count": 273,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: The information about the specific genes and pathways relevant for classifying Appendiceal Adenocarcinoma (APAD) is not readily available. However, based on the general knowledge of cancer genomics, the following genes and pathways might be relevant:\n\n{\n    \"mutation_based\": [\"KRAS\", \"TP53\", \"GNAS\", \"SMAD4\", \"PIK3CA\"],\n    \"expression_based\": [\"CEA\", \"CA19-9\", \"CA-125\"],\n    \"pathways\": [\"RAS signaling pathway\", \"p53 signaling pathway\", \"PI3K-Akt signaling pathway\"]\n}\n\nPlease note that this is a hypothetical answer and the actual genes and pathways may vary. It is recommended to consult the latest research literature or genomic databases for the most accurate and up-to-date information.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  },
+  "UM": {
+    "name": "Uveal Melanoma",
+    "sample_count": 268,
+    "recommendations": {
+      "Mutation-Based": [
+        "GNAQ",
+        "GNA11",
+        "BAP1",
+        "SF3B1",
+        "EIF1AX"
+      ],
+      "Expression-Based": [
+        "PRAME"
+      ],
+      "Pathways": [
+        "MAPK pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  },
+  "SCLC": {
+    "name": "Small Cell Lung Cancer",
+    "sample_count": 249,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "RB1",
+        "MYC",
+        "SLIT2",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ASCL1",
+        "NEUROD1",
+        "POU2F3",
+        "YAP1"
+      ],
+      "Pathways": [
+        "Notch signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "ALAL": {
+    "name": "Acute Leukemias of Ambiguous Lineage",
+    "sample_count": 233,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCR-ABL1",
+        "ETV6-RUNX1",
+        "MLL",
+        "TAL1",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CD19",
+        "CD22",
+        "CD79a",
+        "CD3",
+        "CD7"
+      ],
+      "Pathways": [
+        "BCR-ABL signaling",
+        "ETV6-RUNX1 signaling",
+        "MLL rearrangement",
+        "TAL1 complex",
+        "TP53 pathway"
+      ]
+    }
+  },
+  "ESCC": {
+    "name": "Esophageal Squamous Cell Carcinoma",
+    "sample_count": 227,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "NOTCH1",
+        "PIK3CA",
+        "CDKN2A",
+        "FBXW7"
+      ],
+      "Expression-Based": [
+        "SOX2",
+        "TP63",
+        "KRT5",
+        "CCND1",
+        "EGFR"
+      ],
+      "Pathways": [
+        "Notch signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "MEL": {
+    "name": "Melanoma",
+    "sample_count": 220,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "KIT",
+        "GNAQ",
+        "GNA11",
+        "TP53",
+        "CDKN2A",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "MITF",
+        "SOX10",
+        "S100",
+        "HMB45"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "READ": {
+    "name": "Rectal Adenocarcinoma",
+    "sample_count": 219,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "TP53",
+        "KRAS",
+        "PIK3CA",
+        "BRAF",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDH1",
+        "MUC2"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "EGFR signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  },
+  "PANET": {
+    "name": "Pancreatic Neuroendocrine Tumor",
+    "sample_count": 214,
+    "recommendations": {
+      "Mutation-Based": [
+        "MEN1",
+        "DAXX",
+        "ATRX",
+        "TP53",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "CHGA",
+        "SYP",
+        "INS"
+      ],
+      "Pathways": [
+        "mTOR signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  },
+  "PCM": {
+    "name": "Plasma Cell Myeloma",
+    "sample_count": 211,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "NRAS",
+        "BRAF",
+        "TP53",
+        "FGFR3",
+        "MMSET",
+        "CCND1",
+        "MYC"
+      ],
+      "Expression-Based": [
+        "CCND1",
+        "MAF",
+        "MMSET",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "TP53 pathway",
+        "NF-kB pathway",
+        "PI3K/AKT pathway"
+      ]
+    }
+  },
+  "UCS": {
+    "name": "Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor",
+    "sample_count": 193,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "PTEN",
+        "KRAS",
+        "PPP2R1A"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MLH1",
+        "MSH2",
+        "MSH6",
+        "PMS2"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  },
+  "CERVIX": {
+    "name": "Cervix",
+    "sample_count": 177,
+    "recommendations": {
+      "Mutation-Based": [
+        "PIK3CA",
+        "KRAS",
+        "PTEN",
+        "TP53",
+        "STK11"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "VEGFA",
+        "CDKN2A",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "Ras signaling pathway",
+        "Cell cycle",
+        "VEGF signaling pathway"
+      ]
+    }
+  },
+  "CSCC": {
+    "name": "Cutaneous Squamous Cell Carcinoma",
+    "sample_count": 176,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "NOTCH1",
+        "CDKN2A",
+        "HRAS",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "S100A7",
+        "KRT5",
+        "KRT14",
+        "KRT17"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "Notch signaling pathway",
+        "RAS signaling pathway",
+        "EGFR tyrosine kinase inhibitor resistance"
+      ]
+    }
+  },
+  "HCCIHCH": {
+    "name": "Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma",
+    "sample_count": 173,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CTNNB1",
+        "AXIN1",
+        "ARID1A",
+        "ARID2",
+        "PIK3CA",
+        "KRAS",
+        "BRAF",
+        "IDH1",
+        "IDH2"
+      ],
+      "Expression-Based": [
+        "AFP",
+        "GPC3",
+        "HSP70",
+        "GLUT1"
+      ],
+      "Pathways": [
+        "Wnt/\u03b2-catenin signaling pathway",
+        "PI3K/Akt/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "p53 pathway"
+      ]
+    }
+  },
+  "AMPCA": {
+    "name": "Ampullary Carcinoma",
+    "sample_count": 160,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "TP53",
+        "SMAD4",
+        "PIK3CA",
+        "APC"
+      ],
+      "Expression-Based": [
+        "MUC1",
+        "MUC2",
+        "CDX2",
+        "CK20",
+        "CK7"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  },
+  "OS": {
+    "name": "Osteosarcoma",
+    "sample_count": 159,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "RB1",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ALK",
+        "MET",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "Cell cycle",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  },
+  "HEAD_NECK": {
+    "name": "Head and Neck",
+    "sample_count": 151,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "NOTCH1",
+        "EGFR",
+        "HRAS",
+        "KRAS",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "HPV E6/E7",
+        "EGFR",
+        "HER2",
+        "MET",
+        "VEGF"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Ras signaling pathway",
+        "Notch signaling pathway",
+        "EGFR tyrosine kinase inhibitor resistance"
+      ]
+    }
+  },
+  "MPN": {
+    "name": "Myeloproliferative Neoplasms",
+    "sample_count": 151,
+    "recommendations": {
+      "Mutation-Based": [
+        "JAK2",
+        "CALR",
+        "MPL",
+        "ASXL1",
+        "TET2",
+        "IDH1",
+        "IDH2",
+        "SRSF2",
+        "SF3B1",
+        "U2AF1"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "JAK-STAT signaling pathway",
+        "Spliceosome"
+      ]
+    }
+  },
+  "OHNCA": {
+    "name": "Head and Neck Carcinoma, Other",
+    "sample_count": 150,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "NOTCH1",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "EGFR",
+        "VIM",
+        "CD44",
+        "MET",
+        "ALDH1"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Notch signaling pathway",
+        "EGFR tyrosine kinase inhibitor resistance",
+        "Epithelial-mesenchymal transition"
+      ]
+    }
+  },
+  "NCCRCC": {
+    "name": "Renal Non-Clear Cell Carcinoma",
+    "sample_count": 146,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "MET",
+        "FH",
+        "FLCN",
+        "TP53",
+        "TSC1",
+        "TSC2"
+      ],
+      "Expression-Based": [
+        "CA9",
+        "CD70",
+        "KRT7"
+      ],
+      "Pathways": [
+        "HIF-1 signaling pathway",
+        "mTOR signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  },
+  "MNM": {
+    "name": "Myeloid Neoplasm",
+    "sample_count": 136,
+    "recommendations": {
+      "Mutation-Based": [
+        "FLT3",
+        "NPM1",
+        "CEBPA",
+        "RUNX1",
+        "TP53",
+        "IDH1",
+        "IDH2",
+        "KIT",
+        "ASXL1",
+        "TET2"
+      ],
+      "Expression-Based": [
+        "BAALC",
+        "WT1",
+        "ERG",
+        "MN1",
+        "PRAME"
+      ],
+      "Pathways": [
+        "FLT3 signaling",
+        "RAS signaling",
+        "JAK-STAT signaling",
+        "p53 signaling",
+        "Cell cycle"
+      ]
+    }
+  },
+  "NST": {
+    "name": "Nerve Sheath Tumor",
+    "sample_count": 134,
+    "recommendations": {
+      "Mutation-Based": [
+        "NF1",
+        "TP53",
+        "CDKN2A",
+        "BRAF",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "S100",
+        "SOX10",
+        "GFAP"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "MTNN": {
+    "name": "Mature T and NK Neoplasms",
+    "sample_count": 132,
+    "recommendations": {
+      "Mutation-Based": [
+        "STAT3",
+        "STAT5B",
+        "JAK3",
+        "TP53",
+        "DNMT3A",
+        "TET2",
+        "IDH2",
+        "KRAS",
+        "NRAS",
+        "FLT3"
+      ],
+      "Expression-Based": [
+        "CD2",
+        "CD3",
+        "CD4",
+        "CD5",
+        "CD7",
+        "CD8",
+        "CD56"
+      ],
+      "Pathways": [
+        "JAK-STAT pathway",
+        "RAS-MAPK pathway",
+        "FLT3 signaling pathway",
+        "DNA methylation"
+      ]
+    }
+  },
+  "ANGS": {
+    "name": "Angiosarcoma",
+    "sample_count": 131,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "MYC"
+      ],
+      "Expression-Based": [
+        "FLT4",
+        "KDR",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "MNG": {
+    "name": "Meningioma",
+    "sample_count": 121,
+    "recommendations": {
+      "Mutation-Based": [
+        "NF2",
+        "TRAF7",
+        "KLF4",
+        "AKT1",
+        "SMARCB1",
+        "SMARCE1"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "PDGFRA",
+        "EGFR"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT pathway",
+        "Hippo pathway"
+      ]
+    }
+  },
+  "LGSOC": {
+    "name": "Low-Grade Serous Ovarian Cancer",
+    "sample_count": 119,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "BRAF",
+        "ERBB2",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "FOXM1",
+        "E2F1",
+        "CCNE1"
+      ],
+      "Pathways": [
+        "RAS-MAPK pathway",
+        "PI3K-AKT pathway",
+        "ERBB signalling pathway"
+      ]
+    }
+  },
+  "MRT": {
+    "name": "Rhabdoid Cancer",
+    "sample_count": 112,
+    "recommendations": {
+      "Mutation-Based": [
+        "SMARCB1",
+        "SMARCA4"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "SWI/SNF complex"
+      ]
+    }
+  },
+  "NHL": {
+    "name": "Non-Hodgkin Lymphoma",
+    "sample_count": 110,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCL2",
+        "BCL6",
+        "MYC",
+        "TP53",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "CD20",
+        "CD5",
+        "CD10",
+        "CD23",
+        "BCL6"
+      ],
+      "Pathways": [
+        "B-cell receptor signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "JAK-STAT signaling pathway"
+      ]
+    }
+  },
+  "RMS": {
+    "name": "Rhabdomyosarcoma",
+    "sample_count": 109,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "RAS",
+        "FGFR4",
+        "PIK3CA",
+        "PTEN",
+        "BCOR",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "PAX3",
+        "PAX7",
+        "FOXO1",
+        "MYOD1"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "PI3K/AKT/mTOR pathway",
+        "p53 pathway"
+      ]
+    }
+  },
+  "USARC": {
+    "name": "Uterine Sarcoma/Mesenchymal",
+    "sample_count": 108,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "PIK3CA",
+        "FBXW7",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Ras signaling pathway"
+      ]
+    }
+  },
+  "PCNSL": {
+    "name": "Primary DLBCL of the central nervous system",
+    "sample_count": 105,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYD88",
+        "CD79B",
+        "PIM1",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "BCL6",
+        "MUM1",
+        "CD10",
+        "FOXP1"
+      ],
+      "Pathways": [
+        "NF-kB pathway",
+        "JAK-STAT pathway",
+        "B-cell receptor signaling pathway"
+      ]
+    }
+  },
+  "PTAD": {
+    "name": "Pituitary Adenoma",
+    "sample_count": 104,
+    "recommendations": {
+      "Mutation-Based": [
+        "USP8",
+        "GNAS",
+        "TP53",
+        "MEN1",
+        "PRKAR1A",
+        "AIP",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "POMC",
+        "GH",
+        "PRL",
+        "ACTH",
+        "TSH",
+        "FSH",
+        "LH"
+      ],
+      "Pathways": [
+        "cAMP signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "RBL": {
+    "name": "Retinoblastoma",
+    "sample_count": 97,
+    "recommendations": {
+      "Mutation-Based": [
+        "RB1"
+      ],
+      "Expression-Based": [
+        "MYCN",
+        "MDM2",
+        "MDM4",
+        "E2F3"
+      ],
+      "Pathways": [
+        "RB/E2F pathway"
+      ]
+    }
+  },
+  "PAST": {
+    "name": "Pilocytic Astrocytoma",
+    "sample_count": 96,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NF1",
+        "FGFR1"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "MAPK signaling pathway"
+      ]
+    }
+  },
+  "PAAC": {
+    "name": "Acinar Cell Carcinoma of the Pancreas",
+    "sample_count": 70,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "SMAD4",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "MUC1",
+        "MUC2",
+        "MUC5AC"
+      ],
+      "Pathways": [
+        "TGF-beta signaling pathway",
+        "Pancreatic adenocarcinoma pathway"
+      ]
+    }
+  },
+  "URCC": {
+    "name": "Unclassified Renal Cell Carcinoma",
+    "sample_count": 62,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "PBRM1",
+        "SETD2",
+        "BAP1",
+        "TP53"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "HIF-1 signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "NPC": {
+    "name": "Nasopharyngeal Carcinoma",
+    "sample_count": 56,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "KRAS",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "EBV",
+        "LMP1",
+        "LMP2",
+        "EBNA1"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "Ras/Raf/MEK/ERK pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "HDCN": {
+    "name": "Histiocytic and Dendritic Cell Neoplasms",
+    "sample_count": 52,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "MAP2K1",
+        "NRAS",
+        "KRAS",
+        "PIK3CA"
+      ],
+      "Expression-Based": [
+        "CD1a",
+        "CD21",
+        "CD23",
+        "S100"
+      ],
+      "Pathways": [
+        "RAS-RAF-MEK-ERK pathway",
+        "PI3K-AKT pathway"
+      ]
+    }
+  },
+  "LIAD": {
+    "name": "Hepatocellular Adenoma",
+    "sample_count": 46,
+    "recommendations": {
+      "Mutation-Based": [
+        "HNF1A",
+        "CTNNB1",
+        "IL6ST",
+        "GPC3",
+        "GLUL",
+        "ARG1"
+      ],
+      "Expression-Based": [
+        "L-FABP",
+        "GS",
+        "GLUL",
+        "ARG1"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "JAK/STAT signaling pathway"
+      ]
+    }
+  },
+  "MYELOID": {
+    "name": "Myeloid",
+    "sample_count": 44,
+    "recommendations": {
+      "Mutation-Based": [
+        "NPM1",
+        "FLT3",
+        "CEBPA",
+        "RUNX1",
+        "TP53",
+        "ASXL1",
+        "TET2",
+        "DNMT3A",
+        "IDH1",
+        "IDH2"
+      ],
+      "Expression-Based": [
+        "BAALC",
+        "ERG",
+        "WT1",
+        "MN1",
+        "PRAME"
+      ],
+      "Pathways": [
+        "JAK-STAT signaling pathway",
+        "RAS signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "BILIARY_TRACT": {
+    "name": "Biliary Tract",
+    "sample_count": 36,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "SMAD4",
+        "IDH1",
+        "IDH2",
+        "BAP1",
+        "ARID1A",
+        "PIK3CA",
+        "FGFR2"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MET",
+        "EGFR"
+      ],
+      "Pathways": [
+        "PI3K/AKT/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "TGF-beta signaling pathway"
+      ]
+    }
+  },
+  "LYMPH": {
+    "name": "Lymphoid",
+    "sample_count": 34,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCL2",
+        "BCL6",
+        "MYC",
+        "TP53",
+        "NOTCH1",
+        "IGH",
+        "TET2",
+        "IDH2",
+        "DNMT3A",
+        "JAK2",
+        "CALR",
+        "MPL"
+      ],
+      "Expression-Based": [
+        "CD20",
+        "CD3",
+        "CD5",
+        "CD10",
+        "CD23",
+        "CD30",
+        "CD45",
+        "BCL2",
+        "Ki-67"
+      ],
+      "Pathways": [
+        "BCR signaling pathway",
+        "JAK-STAT signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "NF-kappa B signaling pathway",
+        "Notch signaling pathway"
+      ]
+    }
+  },
+  "PACT": {
+    "name": "Cystic Tumor of the Pancreas",
+    "sample_count": 32,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "GNAS",
+        "RNF43",
+        "TP53",
+        "SMAD4",
+        "PIK3CA",
+        "PTEN",
+        "BRAF",
+        "CTNNB1"
+      ],
+      "Expression-Based": [
+        "MUC1",
+        "MUC2",
+        "MUC5AC",
+        "MUC6"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway"
+      ]
+    }
+  },
+  "TET": {
+    "name": "Thymic Epithelial Tumor",
+    "sample_count": 32,
+    "recommendations": {
+      "Mutation-Based": [
+        "GTF2I",
+        "HRAS",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "FOXP3",
+        "CD5",
+        "CD70"
+      ],
+      "Pathways": [
+        "RAS signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "MCL": {
+    "name": "Mantle Cell Lymphoma",
+    "sample_count": 29,
+    "recommendations": {
+      "Mutation-Based": [
+        "CCND1",
+        "ATM",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "SOX11",
+        "CCND1"
+      ],
+      "Pathways": [
+        "Cell cycle pathway",
+        "DNA damage response pathway"
+      ]
+    }
+  },
+  "BFN": {
+    "name": "Breast Fibroepithelial Neoplasms",
+    "sample_count": 22,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Breast Fibroepithelial Neoplasms (BFN) include benign fibroadenomas and phyllodes tumors. The most commonly mutated genes in these tumors are MED12, RARA, FLNA, SETD2, and RB1. MED12 mutations are particularly common in fibroadenomas, while TP53 mutations are more common in malignant phyllodes tumors. \n\nIn terms of molecular subtyping, MED12 and RARA are often used. MED12 mutations can help differentiate between fibroadenomas and phyllodes tumors, while RARA mutations are associated with a specific subtype of fibroadenomas.\n\nFor prognosis or treatment decisions, TP53 and RB1 are important. TP53 mutations are associated with a worse prognosis in phyllodes tumors, while RB1 mutations can be used to predict response to CDK4/6 inhibitors.\n\nThe Wnt signaling pathway is also relevant in these tumors, as it is often dysregulated in fibroadenomas and phyllodes tumors.\n\nHere is the requested JSON object:\n\n{\n    \"mutation_based\": [\"MED12\", \"RARA\", \"FLNA\", \"SETD2\", \"RB1\", \"TP53\"],\n    \"expression_based\": [\"MED12\", \"RARA\"],\n    \"pathways\": [\"Wnt signaling pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  },
+  "ODG": {
+    "name": "Oligodendroglioma",
+    "sample_count": 22,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "CIC",
+        "FUBP1",
+        "TERT",
+        "1p/19q"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "Citric Acid (TCA) cycle",
+        "Cell Cycle",
+        "DNA Damage Response (only ATM)"
+      ]
+    }
+  },
+  "DESM": {
+    "name": "Desmoplastic Melanoma",
+    "sample_count": 20,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "TP53",
+        "CDKN2A",
+        "TERT"
+      ],
+      "Expression-Based": [
+        "MLANA",
+        "PMEL",
+        "TYR",
+        "MITF"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  },
+  "MBC": {
+    "name": "Metaplastic Breast Cancer",
+    "sample_count": 19,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "UCCC": {
+    "name": "Uterine Clear Cell Carcinoma",
+    "sample_count": 16,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "KRAS",
+        "PTEN",
+        "ARID1A"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "PGR",
+        "ESR1"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "Ras signaling pathway"
+      ]
+    }
+  },
+  "MPNST": {
+    "name": "Malignant Peripheral Nerve Sheath Tumor",
+    "sample_count": 15,
+    "recommendations": {
+      "Mutation-Based": [
+        "NF1",
+        "TP53",
+        "CDKN2A",
+        "SUZ12",
+        "EED"
+      ],
+      "Expression-Based": [
+        "SOX10",
+        "S100",
+        "CD34"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway",
+        "Polycomb repressive complex 2"
+      ]
+    }
+  },
+  "VSC": {
+    "name": "Squamous Cell Carcinoma of the Vulva/Vagina",
+    "sample_count": 15,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "HRAS",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "EGFR",
+        "CDKN2A",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "Ras signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  },
+  "ACBC": {
+    "name": "Adenoid Cystic Breast Cancer",
+    "sample_count": 12,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYB-NFIB fusion",
+        "NOTCH1"
+      ],
+      "Expression-Based": [
+        "MYB",
+        "NFIB"
+      ],
+      "Pathways": [
+        "MYB pathway"
+      ]
+    }
+  },
+  "SCCO": {
+    "name": "Small Cell Carcinoma of the Ovary",
+    "sample_count": 12,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Small Cell Carcinoma of the Ovary, Hypercalcemic Type (SCCOHT) is a rare, aggressive ovarian cancer that primarily affects young women. The most commonly mutated gene in SCCOHT is SMARCA4, a member of the SWI/SNF chromatin-remodeling complex. Mutations in this gene are found in over 90% of cases and are considered a hallmark of this disease. \n\nThere are no well-established expression-based markers for SCCOHT, as this disease is primarily defined by its genetic alterations rather than its gene expression profile. \n\nThe SWI/SNF chromatin-remodeling pathway, which includes SMARCA4, is the most relevant pathway for SCCOHT. This pathway is involved in DNA repair, gene expression, and cell cycle control, and its disruption can lead to uncontrolled cell growth and cancer.\n\nHere is the requested JSON object:\n\n{\n    \"mutation_based\": [\"SMARCA4\"],\n    \"expression_based\": [],\n    \"pathways\": [\"SWI/SNF chromatin-remodeling pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  },
+  "STMYEC": {
+    "name": "Soft Tissue Myoepithelial Carcinoma",
+    "sample_count": 12,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: Soft Tissue Myoepithelial Carcinoma (STMYEC) is a rare type of cancer, and as such, there is limited data on the specific genes and pathways involved. However, based on the available literature, the following genes and pathways have been implicated:\n\n{\n    \"mutation_based\": [\"EWSR1\", \"PLAG1\", \"TP53\"],\n    \"expression_based\": [],\n    \"pathways\": [\"p53 signaling pathway\"]\n}\n\nExplanation:\n\n1. EWSR1: EWSR1 gene rearrangements are commonly found in soft tissue myoepithelial carcinomas. The EWSR1-PLAG1 fusion is the most common.\n\n2. PLAG1: PLAG1 gene is often involved in the EWSR1-PLAG1 fusion in myoepithelial carcinomas.\n\n3. TP53: TP53 mutations are common in many types of cancer, including soft tissue myoepithelial carcinomas.\n\n4. p53 signaling pathway: The p53 signaling pathway is often disrupted in cancers with TP53 mutations, including soft tissue myoepithelial carcinomas.\n\nPlease note that due to the rarity of this cancer type, more research is needed to fully understand the genetic landscape and molecular subtypes of soft tissue myoepithelial carcinoma.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

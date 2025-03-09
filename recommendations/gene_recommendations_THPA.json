@@ -1,0 +1,25 @@
+{
+  "THPA": {
+    "name": "Papillary Thyroid Cancer",
+    "sample_count": 2027,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "RAS",
+        "RET",
+        "PTC",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "TERT",
+        "NTRK1",
+        "MET",
+        "ALK"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  }
+}

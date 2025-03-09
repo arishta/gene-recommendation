@@ -1,0 +1,26 @@
+{
+  "DLBCLNOS": {
+    "name": "Diffuse Large B-Cell Lymphoma, NOS",
+    "sample_count": 1338,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYD88",
+        "CD79B",
+        "EZH2",
+        "BCL2",
+        "BCL6",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CD10",
+        "BCL6",
+        "MUM1"
+      ],
+      "Pathways": [
+        "NF-kB signaling",
+        "PI3K/AKT/mTOR signaling",
+        "JAK-STAT signaling"
+      ]
+    }
+  }
+}

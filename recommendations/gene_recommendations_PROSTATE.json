@@ -1,0 +1,30 @@
+{
+  "PROSTATE": {
+    "name": "Prostate",
+    "sample_count": 2981,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "BRCA2",
+        "BRCA1",
+        "ATM",
+        "RB1",
+        "MSH2",
+        "MSH6"
+      ],
+      "Expression-Based": [
+        "ERG",
+        "ETV1",
+        "ETV4",
+        "ETV5",
+        "SPINK1"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "DNA repair pathway",
+        "Androgen receptor signaling pathway"
+      ]
+    }
+  }
+}

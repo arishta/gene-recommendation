@@ -1,0 +1,27 @@
+{
+  "CHOL": {
+    "name": "Cholangiocarcinoma",
+    "sample_count": 885,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "KRAS",
+        "BRAF",
+        "TP53",
+        "SMAD4",
+        "FGFR2"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MET",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "Notch signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway"
+      ]
+    }
+  }
+}

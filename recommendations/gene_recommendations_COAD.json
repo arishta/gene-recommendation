@@ -1,0 +1,30 @@
+{
+  "COAD": {
+    "name": "Colon Adenocarcinoma",
+    "sample_count": 1059,
+    "recommendations": {
+      "Mutation-Based": [
+        "APC",
+        "KRAS",
+        "TP53",
+        "PIK3CA",
+        "BRAF",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "MSH2",
+        "MSH6",
+        "MLH1",
+        "PMS2",
+        "EPCAM"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  }
+}

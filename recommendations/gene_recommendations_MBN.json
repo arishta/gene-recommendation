@@ -1,0 +1,29 @@
+{
+  "MBN": {
+    "name": "Mature B-Cell Neoplasms",
+    "sample_count": 1453,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYD88",
+        "CD79B",
+        "PIM1",
+        "CCND1",
+        "BCL2",
+        "BCL6",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CD20",
+        "CD19",
+        "CD22",
+        "CD79A",
+        "CD79B"
+      ],
+      "Pathways": [
+        "BCR signaling pathway",
+        "NF-kappa B signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  }
+}

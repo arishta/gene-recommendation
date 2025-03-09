@@ -1,0 +1,25 @@
+{
+  "MPN": {
+    "name": "Myeloproliferative Neoplasms",
+    "sample_count": 151,
+    "recommendations": {
+      "Mutation-Based": [
+        "JAK2",
+        "CALR",
+        "MPL",
+        "ASXL1",
+        "TET2",
+        "IDH1",
+        "IDH2",
+        "SRSF2",
+        "SF3B1",
+        "U2AF1"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "JAK-STAT signaling pathway",
+        "Spliceosome"
+      ]
+    }
+  }
+}

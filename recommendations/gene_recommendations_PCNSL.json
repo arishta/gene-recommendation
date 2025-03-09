@@ -1,0 +1,25 @@
+{
+  "PCNSL": {
+    "name": "Primary DLBCL of the central nervous system",
+    "sample_count": 105,
+    "recommendations": {
+      "Mutation-Based": [
+        "MYD88",
+        "CD79B",
+        "PIM1",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "BCL6",
+        "MUM1",
+        "CD10",
+        "FOXP1"
+      ],
+      "Pathways": [
+        "NF-kB pathway",
+        "JAK-STAT pathway",
+        "B-cell receptor signaling pathway"
+      ]
+    }
+  }
+}

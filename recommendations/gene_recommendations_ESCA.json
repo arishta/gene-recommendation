@@ -1,0 +1,28 @@
+{
+  "ESCA": {
+    "name": "Esophageal Adenocarcinoma",
+    "sample_count": 705,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "SMAD4",
+        "PIK3CA",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "VEGFA",
+        "EGFR",
+        "MET"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "Cell cycle",
+        "PI3K-Akt signaling pathway",
+        "Ras signaling pathway",
+        "VEGF signaling pathway"
+      ]
+    }
+  }
+}

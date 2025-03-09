@@ -1,0 +1,24 @@
+{
+  "UEC": {
+    "name": "Uterine Endometrioid Carcinoma",
+    "sample_count": 292,
+    "recommendations": {
+      "Mutation-Based": [
+        "PTEN",
+        "PIK3CA",
+        "KRAS",
+        "ARID1A",
+        "CTNNB1"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "PI3K/AKT pathway",
+        "Wnt signaling pathway"
+      ]
+    }
+  }
+}

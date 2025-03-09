@@ -1,0 +1,35 @@
+{
+  "MTNN": {
+    "name": "Mature T and NK Neoplasms",
+    "sample_count": 132,
+    "recommendations": {
+      "Mutation-Based": [
+        "STAT3",
+        "STAT5B",
+        "JAK3",
+        "TP53",
+        "DNMT3A",
+        "TET2",
+        "IDH2",
+        "KRAS",
+        "NRAS",
+        "FLT3"
+      ],
+      "Expression-Based": [
+        "CD2",
+        "CD3",
+        "CD4",
+        "CD5",
+        "CD7",
+        "CD8",
+        "CD56"
+      ],
+      "Pathways": [
+        "JAK-STAT pathway",
+        "RAS-MAPK pathway",
+        "FLT3 signaling pathway",
+        "DNA methylation"
+      ]
+    }
+  }
+}

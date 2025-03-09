@@ -1,0 +1,27 @@
+{
+  "BLCA": {
+    "name": "Bladder Urothelial Carcinoma",
+    "sample_count": 3199,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "FGFR3",
+        "PIK3CA",
+        "RB1",
+        "ERBB2"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "EGFR",
+        "CDKN2A",
+        "MDM2",
+        "CCND1"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "UCS": {
+    "name": "Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor",
+    "sample_count": 193,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "PTEN",
+        "KRAS",
+        "PPP2R1A"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MLH1",
+        "MSH2",
+        "MSH6",
+        "PMS2"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "Mismatch repair"
+      ]
+    }
+  }
+}

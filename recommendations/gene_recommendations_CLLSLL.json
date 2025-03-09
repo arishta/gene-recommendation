@@ -1,0 +1,25 @@
+{
+  "CLLSLL": {
+    "name": "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
+    "sample_count": 2462,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "NOTCH1",
+        "SF3B1",
+        "BIRC3",
+        "MYD88"
+      ],
+      "Expression-Based": [
+        "ZAP70",
+        "CD38",
+        "IGHV"
+      ],
+      "Pathways": [
+        "NOTCH signaling pathway",
+        "NF-kappa B signaling pathway",
+        "BCR signaling pathway"
+      ]
+    }
+  }
+}

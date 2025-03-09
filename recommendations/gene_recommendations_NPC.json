@@ -1,0 +1,26 @@
+{
+  "NPC": {
+    "name": "Nasopharyngeal Carcinoma",
+    "sample_count": 56,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "CDKN2A",
+        "PIK3CA",
+        "KRAS",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "EBV",
+        "LMP1",
+        "LMP2",
+        "EBNA1"
+      ],
+      "Pathways": [
+        "PI3K/Akt/mTOR pathway",
+        "Ras/Raf/MEK/ERK pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

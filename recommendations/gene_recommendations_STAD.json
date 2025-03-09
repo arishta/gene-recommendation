@@ -1,0 +1,29 @@
+{
+  "STAD": {
+    "name": "Stomach Adenocarcinoma",
+    "sample_count": 1955,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "PIK3CA",
+        "ARID1A",
+        "CDH1"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "VEGFA",
+        "EGFR",
+        "MET",
+        "FGFR2"
+      ],
+      "Pathways": [
+        "RTK-RAS",
+        "PI3K",
+        "Cell Cycle",
+        "Wnt",
+        "TGF-beta"
+      ]
+    }
+  }
+}

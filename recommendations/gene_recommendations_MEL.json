@@ -1,0 +1,29 @@
+{
+  "MEL": {
+    "name": "Melanoma",
+    "sample_count": 220,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "KIT",
+        "GNAQ",
+        "GNA11",
+        "TP53",
+        "CDKN2A",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "MITF",
+        "SOX10",
+        "S100",
+        "HMB45"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

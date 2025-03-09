@@ -1,0 +1,27 @@
+{
+  "ESCC": {
+    "name": "Esophageal Squamous Cell Carcinoma",
+    "sample_count": 227,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "NOTCH1",
+        "PIK3CA",
+        "CDKN2A",
+        "FBXW7"
+      ],
+      "Expression-Based": [
+        "SOX2",
+        "TP63",
+        "KRT5",
+        "CCND1",
+        "EGFR"
+      ],
+      "Pathways": [
+        "Notch signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

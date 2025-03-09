@@ -1,0 +1,22 @@
+{
+  "ES": {
+    "name": "Ewing Sarcoma",
+    "sample_count": 512,
+    "recommendations": {
+      "Mutation-Based": [
+        "EWSR1",
+        "FLI1",
+        "ERG"
+      ],
+      "Expression-Based": [
+        "NKX2-2",
+        "CCNB1",
+        "CD99"
+      ],
+      "Pathways": [
+        "Insulin-like growth factor 1 (IGF-1) pathway",
+        "Wnt signaling pathway"
+      ]
+    }
+  }
+}

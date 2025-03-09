@@ -1,0 +1,20 @@
+{
+  "URCC": {
+    "name": "Unclassified Renal Cell Carcinoma",
+    "sample_count": 62,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "PBRM1",
+        "SETD2",
+        "BAP1",
+        "TP53"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "HIF-1 signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

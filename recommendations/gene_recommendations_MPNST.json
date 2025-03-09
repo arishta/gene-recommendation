@@ -1,0 +1,25 @@
+{
+  "MPNST": {
+    "name": "Malignant Peripheral Nerve Sheath Tumor",
+    "sample_count": 15,
+    "recommendations": {
+      "Mutation-Based": [
+        "NF1",
+        "TP53",
+        "CDKN2A",
+        "SUZ12",
+        "EED"
+      ],
+      "Expression-Based": [
+        "SOX10",
+        "S100",
+        "CD34"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway",
+        "Polycomb repressive complex 2"
+      ]
+    }
+  }
+}

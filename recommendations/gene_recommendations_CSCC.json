@@ -1,0 +1,27 @@
+{
+  "CSCC": {
+    "name": "Cutaneous Squamous Cell Carcinoma",
+    "sample_count": 176,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "NOTCH1",
+        "CDKN2A",
+        "HRAS",
+        "EGFR"
+      ],
+      "Expression-Based": [
+        "S100A7",
+        "KRT5",
+        "KRT14",
+        "KRT17"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "Notch signaling pathway",
+        "RAS signaling pathway",
+        "EGFR tyrosine kinase inhibitor resistance"
+      ]
+    }
+  }
+}

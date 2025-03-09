@@ -1,0 +1,22 @@
+{
+  "TET": {
+    "name": "Thymic Epithelial Tumor",
+    "sample_count": 32,
+    "recommendations": {
+      "Mutation-Based": [
+        "GTF2I",
+        "HRAS",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "FOXP3",
+        "CD5",
+        "CD70"
+      ],
+      "Pathways": [
+        "RAS signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

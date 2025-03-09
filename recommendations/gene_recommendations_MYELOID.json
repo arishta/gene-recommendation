@@ -1,0 +1,34 @@
+{
+  "MYELOID": {
+    "name": "Myeloid",
+    "sample_count": 44,
+    "recommendations": {
+      "Mutation-Based": [
+        "NPM1",
+        "FLT3",
+        "CEBPA",
+        "RUNX1",
+        "TP53",
+        "ASXL1",
+        "TET2",
+        "DNMT3A",
+        "IDH1",
+        "IDH2"
+      ],
+      "Expression-Based": [
+        "BAALC",
+        "ERG",
+        "WT1",
+        "MN1",
+        "PRAME"
+      ],
+      "Pathways": [
+        "JAK-STAT signaling pathway",
+        "RAS signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "MAPK signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

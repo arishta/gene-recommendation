@@ -1,0 +1,24 @@
+{
+  "PANET": {
+    "name": "Pancreatic Neuroendocrine Tumor",
+    "sample_count": 214,
+    "recommendations": {
+      "Mutation-Based": [
+        "MEN1",
+        "DAXX",
+        "ATRX",
+        "TP53",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "CHGA",
+        "SYP",
+        "INS"
+      ],
+      "Pathways": [
+        "mTOR signaling pathway",
+        "Cell cycle pathway"
+      ]
+    }
+  }
+}

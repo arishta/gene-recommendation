@@ -1,0 +1,35 @@
+{
+  "LUNG": {
+    "name": "Lung",
+    "sample_count": 687,
+    "recommendations": {
+      "Mutation-Based": [
+        "EGFR",
+        "KRAS",
+        "ALK",
+        "ROS1",
+        "BRAF",
+        "MET",
+        "RET",
+        "TP53",
+        "PIK3CA",
+        "PTEN"
+      ],
+      "Expression-Based": [
+        "PD-L1",
+        "TTF-1",
+        "Napsin A"
+      ],
+      "Pathways": [
+        "EGFR signaling pathway",
+        "KRAS signaling pathway",
+        "ALK fusion",
+        "ROS1 fusion",
+        "BRAF mutation pathway",
+        "MET exon 14 skipping",
+        "RET rearrangements",
+        "PI3K/AKT/mTOR pathway"
+      ]
+    }
+  }
+}

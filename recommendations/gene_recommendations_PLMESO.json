@@ -1,0 +1,26 @@
+{
+  "PLMESO": {
+    "name": "Pleural Mesothelioma",
+    "sample_count": 297,
+    "recommendations": {
+      "Mutation-Based": [
+        "BAP1",
+        "NF2",
+        "CDKN2A",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "WT1",
+        "CALB2",
+        "MSLN",
+        "THBS2",
+        "D2-40"
+      ],
+      "Pathways": [
+        "Hippo signaling pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

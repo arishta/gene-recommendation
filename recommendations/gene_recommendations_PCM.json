@@ -1,0 +1,30 @@
+{
+  "PCM": {
+    "name": "Plasma Cell Myeloma",
+    "sample_count": 211,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "NRAS",
+        "BRAF",
+        "TP53",
+        "FGFR3",
+        "MMSET",
+        "CCND1",
+        "MYC"
+      ],
+      "Expression-Based": [
+        "CCND1",
+        "MAF",
+        "MMSET",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "TP53 pathway",
+        "NF-kB pathway",
+        "PI3K/AKT pathway"
+      ]
+    }
+  }
+}

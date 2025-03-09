@@ -1,0 +1,25 @@
+{
+  "USARC": {
+    "name": "Uterine Sarcoma/Mesenchymal",
+    "sample_count": 108,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PTEN",
+        "PIK3CA",
+        "FBXW7",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "p53 signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Ras signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "GIST": {
+    "name": "Gastrointestinal Stromal Tumor",
+    "sample_count": 968,
+    "recommendations": {
+      "Mutation-Based": [
+        "KIT",
+        "PDGFRA",
+        "SDH",
+        "BRAF",
+        "NF1"
+      ],
+      "Expression-Based": [
+        "DOG1",
+        "CD34",
+        "S100",
+        "Desmin"
+      ],
+      "Pathways": [
+        "RTK/RAS pathway",
+        "SDH complex pathway"
+      ]
+    }
+  }
+}

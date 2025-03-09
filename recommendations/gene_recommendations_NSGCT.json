@@ -1,0 +1,24 @@
+{
+  "NSGCT": {
+    "name": "Non-Seminomatous Germ Cell Tumor",
+    "sample_count": 312,
+    "recommendations": {
+      "Mutation-Based": [
+        "KIT",
+        "KRAS",
+        "NRAS",
+        "BRAF",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "AFP",
+        "HCG",
+        "LDH"
+      ],
+      "Pathways": [
+        "RAS/MAPK pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

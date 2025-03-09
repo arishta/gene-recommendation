@@ -1,0 +1,32 @@
+{
+  "DIFG": {
+    "name": "Diffuse Glioma",
+    "sample_count": 5062,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "TP53",
+        "ATRX",
+        "EGFR",
+        "PTEN",
+        "NF1",
+        "PDGFRA",
+        "PIK3CA",
+        "BRAF"
+      ],
+      "Expression-Based": [
+        "GFAP",
+        "OLIG2",
+        "SOX2",
+        "Nestin",
+        "Vimentin"
+      ],
+      "Pathways": [
+        "RTK/RAS/PI(3)K pathway",
+        "p53 pathway",
+        "Glioma CpG island methylator phenotype (G-CIMP)"
+      ]
+    }
+  }
+}

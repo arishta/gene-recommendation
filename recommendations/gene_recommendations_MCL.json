@@ -1,0 +1,21 @@
+{
+  "MCL": {
+    "name": "Mantle Cell Lymphoma",
+    "sample_count": 29,
+    "recommendations": {
+      "Mutation-Based": [
+        "CCND1",
+        "ATM",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "SOX11",
+        "CCND1"
+      ],
+      "Pathways": [
+        "Cell cycle pathway",
+        "DNA damage response pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ODG": {
+    "name": "Oligodendroglioma",
+    "sample_count": 22,
+    "recommendations": {
+      "Mutation-Based": [
+        "IDH1",
+        "IDH2",
+        "CIC",
+        "FUBP1",
+        "TERT",
+        "1p/19q"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "Citric Acid (TCA) cycle",
+        "Cell Cycle",
+        "DNA Damage Response (only ATM)"
+      ]
+    }
+  }
+}

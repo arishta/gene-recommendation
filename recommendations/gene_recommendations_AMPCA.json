@@ -1,0 +1,27 @@
+{
+  "AMPCA": {
+    "name": "Ampullary Carcinoma",
+    "sample_count": 160,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "TP53",
+        "SMAD4",
+        "PIK3CA",
+        "APC"
+      ],
+      "Expression-Based": [
+        "MUC1",
+        "MUC2",
+        "CDX2",
+        "CK20",
+        "CK7"
+      ],
+      "Pathways": [
+        "Wnt signaling pathway",
+        "TGF-beta signaling pathway",
+        "PI3K-Akt signaling pathway"
+      ]
+    }
+  }
+}

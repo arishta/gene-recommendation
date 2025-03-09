@@ -1,0 +1,34 @@
+{
+  "MNM": {
+    "name": "Myeloid Neoplasm",
+    "sample_count": 136,
+    "recommendations": {
+      "Mutation-Based": [
+        "FLT3",
+        "NPM1",
+        "CEBPA",
+        "RUNX1",
+        "TP53",
+        "IDH1",
+        "IDH2",
+        "KIT",
+        "ASXL1",
+        "TET2"
+      ],
+      "Expression-Based": [
+        "BAALC",
+        "WT1",
+        "ERG",
+        "MN1",
+        "PRAME"
+      ],
+      "Pathways": [
+        "FLT3 signaling",
+        "RAS signaling",
+        "JAK-STAT signaling",
+        "p53 signaling",
+        "Cell cycle"
+      ]
+    }
+  }
+}

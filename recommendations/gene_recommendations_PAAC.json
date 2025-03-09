@@ -1,0 +1,23 @@
+{
+  "PAAC": {
+    "name": "Acinar Cell Carcinoma of the Pancreas",
+    "sample_count": 70,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "SMAD4",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "MUC1",
+        "MUC2",
+        "MUC5AC"
+      ],
+      "Pathways": [
+        "TGF-beta signaling pathway",
+        "Pancreatic adenocarcinoma pathway"
+      ]
+    }
+  }
+}

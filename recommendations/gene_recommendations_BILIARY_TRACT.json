@@ -1,0 +1,29 @@
+{
+  "BILIARY_TRACT": {
+    "name": "Biliary Tract",
+    "sample_count": 36,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "KRAS",
+        "SMAD4",
+        "IDH1",
+        "IDH2",
+        "BAP1",
+        "ARID1A",
+        "PIK3CA",
+        "FGFR2"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "MET",
+        "EGFR"
+      ],
+      "Pathways": [
+        "PI3K/AKT/mTOR pathway",
+        "RAS/RAF/MEK/ERK pathway",
+        "TGF-beta signaling pathway"
+      ]
+    }
+  }
+}

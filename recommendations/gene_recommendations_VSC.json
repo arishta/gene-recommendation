@@ -1,0 +1,24 @@
+{
+  "VSC": {
+    "name": "Squamous Cell Carcinoma of the Vulva/Vagina",
+    "sample_count": 15,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "HRAS",
+        "KRAS"
+      ],
+      "Expression-Based": [
+        "EGFR",
+        "CDKN2A",
+        "FGFR3"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "Ras signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "MNET": {
+    "name": "Miscellaneous Neuroepithelial Tumor",
+    "sample_count": 368,
+    "recommendations": {
+      "Mutation-Based": [],
+      "Expression-Based": [],
+      "Pathways": [],
+      "error": "Invalid json output: I'm sorry, but there isn't enough specific information available on the genetic markers and pathways for Miscellaneous Neuroepithelial Tumor (OncoTree code: MNET) to provide a detailed JSON object as requested. This is a rare and diverse group of tumors, and the genetic landscape is not well-defined. \n\nHowever, neuroepithelial tumors in general are often associated with alterations in genes such as TP53, PTEN, EGFR, and IDH1/IDH2, and pathways such as the p53 signaling pathway, PI3K-Akt signaling pathway, and MAPK signaling pathway. \n\nPlease note that this information is general to neuroepithelial tumors and may not apply to all cases of MNET. It's also important to note that the genetic landscape of a tumor can vary greatly between individuals, and genetic testing should be performed to determine the specific alterations present in each case.\n\nHere is a general JSON object based on the information available:\n\n{\n    \"mutation_based\": [\"TP53\", \"PTEN\", \"EGFR\", \"IDH1\", \"IDH2\"],\n    \"expression_based\": [],\n    \"pathways\": [\"p53 signaling pathway\", \"PI3K-Akt signaling pathway\", \"MAPK signaling pathway\"]\n}\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE "
+    }
+  }
+}

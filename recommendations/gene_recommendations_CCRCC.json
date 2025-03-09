@@ -1,0 +1,29 @@
+{
+  "CCRCC": {
+    "name": "Renal Clear Cell Carcinoma",
+    "sample_count": 2351,
+    "recommendations": {
+      "Mutation-Based": [
+        "VHL",
+        "PBRM1",
+        "SETD2",
+        "BAP1",
+        "KDM5C",
+        "MTOR",
+        "TP53"
+      ],
+      "Expression-Based": [
+        "CA9",
+        "CD70",
+        "KRT7",
+        "AMACR",
+        "CD10"
+      ],
+      "Pathways": [
+        "Hypoxia-inducible factor (HIF) pathway",
+        "PI3K/AKT/mTOR pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

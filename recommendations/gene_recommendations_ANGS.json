@@ -1,0 +1,22 @@
+{
+  "ANGS": {
+    "name": "Angiosarcoma",
+    "sample_count": 131,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "MYC"
+      ],
+      "Expression-Based": [
+        "FLT4",
+        "KDR",
+        "VEGFA"
+      ],
+      "Pathways": [
+        "PI3K-Akt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

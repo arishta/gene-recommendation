@@ -1,0 +1,25 @@
+{
+  "UCCC": {
+    "name": "Uterine Clear Cell Carcinoma",
+    "sample_count": 16,
+    "recommendations": {
+      "Mutation-Based": [
+        "TP53",
+        "PIK3CA",
+        "KRAS",
+        "PTEN",
+        "ARID1A"
+      ],
+      "Expression-Based": [
+        "ERBB2",
+        "PGR",
+        "ESR1"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "p53 signaling pathway",
+        "Ras signaling pathway"
+      ]
+    }
+  }
+}

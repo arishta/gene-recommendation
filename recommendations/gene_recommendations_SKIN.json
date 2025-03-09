@@ -1,0 +1,26 @@
+{
+  "SKIN": {
+    "name": "Skin",
+    "sample_count": 307,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRAF",
+        "NRAS",
+        "KIT",
+        "TP53",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "MITF",
+        "SOX10",
+        "S100",
+        "HMB45"
+      ],
+      "Pathways": [
+        "MAPK signaling pathway",
+        "PI3K-Akt signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}

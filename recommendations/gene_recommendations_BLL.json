@@ -1,0 +1,33 @@
+{
+  "BLL": {
+    "name": "B-Lymphoblastic Leukemia/Lymphoma",
+    "sample_count": 3065,
+    "recommendations": {
+      "Mutation-Based": [
+        "BCR-ABL1",
+        "ETV6-RUNX1",
+        "TCF3-PBX1",
+        "MLL",
+        "TAL1",
+        "TP53",
+        "IKZF1",
+        "JAK2",
+        "PAX5",
+        "CDKN2A"
+      ],
+      "Expression-Based": [
+        "BCR-ABL1",
+        "ETV6-RUNX1",
+        "TCF3-PBX1",
+        "MLL",
+        "TAL1"
+      ],
+      "Pathways": [
+        "BCR-ABL1 pathway",
+        "JAK-STAT pathway",
+        "Pre-B Cell Receptor Signaling",
+        "TP53 pathway"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "UCEC": {
+    "name": "Endometrial Carcinoma",
+    "sample_count": 4453,
+    "recommendations": {
+      "Mutation-Based": [
+        "PTEN",
+        "PIK3CA",
+        "KRAS",
+        "TP53",
+        "CTNNB1",
+        "ARID1A"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2"
+      ],
+      "Pathways": [
+        "PI3K/AKT pathway",
+        "Wnt signaling pathway",
+        "p53 signaling pathway"
+      ]
+    }
+  }
+}

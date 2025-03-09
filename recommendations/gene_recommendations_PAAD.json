@@ -1,0 +1,24 @@
+{
+  "PAAD": {
+    "name": "Pancreatic Adenocarcinoma",
+    "sample_count": 1360,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "TP53",
+        "CDKN2A",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "GATA6",
+        "HNF1A",
+        "KRT81"
+      ],
+      "Pathways": [
+        "RAS signaling pathway",
+        "p53 signaling pathway",
+        "Pancreatic cancer pathway"
+      ]
+    }
+  }
+}

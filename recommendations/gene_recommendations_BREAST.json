@@ -1,0 +1,29 @@
+{
+  "BREAST": {
+    "name": "Breast",
+    "sample_count": 3603,
+    "recommendations": {
+      "Mutation-Based": [
+        "BRCA1",
+        "BRCA2",
+        "TP53",
+        "PIK3CA",
+        "PTEN",
+        "AKT1",
+        "CDH1",
+        "ERBB2"
+      ],
+      "Expression-Based": [
+        "ER",
+        "PR",
+        "HER2",
+        "Ki-67"
+      ],
+      "Pathways": [
+        "PI3K/Akt signaling pathway",
+        "ER signaling pathway",
+        "HER2 signaling pathway"
+      ]
+    }
+  }
+}

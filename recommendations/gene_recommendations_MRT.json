@@ -1,0 +1,16 @@
+{
+  "MRT": {
+    "name": "Rhabdoid Cancer",
+    "sample_count": 112,
+    "recommendations": {
+      "Mutation-Based": [
+        "SMARCB1",
+        "SMARCA4"
+      ],
+      "Expression-Based": [],
+      "Pathways": [
+        "SWI/SNF complex"
+      ]
+    }
+  }
+}

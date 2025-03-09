@@ -1,0 +1,24 @@
+{
+  "PANCREAS": {
+    "name": "Pancreas",
+    "sample_count": 2935,
+    "recommendations": {
+      "Mutation-Based": [
+        "KRAS",
+        "TP53",
+        "CDKN2A",
+        "SMAD4"
+      ],
+      "Expression-Based": [
+        "GATA6",
+        "HNF1A",
+        "KRT81"
+      ],
+      "Pathways": [
+        "Ras signaling pathway",
+        "p53 signaling pathway",
+        "Cell cycle"
+      ]
+    }
+  }
+}
