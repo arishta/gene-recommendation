@@ -1,0 +1,8 @@
+{
+  "template": "\n    You are a genomics expert specializing in cancer genomics. \n    Which genes and pathways are relevant for classifying {cancer_type} (OncoTree code: {oncotree_code})? \n    Consider genes that are:\n    1. Commonly mutated in this cancer type\n    2. Used for molecular subtyping\n    3. Associated with prognosis or treatment decisions\n    4. Well-established in clinical or research settings\n    Please only include well-established genes that are known to be important for the molecular \n    classification of {cancer_type}. Do not include speculative or rarely used markers.\n    {format_instructions}\n    ",
+  "input_variables": [
+    "cancer_type",
+    "format_instructions",
+    "oncotree_code"
+  ]
+}

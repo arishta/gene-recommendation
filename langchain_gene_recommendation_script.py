@@ -3,9 +3,9 @@ import time
 import os
 from typing import List, Dict, Any
 from langchain_openai import ChatOpenAI
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
-from pydantic.v1 import BaseModel, Field  # Updated import
+from pydantic.v1 import BaseModel, Field 
 
 class GeneRecommendations(BaseModel):
     mutation_based: List[str] = Field(description="Genes commonly mutated in this cancer type")
@@ -41,18 +41,10 @@ def get_oncotree_name(code: str) -> str:
 def setup_langchain_pipeline():
     llm = ChatOpenAI(model="gpt-4", temperature=0.2)
     parser = JsonOutputParser(pydantic_object=GeneRecommendations)
-    prompt_template = ChatPromptTemplate.from_template("""
-    You are a genomics expert specializing in cancer genomics. 
-    Which genes and pathways are relevant for classifying {cancer_type} (OncoTree code: {oncotree_code})? 
-    Consider genes that are:
-    1. Commonly mutated in this cancer type
-    2. Used for molecular subtyping
-    3. Associated with prognosis or treatment decisions
-    4. Well-established in clinical or research settings
-    Please only include well-established genes that are known to be important for the molecular 
-    classification of {cancer_type}. Do not include speculative or rarely used markers.
-    {format_instructions}
-    """)
+    prompt_template = PromptTemplate(
+        template=json.load(open('template.json', 'r'))["template"],
+        input_variables=json.load(open('template.json', 'r'))["input_variables"]
+    )
     return prompt_template | llm | parser
 
 def generate_gene_recommendations(cancer_type: str, oncotree_code: str, chain) -> Dict[str, List[str]]:
